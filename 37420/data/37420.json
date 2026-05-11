@@ -1,0 +1,5114 @@
+[
+  {
+    "id": "node:4770648523",
+    "name": "Gite Chambres d'Hotes",
+    "category": "tourism:chalet",
+    "subcategory": "chalet",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "15 Rue des Fougeres, 37420",
+    "phone": "+33 2 47 95 57 85",
+    "email": "dm.cutini@orange.fr",
+    "website": "http://www.lajuranvillerie.com",
+    "lat": 47.2455869,
+    "lon": 0.3193608,
+    "opening_hours": "Mo-Su 06:00-20:00",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/4770648523",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2455869,0.3193608",
+    "website_status": "yes",
+    "website_confidence": "high",
+    "website_evidence": "website tag présent dans OpenStreetMap",
+    "search_results": [],
+    "priority": "low",
+    "prospect_score": 5
+  },
+  {
+    "id": "way:333237516",
+    "name": "La Fritillaire",
+    "category": "tourism:camp_site",
+    "subcategory": "camp_site",
+    "commune": "Savigny-en-Véron",
+    "postal_code": "37420",
+    "address": "Rue Basse, 37420 Savigny-en-Véron",
+    "phone": "+33 2 47 58 03 79",
+    "email": "lafritillaire@orange.fr",
+    "website": "https://www.campinglafritillaire.com/",
+    "lat": 47.2001165,
+    "lon": 0.1387287,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/way/333237516",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2001165,0.1387287",
+    "website_status": "yes",
+    "website_confidence": "high",
+    "website_evidence": "website tag présent dans OpenStreetMap",
+    "search_results": [],
+    "priority": "low",
+    "prospect_score": 5
+  },
+  {
+    "id": "way:124992432",
+    "name": "Le Château d'Isoré",
+    "category": "tourism:guest_house",
+    "subcategory": "guest_house",
+    "commune": "Beaumont-en-Véron",
+    "postal_code": "37420",
+    "address": "Rue d'Isoré, 37420 Beaumont-en-Véron",
+    "phone": "+33 2 47 58 08 41",
+    "email": "info@chateaudisore.eu",
+    "website": "https://www.chateaudisore.eu/",
+    "lat": 47.2057465,
+    "lon": 0.2076805,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/way/124992432",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2057465,0.2076805",
+    "website_status": "yes",
+    "website_confidence": "high",
+    "website_evidence": "website tag présent dans OpenStreetMap",
+    "search_results": [],
+    "priority": "low",
+    "prospect_score": 5
+  },
+  {
+    "id": "node:12881327259",
+    "name": "Julien Distribution",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "+33 2 47 58 49 16",
+    "email": "julien.distribution@gmail.com;christian.julien@orange.fr",
+    "website": "https://www.salaison-julien.fr",
+    "lat": 47.2040598,
+    "lon": 0.1740274,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/12881327259",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2040598,0.1740274",
+    "website_status": "yes",
+    "website_confidence": "high",
+    "website_evidence": "website tag présent dans OpenStreetMap",
+    "search_results": [],
+    "priority": "low",
+    "prospect_score": 4
+  },
+  {
+    "id": "way:128306955",
+    "name": "Le Jeanne d'Arc",
+    "category": "amenity:bar",
+    "subcategory": "bar",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "+33 2 47 58 92 53",
+    "email": "snack-bar.le-jeanne-d-arc@orange.fr",
+    "website": "https://www.bistrotdepays.com/le-jeanne-darc",
+    "lat": 47.2327545,
+    "lon": 0.2523155,
+    "opening_hours": "Tu-Fr 07:30-20:00; Sa 09:00-20:00; Su 09:00-13:30",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/way/128306955",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2327545,0.2523155",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (bistrotdepays.com)",
+    "search_results": [
+      {
+        "url": "https://www.bistrotdepays.com/le-jeanne-darc",
+        "title": "Le Jeanne d'Arc - Bistrot de Pays à Huismes - Restaurant"
+      },
+      {
+        "url": "https://www.facebook.com/profile.php/?id=100076229186757",
+        "title": "Le Jeanne d'Arc | Huismes - Facebook"
+      },
+      {
+        "url": "https://entreprise.one/huismes-centre-val-de-loire/restaurant/bistrot-le-jeanne-d-arc-huismes/",
+        "title": "BISTROT LE JEANNE D ARC — Restaurant à Huismes"
+      },
+      {
+        "url": "https://www.azay-chinon-valdeloire.com/en/fiches/bistrot-le-jeanne-darc/",
+        "title": "Bistrot le Jeanne D’Arc | Azay Chinon - Val de Loire"
+      },
+      {
+        "url": "https://traiteur-aubergejeannedarc.fr/3650/restaurant-traditionnel.html",
+        "title": "Auberge Jeanne D'Arc | Restaurant de cuisine française traditionnelle ..."
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 4
+  },
+  {
+    "id": "way:124995022",
+    "name": "Pharmacie Fraillon",
+    "category": "amenity:pharmacy",
+    "subcategory": "pharmacy",
+    "commune": "Beaumont-en-Véron",
+    "postal_code": "37420",
+    "address": "9, Beaumont-en-Véron",
+    "phone": "+33 2 47 58 94 39",
+    "email": "",
+    "website": "",
+    "lat": 47.197831,
+    "lon": 0.1842535,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/way/124995022",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.197831,0.1842535",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (autodesk.com)",
+    "search_results": [
+      {
+        "url": "https://www.autodesk.com/pl?msockid=069a6c9c0a3e6f9d1c227bca0bae6e50",
+        "title": "Autodesk | Oprogramowanie 3D dla branży architektonicznej ..."
+      },
+      {
+        "url": "https://www.autodesk.pl/content/dotcom/qa-automation/products/autocad/overview",
+        "title": "Overview - autodesk.pl"
+      },
+      {
+        "url": "https://pl.wikipedia.org/wiki/Autodesk",
+        "title": "Autodesk – Wikipedia, wolna encyklopedia"
+      },
+      {
+        "url": "https://manage.autodesk.com/home",
+        "title": "Autodesk Account"
+      },
+      {
+        "url": "https://www.autodesk.com/?msockid=069a6c9c0a3e6f9d1c227bca0bae6e50",
+        "title": "Autodesk | 3D Design, Engineering & Construction Software"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 4
+  },
+  {
+    "id": "way:499843944",
+    "name": "Camping municipal De La Blardière",
+    "category": "tourism:camp_site",
+    "subcategory": "camp_site",
+    "commune": "Rigny-Ussé",
+    "postal_code": "37420",
+    "address": "37420 Rigny-Ussé",
+    "phone": "+33 2 47 95 55 85",
+    "email": "",
+    "website": "https://www.camping-rigny-usse.com/",
+    "lat": 47.2553421,
+    "lon": 0.3032184,
+    "opening_hours": "Mo-Su 18:30-20:30",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/way/499843944",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2553421,0.3032184",
+    "website_status": "yes",
+    "website_confidence": "high",
+    "website_evidence": "website tag présent dans OpenStreetMap",
+    "search_results": [],
+    "priority": "low",
+    "prospect_score": 3
+  },
+  {
+    "id": "node:4947205076",
+    "name": "Cheviré",
+    "category": "tourism:guest_house",
+    "subcategory": "guest_house",
+    "commune": "Savigny en Véron",
+    "postal_code": "37420",
+    "address": "11 Rue Basse, 37420 Savigny en Véron",
+    "phone": "+33 2 47 58 42 49",
+    "email": "",
+    "website": "http://www.ch-hotes-chevire.fr/",
+    "lat": 47.2032156,
+    "lon": 0.1328659,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/4947205076",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2032156,0.1328659",
+    "website_status": "yes",
+    "website_confidence": "high",
+    "website_evidence": "website tag présent dans OpenStreetMap",
+    "search_results": [],
+    "priority": "low",
+    "prospect_score": 3
+  },
+  {
+    "id": "way:62412565",
+    "name": "Crédit Agricole",
+    "category": "amenity:bank",
+    "subcategory": "bank",
+    "commune": "Avoine",
+    "postal_code": "37420",
+    "address": "Rue des Écoles, 37420 Avoine",
+    "phone": "+33 2 47 93 66 86",
+    "email": "",
+    "website": "https://www.credit-agricole.fr/particulier/agence/touraine-poitou/avoine-4996.html",
+    "lat": 47.2053569,
+    "lon": 0.1834408,
+    "opening_hours": "Tu-We 08:45-12:30,13:45-18:00; Th 08:45-12:15,15:15-18:00; Fr 08:45-12:30,13:45-18:00; Sa 08:45-13:00",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/way/62412565",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2053569,0.1834408",
+    "website_status": "yes",
+    "website_confidence": "high",
+    "website_evidence": "website tag présent dans OpenStreetMap",
+    "search_results": [],
+    "priority": "low",
+    "prospect_score": 3
+  },
+  {
+    "id": "way:207799176",
+    "name": "Ecomusée du Véron",
+    "category": "tourism:museum",
+    "subcategory": "museum",
+    "commune": "Savigny-en-Véron",
+    "postal_code": "37420",
+    "address": "80 Route de Candes, 37420 Savigny-en-Véron",
+    "phone": "+33 2 47 58 09 05",
+    "email": "",
+    "website": "https://www.ecomusee-veron.fr/",
+    "lat": 47.2094353,
+    "lon": 0.1244004,
+    "opening_hours": "10:00-12:30, 14:00-18:00",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/way/207799176",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2094353,0.1244004",
+    "website_status": "yes",
+    "website_confidence": "high",
+    "website_evidence": "website tag présent dans OpenStreetMap",
+    "search_results": [],
+    "priority": "low",
+    "prospect_score": 3
+  },
+  {
+    "id": "node:4947205075",
+    "name": "En Passant",
+    "category": "tourism:guest_house",
+    "subcategory": "guest_house",
+    "commune": "Savigny en Véron",
+    "postal_code": "37420",
+    "address": "3 Rue de la Berthelonnière, 37420 Savigny en Véron",
+    "phone": "+33 2 47 58 85 85",
+    "email": "",
+    "website": "http://www.chinonenpassant.com/",
+    "lat": 47.206717,
+    "lon": 0.1407523,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/4947205075",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.206717,0.1407523",
+    "website_status": "yes",
+    "website_confidence": "high",
+    "website_evidence": "website tag présent dans OpenStreetMap",
+    "search_results": [],
+    "priority": "low",
+    "prospect_score": 3
+  },
+  {
+    "id": "way:983042610",
+    "name": "L'Héroz'o",
+    "category": "amenity:restaurant",
+    "subcategory": "restaurant",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "1 Rue Paul Langevin, 37420",
+    "phone": "+33 2 47 58 93 10",
+    "email": "",
+    "website": "https://fr.restaurantguru.com/LHerozo-Beaumont-en-Veron#:~:text=L%27H%C3%A9roz%27o%20%C3%A0%20Beaumont-en-V%C3%A9ron%20class%C3%A9%204.2%20sur%205%20sur,photos.%20Exlorer%20le%20menu%2C%20consulter%20les%20heures%20d%27ouverture",
+    "lat": 47.211133,
+    "lon": 0.1714815,
+    "opening_hours": "Mo,Su off; Tu-Th 11:45-14:00,19:00-21:30; Fr 11:45-14:00,19:00-22:30; Sa 19:00-23:00",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/way/983042610",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.211133,0.1714815",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (fr.restaurantguru.com)",
+    "search_results": [
+      {
+        "url": "https://fr.restaurantguru.com/LHerozo-Beaumont-en-Veron#:~:text=L%27H%C3%A9roz%27o%20%C3%A0%20Beaumont-en-V%C3%A9ron%20class%C3%A9%204.2%20sur%205%20sur,photos.%20Exlorer%20le%20menu%2C%20consulter%20les%20heures%20d%27ouverture",
+        "title": "L'Héroz'o, Beaumont-en-Véron - Menu d…"
+      },
+      {
+        "url": "https://fr.restaurantguru.com/LHerozo-Beaumont-en-Veron",
+        "title": "L'Héroz'o, Beaumont-en-Véron - Menu d…"
+      },
+      {
+        "url": "https://www.pagesjaunes.fr/pros/09706600",
+        "title": "L'Héroz'O Beaumont en Véron - Restaura…"
+      },
+      {
+        "url": "https://www.tripadvisor.fr/Restaurant_Review-g1222275-d15831933-Reviews-L_Heroz_o-Beaumont_en_Veron_Chinon_Indre_et_Loire_Centre_Val_de_Loire.html",
+        "title": "L'HEROZ'O, Beaumont-en-Veron - Resta…"
+      },
+      {
+        "url": "https://lherozo.onataste.fr/",
+        "title": "L'Héroz'o - Pizzeria à Beaumont-en-Véro…"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 3
+  },
+  {
+    "id": "node:9335811571",
+    "name": "Le Jardin de Rabelais",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "Avoine",
+    "postal_code": "37420",
+    "address": "30 Rue Gustave Eiffel, 37420 Avoine",
+    "phone": "+33 2 47 58 90 17",
+    "email": "",
+    "website": "https://www.lejardinderabelais.fr/",
+    "lat": 47.2159149,
+    "lon": 0.1712402,
+    "opening_hours": "Mo-Fr 08:00-17:00",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811571",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2159149,0.1712402",
+    "website_status": "yes",
+    "website_confidence": "high",
+    "website_evidence": "website tag présent dans OpenStreetMap",
+    "search_results": [],
+    "priority": "low",
+    "prospect_score": 3
+  },
+  {
+    "id": "node:9323405667",
+    "name": "Le P'tit Bouchon",
+    "category": "amenity:restaurant",
+    "subcategory": "restaurant",
+    "commune": "Avoine",
+    "postal_code": "37420",
+    "address": "17 Rue Marcel Vignaud, 37420 Avoine",
+    "phone": "+33 2 47 58 81 85",
+    "email": "",
+    "website": "http://www.leptitbouchon37.fr/",
+    "lat": 47.2037319,
+    "lon": 0.1836294,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9323405667",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2037319,0.1836294",
+    "website_status": "yes",
+    "website_confidence": "high",
+    "website_evidence": "website tag présent dans OpenStreetMap",
+    "search_results": [],
+    "priority": "low",
+    "prospect_score": 3
+  },
+  {
+    "id": "node:2017960925",
+    "name": "magpresse",
+    "category": "shop:newsagent",
+    "subcategory": "newsagent",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2052453,
+    "lon": 0.1824628,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/2017960925",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2052453,0.1824628",
+    "website_status": "no",
+    "website_confidence": "medium",
+    "website_evidence": "premier résultat = annuaire/réseau social (instagram.com)",
+    "search_results": [
+      {
+        "url": "https://www.instagram.com/",
+        "title": "Instagram"
+      },
+      {
+        "url": "https://www.meta.com/de-de/instagram/",
+        "title": "Instagram - Meta"
+      },
+      {
+        "url": "https://apps.apple.com/de/app/instagram/id389801252",
+        "title": "‎Instagram‑App – App Store"
+      },
+      {
+        "url": "https://play.google.com/store/apps/details?id=com.instagram.android&hl=en-GB",
+        "title": "Instagram - Apps on Google Play"
+      },
+      {
+        "url": "https://about.instagram.com/de-de/",
+        "title": "Momente einfangen, Content erstellen und teilen - Instagram"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 3
+  },
+  {
+    "id": "node:10001977890",
+    "name": "Au fil de l'eau",
+    "category": "amenity:restaurant",
+    "subcategory": "restaurant",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "4 Rue du Val de l'Indre",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2313186,
+    "lon": 0.1881937,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/10001977890",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2313186,0.1881937",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (gesund.bund.de)",
+    "search_results": [
+      {
+        "url": "https://gesund.bund.de/die-elektronische-arbeitsunfaehigkeitsbescheinigung-eau",
+        "title": "Elektronische Arbeitsunfähigkeitsbescheinigung | gesund.bund.de"
+      },
+      {
+        "url": "https://www.bundesaerztekammer.de/themen/aerzte/digitalisierung/digitale-anwendungen/telematikinfrastruktur/eau",
+        "title": "Elektronische Arbeitsunfähigkeitsbescheinigung (eAU)"
+      },
+      {
+        "url": "https://www.gkv-spitzenverband.de/krankenversicherung/digitalisierung/eau_1/s_eau.jsp",
+        "title": "Elektronische Arbeitsunfähigkeitsbescheinigung (eAU) - GKV …"
+      },
+      {
+        "url": "https://www.arbeitsrechte.de/elektronische-arbeitsunfaehigkeitsbescheinigung/",
+        "title": "Elektronische Arbeitsunfähigkeitsbescheinigung (eAU)"
+      },
+      {
+        "url": "https://www.hopkins.law/expertise/au-bescheinigung",
+        "title": "Elektronische AU-Bescheinigung (2026) | Arbeitsrecht - Hopkins"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 2
+  },
+  {
+    "id": "way:62411244",
+    "name": "Carrefour Contact",
+    "category": "shop:supermarket",
+    "subcategory": "supermarket",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "+33 2 47 58 41 20",
+    "email": "",
+    "website": "https://www.carrefour.fr/magasin/contact-avoine",
+    "lat": 47.2047304,
+    "lon": 0.1837947,
+    "opening_hours": "Mo-Sa 08:00-20:00; Su 09:00-13:00",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/way/62411244",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2047304,0.1837947",
+    "website_status": "yes",
+    "website_confidence": "high",
+    "website_evidence": "website tag présent dans OpenStreetMap",
+    "search_results": [],
+    "priority": "low",
+    "prospect_score": 2
+  },
+  {
+    "id": "node:4947205074",
+    "name": "Domaine de la Roche Honneur",
+    "category": "shop:wine",
+    "subcategory": "wine",
+    "commune": "Savigny en Véron",
+    "postal_code": "37240",
+    "address": "1 Rue de la Berthelonnière, 37240 Savigny en Véron",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2070094,
+    "lon": 0.1408736,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/4947205074",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2070094,0.1408736",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (de.wikipedia.org)",
+    "search_results": [
+      {
+        "url": "https://de.wikipedia.org/wiki/Dom%C3%A4ne",
+        "title": "Domäne – Wikipedia"
+      },
+      {
+        "url": "https://www.duden.de/rechtschreibung/Domaine",
+        "title": "Domaine Rechtschreibung, Bedeutung, Definition, Herkunft Duden"
+      },
+      {
+        "url": "https://vinodellago.de/pages/weinlexikon-domaine",
+        "title": "Domaine – Was bedeutet Domaine beim Wein? – Vino del Lago"
+      },
+      {
+        "url": "https://dict.leo.org/franz%C3%B6sisch-deutsch/domaine",
+        "title": "domaine - LEO: Übersetzung im Französisch ⇔ Deutsch Wörterbuch"
+      },
+      {
+        "url": "https://de.pons.com/%C3%BCbersetzung/franz%C3%B6sisch-deutsch/domaine",
+        "title": "DOMAINE - Französisch-Deutsch Übersetzung | PONS"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 2
+  },
+  {
+    "id": "node:13481588955",
+    "name": "Le Jardin de Rabelais - Site Savigny 1",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "Savigny-en-Véron",
+    "postal_code": "37420",
+    "address": "Rue de la Gabare, 37420 Savigny-en-Véron",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2193203,
+    "lon": 0.1591469,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/13481588955",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2193203,0.1591469",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (dict.leo.org)",
+    "search_results": [
+      {
+        "url": "https://dict.leo.org/englisch-deutsch/le",
+        "title": "le - LEO: Übersetzung im Englisch ⇔ Deutsch Wörterbuch"
+      },
+      {
+        "url": "https://www.bing.com/ck/a?!&&p=25e7db87e44f87826a5a60a5d0835163994bac5f158f7ed271835ac1d3eee0d3JmltdHM9MTc3ODQ1NzYwMA&ptn=3&ver=2&hsh=4&fclid=020d795d-5b89-6597-3bb9-6e0b5afb6404&u=a1aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9tYXBzL3NlYXJjaC8_aGw9ZGU&ntb=1",
+        "title": "Google Maps"
+      },
+      {
+        "url": "https://les-mosbach.de/",
+        "title": "Startseite - Ludwig-Erhard-Schule Mosbach"
+      },
+      {
+        "url": "https://de.wikipedia.org/wiki/LE",
+        "title": "LE – Wikipedia"
+      },
+      {
+        "url": "https://de.wiktionary.org/wiki/le",
+        "title": "le – Wiktionary"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 2
+  },
+  {
+    "id": "node:12741338201",
+    "name": "Orano DS",
+    "category": "shop:tool_hire",
+    "subcategory": "tool_hire",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "+33 2 47 93 82 30",
+    "email": "",
+    "website": "https://www.orano.group/en",
+    "lat": 47.2189046,
+    "lon": 0.1627276,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/12741338201",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2189046,0.1627276",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (orano.group)",
+    "search_results": [
+      {
+        "url": "https://www.orano.group/en",
+        "title": "Orano | Major player in nuclear fuel cycle products and services"
+      },
+      {
+        "url": "https://de.wikipedia.org/wiki/Orano",
+        "title": "Orano – Wikipedia"
+      },
+      {
+        "url": "https://www.orano-gmbh.de/Orano-Group-Orano",
+        "title": "ORANO GmbH"
+      },
+      {
+        "url": "https://orano-ncs.com/",
+        "title": "ORANO NCS | Radioaktive Transporte"
+      },
+      {
+        "url": "https://www.wiwo.de/themen/orano",
+        "title": "Orano News: Aktuelle Nachrichten zum französischen Atomkonzern"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 2
+  },
+  {
+    "id": "node:10942301005",
+    "name": "Proman",
+    "category": "office:employment_agency",
+    "subcategory": "employment_agency",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "+33 2 47 98 00 84",
+    "email": "",
+    "website": "https://www.proman-emploi.fr/agences/chinon",
+    "lat": 47.205125,
+    "lon": 0.1830753,
+    "opening_hours": "Mo-Fr 08:00-12:00, 14:00-18:00",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/10942301005",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.205125,0.1830753",
+    "website_status": "yes",
+    "website_confidence": "high",
+    "website_evidence": "website tag présent dans OpenStreetMap",
+    "search_results": [],
+    "priority": "low",
+    "prospect_score": 2
+  },
+  {
+    "id": "node:461184852",
+    "name": "Vival",
+    "category": "shop:convenience",
+    "subcategory": "convenience",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "+33 2 47 95 43 03",
+    "email": "",
+    "website": "https://magasins.vival.fr/fr/vival-rigny-usse",
+    "lat": 47.2515758,
+    "lon": 0.2968216,
+    "opening_hours": "Mo 08:30-13:00,15:30-19:00; Tu-Sa 08:00-13:00,15:30-19:00; Su 09:00-12:30",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/461184852",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2515758,0.2968216",
+    "website_status": "yes",
+    "website_confidence": "high",
+    "website_evidence": "website tag présent dans OpenStreetMap",
+    "search_results": [],
+    "priority": "low",
+    "prospect_score": 2
+  },
+  {
+    "id": "node:9335811558",
+    "name": "3DG",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2175203,
+    "lon": 0.1650136,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811558",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2175203,0.1650136",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (fedex.com)",
+    "search_results": [
+      {
+        "url": "https://www.fedex.com/en-us/tracking.html",
+        "title": "Tracking Your Shipment or Packages | FedEx"
+      },
+      {
+        "url": "https://www.fedex.com/en-ca/tracking.html",
+        "title": "Package Tracking - Courier Tracking | FedEx Canada"
+      },
+      {
+        "url": "https://parcelsapp.com/en/carriers/fedex",
+        "title": "FedEx Tracking - Parcels"
+      },
+      {
+        "url": "https://fed-ex.vercel.app/",
+        "title": "FedEx Site"
+      },
+      {
+        "url": "https://www.fedex.com/en-us/home.html",
+        "title": "Track & Ship Online or Find Nearby Locations | FedEx"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "node:2017960923",
+    "name": "Bar du Centre",
+    "category": "amenity:cafe",
+    "subcategory": "cafe",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2052203,
+    "lon": 0.1824908,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/2017960923",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2052203,0.1824908",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (de.wikipedia.org)",
+    "search_results": [
+      {
+        "url": "https://de.wikipedia.org/wiki/Bar_(Einheit)",
+        "title": "Bar (Einheit) – Wikipedia"
+      },
+      {
+        "url": "https://fiddlersgreenpub.de/",
+        "title": "Fiddler's Green - das Irish Pub in Pfaffenhofen mit Live-Musik und Bar"
+      },
+      {
+        "url": "https://www.duden.de/rechtschreibung/bar_Adjektiv",
+        "title": "Wie schreibt man „bar“? Rechtschreibung - Duden"
+      },
+      {
+        "url": "https://de.restaurantguru.com/pub-and-bar-Pfaffenhofen-an-der-Roth-t2",
+        "title": "Top 5 Pubs & Bars in Pfaffenhofen an der Roth - Restaurant Guru"
+      },
+      {
+        "url": "https://www.landkreis.neu-ulm-tourismus.de/gastro/fiddlers-green-irish-pub-pfaffenhofen",
+        "title": "Fiddlers Green Irish Pub | Pfaffenhofen"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "node:11020739588",
+    "name": "Brazillier",
+    "category": "craft:roofer",
+    "subcategory": "roofer",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2189289,
+    "lon": 0.1642171,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/11020739588",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2189289,0.1642171",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (youtube.com)",
+    "search_results": [
+      {
+        "url": "https://www.youtube.com/",
+        "title": "YouTube"
+      },
+      {
+        "url": "https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en-US",
+        "title": "YouTube - Apps on Google Play"
+      },
+      {
+        "url": "https://apps.apple.com/us/app/youtube/id544007664",
+        "title": "‎YouTube App - App Store"
+      },
+      {
+        "url": "https://www.youtube.com/feed/homepage",
+        "title": "YouTube"
+      },
+      {
+        "url": "https://www.youtube.com/@_homepage",
+        "title": "Home Page - YouTube"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "way:62411171",
+    "name": "Caisse d'Épargne",
+    "category": "amenity:bank",
+    "subcategory": "bank",
+    "commune": "Avoine",
+    "postal_code": "37420",
+    "address": "37420 Avoine",
+    "phone": "",
+    "email": "",
+    "website": "https://www.agences.caisse-epargne.fr/banque-assurance/ile-de-france/avoine-id14505000241",
+    "lat": 47.2049544,
+    "lon": 0.1829708,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/way/62411171",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2049544,0.1829708",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (agences.caisse-epargne.fr)",
+    "search_results": [
+      {
+        "url": "https://www.agences.caisse-epargne.fr/banque-assurance/ile-de-france/avoine-id14505000241",
+        "title": "Caisse d’Epargne : Agence AVOINE"
+      },
+      {
+        "url": "https://contact-banque.com/caisse-d-epargne/avoine/avoine-37420",
+        "title": "Caisse d'epargne AVOINE (37) - Numéro de téléphone et horaires"
+      },
+      {
+        "url": "https://caisseepargne.banklocationmaps.com/fr/branch/1178354-caisse-d-epargne-branch-27-rue-marcel-vignaud",
+        "title": "Succursale Caisse d'Epargne | 27 RUE MARCEL VIGNAUD"
+      },
+      {
+        "url": "https://banque-info.com/agences-bancaires/caisse-d-epargne/avoine",
+        "title": "Agence Caisse d'Epargne Avoine - Banque Info"
+      },
+      {
+        "url": "https://www.horairesbanques.com/caisse-d-epargne/avoine/",
+        "title": "Caisse d'Epargne Avoine : Liste des agences Caisse d'Epargne à Avoine ..."
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 1
+  },
+  {
+    "id": "node:9335811593",
+    "name": "Capaval",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2195879,
+    "lon": 0.1641927,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811593",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2195879,0.1641927",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (patienteninfo-service.de)",
+    "search_results": [
+      {
+        "url": "https://www.patienteninfo-service.de/a-z-liste/c/capvalR-dragees-25-mg-ueberzogene-tabletten",
+        "title": "Capval® Dragees 25 mg Überzogene Tabletten - PatientenInfo-Service"
+      },
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/capval-hustensaft-1672693.html",
+        "title": "CAPVAL Hustensaft - Beipackzettel | Apotheken Umschau"
+      },
+      {
+        "url": "https://www.infectopharm.de/praeparate/capval-saft/",
+        "title": "Capval® Saft • InfectoPharm Wissen wirkt."
+      },
+      {
+        "url": "https://www.shop-apotheke.com/arzneimittel/1858995/capval-tropfen.htm?msockid=2492cb5193eb6e0b32bddc0792c76fa2",
+        "title": "Capval® Tropfen 30 ml mit dem E-Rezept kaufen - Shop Apotheke"
+      },
+      {
+        "url": "https://info-patient.de/capval-dragees-172300/beipackzettel",
+        "title": "Capval - Dragees - Beipackzettel, Nebenwirkungen, Wirkung ..."
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "way:235386452",
+    "name": "Centre Nucléaire de Production d'Electricité de Chinon",
+    "category": "tourism:attraction",
+    "subcategory": "attraction",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2282946,
+    "lon": 0.1714546,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/way/235386452",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2282946,0.1714546",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (zhihu.com)",
+    "search_results": [
+      {
+        "url": "https://www.zhihu.com/topic/26691895",
+        "title": "ChatGPT - 知乎"
+      },
+      {
+        "url": "https://github.com/Robertcell/chatgpt-for-chinese",
+        "title": "Robertcell/chatgpt-for-chinese - GitHub"
+      },
+      {
+        "url": "https://github.com/lencx/ChatGPT",
+        "title": "ChatGPT Desktop Application (Mac, Windows and Linux) - GitHub"
+      },
+      {
+        "url": "https://github.com/topics/chatgpt",
+        "title": "chatgpt · GitHub Topics · GitHub"
+      },
+      {
+        "url": "https://www.reddit.com/r/ChatGPT/hot/",
+        "title": "ChatGPT - Reddit"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "node:9335811566",
+    "name": "Chêne de France",
+    "category": "shop:trade",
+    "subcategory": "trade",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2204226,
+    "lon": 0.1649298,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811566",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2204226,0.1649298",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (boursorama.com)",
+    "search_results": [
+      {
+        "url": "https://www.boursorama.com/bourse/",
+        "title": "Bourse en direct, Cours actions et dérivés - Boursorama"
+      },
+      {
+        "url": "https://www.boursorama.com/",
+        "title": "Actualité économique, Bourse, Banque en ligne - Boursorama"
+      },
+      {
+        "url": "https://www.boursorama.com/bourse/actions/cotations/",
+        "title": "Actions éligibles au SRD - - Action : cours, cotation, bourse, toutes ..."
+      },
+      {
+        "url": "https://www.boursorama.com/bourse/indices/france",
+        "title": "Cac 40, bourse de Paris en direct, indices boursiers France - Boursorama"
+      },
+      {
+        "url": "https://www.boursorama.com/bourse/indices/cours/1rPCAC/",
+        "title": "CAC 40 Cours Indice PX1, Cotation Bourse Euronext Paris - Boursorama"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "node:9332693398",
+    "name": "DDT Fluvial",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2136525,
+    "lon": 0.1614285,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9332693398",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2136525,0.1614285",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (de.wikipedia.org)",
+    "search_results": [
+      {
+        "url": "https://de.wikipedia.org/wiki/Dichlordiphenyltrichlorethan",
+        "title": "Dichlordiphenyltrichlorethan – Wikipedia"
+      },
+      {
+        "url": "https://www.umweltbundesamt.de/themen/chemikalien/persistente-organische-schadstoffe-pop/ddt",
+        "title": "DDT - Umweltbundesamt"
+      },
+      {
+        "url": "https://www.mdr.de/wissen/umwelt-klima/ddt-gift-bericht-insektizid-der-stumme-fruehling-102.html",
+        "title": "Geschichte des Insektizids DDT: Der stumme Frühling | MDR.DE"
+      },
+      {
+        "url": "https://www.lgl.bayern.de/lebensmittel/chemie/pflanzenschutzmittel/ddt/",
+        "title": "Lebensmittel: DDT - Bayern"
+      },
+      {
+        "url": "https://flexikon.doccheck.com/de/Dichlordiphenyltrichlorethan",
+        "title": "Dichlordiphenyltrichlorethan - DocCheck Flexikon"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "way:192471336",
+    "name": "Domaine de Bertignolles",
+    "category": "shop:wine",
+    "subcategory": "wine",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2226405,
+    "lon": 0.1117507,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/way/192471336",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2226405,0.1117507",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (de.wikipedia.org)",
+    "search_results": [
+      {
+        "url": "https://de.wikipedia.org/wiki/Dom%C3%A4ne",
+        "title": "Domäne – Wikipedia"
+      },
+      {
+        "url": "https://www.duden.de/rechtschreibung/Domaine",
+        "title": "Domaine Rechtschreibung, Bedeutung, Definition, Herkunft Duden"
+      },
+      {
+        "url": "https://vinodellago.de/pages/weinlexikon-domaine",
+        "title": "Domaine – Was bedeutet Domaine beim Wein? – Vino del Lago"
+      },
+      {
+        "url": "https://dict.leo.org/franz%C3%B6sisch-deutsch/domaine",
+        "title": "domaine - LEO: Übersetzung im Französisch ⇔ Deutsch Wörterbuch"
+      },
+      {
+        "url": "https://de.pons.com/%C3%BCbersetzung/franz%C3%B6sisch-deutsch/domaine",
+        "title": "DOMAINE - Französisch-Deutsch Übersetzung | PONS"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "way:193336828",
+    "name": "Domaine des Galuches",
+    "category": "shop:wine",
+    "subcategory": "wine",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2321395,
+    "lon": 0.1419791,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/way/193336828",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2321395,0.1419791",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (de.wikipedia.org)",
+    "search_results": [
+      {
+        "url": "https://de.wikipedia.org/wiki/Dom%C3%A4ne",
+        "title": "Domäne – Wikipedia"
+      },
+      {
+        "url": "https://www.duden.de/rechtschreibung/Domaine",
+        "title": "Domaine Rechtschreibung, Bedeutung, Definition, Herkunft Duden"
+      },
+      {
+        "url": "https://vinodellago.de/pages/weinlexikon-domaine",
+        "title": "Domaine – Was bedeutet Domaine beim Wein? – Vino del Lago"
+      },
+      {
+        "url": "https://dict.leo.org/franz%C3%B6sisch-deutsch/domaine",
+        "title": "domaine - LEO: Übersetzung im Französisch ⇔ Deutsch Wörterbuch"
+      },
+      {
+        "url": "https://de.pons.com/%C3%BCbersetzung/franz%C3%B6sisch-deutsch/domaine",
+        "title": "DOMAINE - Französisch-Deutsch Übersetzung | PONS"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "way:191430484",
+    "name": "Domaine Olga Raffault",
+    "category": "shop:wine",
+    "subcategory": "wine",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2076583,
+    "lon": 0.1275195,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/way/191430484",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2076583,0.1275195",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (de.wikipedia.org)",
+    "search_results": [
+      {
+        "url": "https://de.wikipedia.org/wiki/Dom%C3%A4ne",
+        "title": "Domäne – Wikipedia"
+      },
+      {
+        "url": "https://www.duden.de/rechtschreibung/Domaine",
+        "title": "Domaine Rechtschreibung, Bedeutung, Definition, Herkunft Duden"
+      },
+      {
+        "url": "https://vinodellago.de/pages/weinlexikon-domaine",
+        "title": "Domaine – Was bedeutet Domaine beim Wein? – Vino del Lago"
+      },
+      {
+        "url": "https://dict.leo.org/franz%C3%B6sisch-deutsch/domaine",
+        "title": "domaine - LEO: Übersetzung im Französisch ⇔ Deutsch Wörterbuch"
+      },
+      {
+        "url": "https://de.pons.com/%C3%BCbersetzung/franz%C3%B6sisch-deutsch/domaine",
+        "title": "DOMAINE - Französisch-Deutsch Übersetzung | PONS"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "way:189584143",
+    "name": "Domaine Wilfrid Rousse",
+    "category": "shop:wine",
+    "subcategory": "wine",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2074973,
+    "lon": 0.1425967,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/way/189584143",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2074973,0.1425967",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (de.wikipedia.org)",
+    "search_results": [
+      {
+        "url": "https://de.wikipedia.org/wiki/Dom%C3%A4ne",
+        "title": "Domäne – Wikipedia"
+      },
+      {
+        "url": "https://www.duden.de/rechtschreibung/Domaine",
+        "title": "Domaine Rechtschreibung, Bedeutung, Definition, Herkunft Duden"
+      },
+      {
+        "url": "https://vinodellago.de/pages/weinlexikon-domaine",
+        "title": "Domaine – Was bedeutet Domaine beim Wein? – Vino del Lago"
+      },
+      {
+        "url": "https://dict.leo.org/franz%C3%B6sisch-deutsch/domaine",
+        "title": "domaine - LEO: Übersetzung im Französisch ⇔ Deutsch Wörterbuch"
+      },
+      {
+        "url": "https://de.pons.com/%C3%BCbersetzung/franz%C3%B6sisch-deutsch/domaine",
+        "title": "DOMAINE - Französisch-Deutsch Übersetzung | PONS"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "node:9332693408",
+    "name": "Décontamat",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2138559,
+    "lon": 0.1627965,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9332693408",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2138559,0.1627965",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (cvmaker.de)",
+    "search_results": [
+      {
+        "url": "https://www.cvmaker.de/",
+        "title": "CV Maker - Lebenslauf online erstellen (2026): Vorlagen, Muster & Tipps"
+      },
+      {
+        "url": "https://www.cvmaker.com/",
+        "title": "CVMaker - create your professional resume with our builder"
+      },
+      {
+        "url": "https://lebenslauf-erstellen.adecco.de/de",
+        "title": "CV Maker - Adecco"
+      },
+      {
+        "url": "https://zety.de/lebenslauf-erstellen",
+        "title": "Lebenslauf online erstellen & Zeit sparen: Zetys CV-Maker"
+      },
+      {
+        "url": "https://makemycv.com/de",
+        "title": "Erstellen Sie Ihren Lebenslauf online einfach mit MakeMyCV"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "node:9332693396",
+    "name": "Eiffel Industrie",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2135389,
+    "lon": 0.162804,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9332693396",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2135389,0.162804",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (de.wikipedia.org)",
+    "search_results": [
+      {
+        "url": "https://de.wikipedia.org/wiki/Gustave_Eiffel",
+        "title": "Gustave Eiffel – Wikipedia"
+      },
+      {
+        "url": "https://www.toureiffel.paris/de",
+        "title": "Der Eiffelturm, OFFIZIELLE Website: Tickets, Infos, News ..."
+      },
+      {
+        "url": "https://paris-tourist.de/sehenswuerdigkeiten/eiffelturm/",
+        "title": "Eiffelturm Paris: Infos zum Eintritt, Tickets & Geschichte"
+      },
+      {
+        "url": "https://www.parisentdecken.de/sehenswuerdigkeiten/eiffelturm.html",
+        "title": "Eiffelturm Paris 2026: Tickets, Preise & Tipps gegen Wartezeit"
+      },
+      {
+        "url": "https://www.britannica.com/topic/Eiffel-Tower-Paris-France",
+        "title": "Eiffel Tower | History, Height, & Facts | Britannica"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "node:11020739581",
+    "name": "France Service",
+    "category": "office:government",
+    "subcategory": "government",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2093464,
+    "lon": 0.1838186,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/11020739581",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2093464,0.1838186",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (de.wikipedia.org)",
+    "search_results": [
+      {
+        "url": "https://de.wikipedia.org/wiki/Frankreich",
+        "title": "Frankreich – Wikipedia"
+      },
+      {
+        "url": "https://www.france.fr/de/",
+        "title": "France.fr: Entdecken Sie Frankreich und seine Wunder - Explore France"
+      },
+      {
+        "url": "https://www.britannica.com/place/France",
+        "title": "France | History, Maps, Flag, Population, Cities, Capital, & Facts ..."
+      },
+      {
+        "url": "https://www.welcometofrance.com/en/fiche/overview-of-france",
+        "title": "Overview of France - Welcome to France"
+      },
+      {
+        "url": "https://de.wikivoyage.org/wiki/Frankreich",
+        "title": "Frankreich – Reiseführer auf Wikivoyage"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "node:9335811570",
+    "name": "Graphic Rivière",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2142957,
+    "lon": 0.1722125,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811570",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2142957,0.1722125",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (dict.leo.org)",
+    "search_results": [
+      {
+        "url": "https://dict.leo.org/englisch-deutsch/graphic",
+        "title": "graphic - LEO: Übersetzung im Englisch ⇔ Deutsch Wörterbuch"
+      },
+      {
+        "url": "https://www.dwds.de/wb/Grafik",
+        "title": "Grafik – Schreibung, Definition, Bedeutung, Etymologie ... - DWDS"
+      },
+      {
+        "url": "https://www.bicgraphic.com/de",
+        "title": "BIC Graphic Deutschland. Marktführer im Bereich der Werbeartikel"
+      },
+      {
+        "url": "https://graphic-group.de/",
+        "title": "home - Graphic-Group"
+      },
+      {
+        "url": "https://www.canva.com/de_de/?msockid=236f1fd18a1b6040075108878bdc611f",
+        "title": "Canva: Die Visual Suite für alle"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "node:9332693389",
+    "name": "H. Events",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2136746,
+    "lon": 0.1628116,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9332693389",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2136746,0.1628116",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (www2.hm.com)",
+    "search_results": [
+      {
+        "url": "https://www2.hm.com/de_de/index.html?msockid=1c1ad4cb77eb6a812205c39d76546b2c",
+        "title": "H&M | Fashion für Frauen, Männer & Kinder | H&M DE"
+      },
+      {
+        "url": "https://de.m.wikipedia.org/wiki/H",
+        "title": "H – Wikipedia"
+      },
+      {
+        "url": "https://m.youtube.com/watch?v=2EdTB6ML1GQ",
+        "title": "Buchstaben lernen deutsch - DAS H-LIED - YouTube"
+      },
+      {
+        "url": "https://www.duden.de/rechtschreibung/h_Buchstabe__Ton",
+        "title": "h Rechtschreibung, Bedeutung, Definition, Herkunft | Duden"
+      },
+      {
+        "url": "https://kinder.wdr.de/tv/die-sendung-mit-dem-elefanten/av/video-alphabet-lernen-buchstabe-h-100.html",
+        "title": "Alphabet lernen: Buchstabe H - Die Sendung mit dem Elefanten - Kinder"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "node:9335811553",
+    "name": "Horti Production",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2180419,
+    "lon": 0.169032,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811553",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2180419,0.169032",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (groups.google.com)",
+    "search_results": [
+      {
+        "url": "https://groups.google.com/g/alt.usage.english/c/Y6qC3mu8V2U",
+        "title": "What do Brits mean when they say, \"She's a ginger (first g hard)?"
+      },
+      {
+        "url": "https://groups.google.com/g/learning-engineering/c/y4MOhRurJeM/m/9P_EdBWSBAAJ",
+        "title": "Learning Engineering - Google Groups"
+      },
+      {
+        "url": "https://groups.google.com/g/gamespools/about",
+        "title": "About - Google Groups"
+      },
+      {
+        "url": "https://groups.google.com/g/gmtslot/c/-fBe0ZDDVS0",
+        "title": "Google Groups"
+      },
+      {
+        "url": "https://groups.google.com/g/auto2050/about",
+        "title": "About - Google Groups"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "node:9335811555",
+    "name": "INEO",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2195191,
+    "lon": 0.164961,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811555",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2195191,0.164961",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (develop.de)",
+    "search_results": [
+      {
+        "url": "https://www.develop.de/de/support/download-center.html",
+        "title": "Download Center - DEVELOP | Deutschland"
+      },
+      {
+        "url": "https://ineo-solutions.de/",
+        "title": "Startseite | I.NEO solutions GmbH"
+      },
+      {
+        "url": "https://www.develop.eu/en/home.html",
+        "title": "Home - DEVELOP | Europe"
+      },
+      {
+        "url": "https://www.ita-systeme.de/product/develop-ineo-c250i/",
+        "title": "Informieren Sie sich online über die Ineo+ 250i - ITA Systeme"
+      },
+      {
+        "url": "https://www.develop.de/",
+        "title": "Home - DEVELOP | Deutschland"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "way:189584154",
+    "name": "Jean-Louis Page",
+    "category": "shop:wine",
+    "subcategory": "wine",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2055876,
+    "lon": 0.1457827,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/way/189584154",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2055876,0.1457827",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (de.wikipedia.org)",
+    "search_results": [
+      {
+        "url": "https://de.wikipedia.org/wiki/Jean",
+        "title": "Jean – Wikipedia"
+      },
+      {
+        "url": "https://www.jeans-fritz.de/",
+        "title": "JEANS FRITZ: Trendige Jeans & Freizeitmode Top Qualität!"
+      },
+      {
+        "url": "https://www.zara.com/de/de/damen-jeans-l1119.html",
+        "title": "Damen Jeans | ZARA Deutschland"
+      },
+      {
+        "url": "https://www.zalando.de/damenbekleidung-jeans/",
+        "title": "Jeans für Damen online shoppen bei ZALANDO"
+      },
+      {
+        "url": "https://www.craemerco.de/",
+        "title": "Crämer & Co Denim Store - Jeans & Kleidung online kaufen"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "way:62412621",
+    "name": "Le Hangar",
+    "category": "amenity:restaurant",
+    "subcategory": "restaurant",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2200156,
+    "lon": 0.1658095,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/way/62412621",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2200156,0.1658095",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (dict.leo.org)",
+    "search_results": [
+      {
+        "url": "https://dict.leo.org/englisch-deutsch/le",
+        "title": "le - LEO: Übersetzung im Englisch ⇔ Deutsch Wörterbuch"
+      },
+      {
+        "url": "https://www.bing.com/ck/a?!&&p=842e42bde84dbeb9df6e635eb6a245943bcf03b7fa78f72c5a0b934ebf875e15JmltdHM9MTc3ODQ1NzYwMA&ptn=3&ver=2&hsh=4&fclid=258624b0-0655-6852-1b89-33e607226995&u=a1aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9tYXBzL3NlYXJjaC8_aGw9ZGU&ntb=1",
+        "title": "Google Maps"
+      },
+      {
+        "url": "https://les-mosbach.de/",
+        "title": "Startseite - Ludwig-Erhard-Schule Mosbach"
+      },
+      {
+        "url": "https://de.wikipedia.org/wiki/LE",
+        "title": "LE – Wikipedia"
+      },
+      {
+        "url": "https://de.wiktionary.org/wiki/le",
+        "title": "le – Wiktionary"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "node:13481588956",
+    "name": "Le Jardin de Rabelais - Site Savigny 2",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "Savigny-en-Véron",
+    "postal_code": "37420",
+    "address": "Rue de la Charrière, 37420 Savigny-en-Véron",
+    "phone": "",
+    "email": "",
+    "website": "https://autour-de-moi.pro/fiche/le-jardin-de-rabelais-savigny-2/",
+    "lat": 47.2140621,
+    "lon": 0.1537081,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/13481588956",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2140621,0.1537081",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (autour-de-moi.pro)",
+    "search_results": [
+      {
+        "url": "https://autour-de-moi.pro/fiche/le-jardin-de-rabelais-savigny-2/",
+        "title": "Le Jardin de Rabelais – Savigny 2 – Autour de moi"
+      },
+      {
+        "url": "https://www.pagesjaunes.fr/pros/61622662",
+        "title": "Le Jardin De Rabelais Savigny en Véron (adresse) - Pages Jaunes"
+      },
+      {
+        "url": "https://www.lejardinderabelais.fr/",
+        "title": "Le Jardin de Rabelais, goûtez la différence"
+      },
+      {
+        "url": "https://local.infobel.fr/FR105687668-0247589017/le_jardin_de_rabelais-savigny_en_veron.html",
+        "title": "Le Jardin De Rabelais à Savigny-en-Véron - local.infobel.fr"
+      },
+      {
+        "url": "https://www.118000.fr/e_C0085444278",
+        "title": "Le Jardin de Rabelais à SAVIGNY EN VÉRON 37420 (Charrière)"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 1
+  },
+  {
+    "id": "node:4266174595",
+    "name": "Le logis de C.",
+    "category": "tourism:guest_house",
+    "subcategory": "guest_house",
+    "commune": "Rigny-Ussé",
+    "postal_code": "37420",
+    "address": "15 Rue d'Azay le Rideau, 37420 Rigny-Ussé",
+    "phone": "",
+    "email": "",
+    "website": "https://www.logishotels.com/de",
+    "lat": 47.256494,
+    "lon": 0.31066,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/4266174595",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.256494,0.31066",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (logishotels.com)",
+    "search_results": [
+      {
+        "url": "https://www.logishotels.com/de",
+        "title": "Hotels und Restaurants in Frankreich und im Ausland - LOGIS HÔTELS"
+      },
+      {
+        "url": "https://www.duden.de/rechtschreibung/Logis",
+        "title": "Logis Rechtschreibung, Bedeutung, Definition, Herkunft Duden"
+      },
+      {
+        "url": "https://www.hotelier.de/lexikon/l/logis",
+        "title": "Was ist Logis? - Sich mit dem Begriff Logis besser positionieren ..."
+      },
+      {
+        "url": "https://nuernberger-wochenblatt.de/panorama/logis-bedeutung/",
+        "title": "Logis Bedeutung: Definition, Herkunft und Anwendung im Alltag"
+      },
+      {
+        "url": "https://de.wiktionary.org/wiki/Logis",
+        "title": "Logis – Wiktionary"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 1
+  },
+  {
+    "id": "node:461178934",
+    "name": "Les cascades des saveurs",
+    "category": "shop:bakery",
+    "subcategory": "bakery",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2050215,
+    "lon": 0.1826438,
+    "opening_hours": "Mo-Fr 06:30-14:00,15:00-18:30; Sa 07:30-12:30; Su off",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/461178934",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2050215,0.1826438",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (les-pforzheim.de)",
+    "search_results": [
+      {
+        "url": "https://www.les-pforzheim.de/",
+        "title": "LES - Ludwig-Erhard-Schule"
+      },
+      {
+        "url": "https://www.les-neuwied.de/",
+        "title": "Home - LES Neuwied"
+      },
+      {
+        "url": "https://www.les-frankfurt.de/",
+        "title": "WILLKOMMEN / WELCOME"
+      },
+      {
+        "url": "https://www.les-germany.org/",
+        "title": "Home - [www.les-germany.org]"
+      },
+      {
+        "url": "https://les-mosbach.de/",
+        "title": "Startseite - Ludwig-Erhard-Schule Mosbach"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "node:7982479488",
+    "name": "Les Douceurs du Véron",
+    "category": "shop:bakery",
+    "subcategory": "bakery",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.194522,
+    "lon": 0.1832449,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/7982479488",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.194522,0.1832449",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (les-pforzheim.de)",
+    "search_results": [
+      {
+        "url": "https://www.les-pforzheim.de/",
+        "title": "LES - Ludwig-Erhard-Schule"
+      },
+      {
+        "url": "https://www.les-neuwied.de/",
+        "title": "Home - LES Neuwied"
+      },
+      {
+        "url": "https://www.les-frankfurt.de/",
+        "title": "WILLKOMMEN / WELCOME"
+      },
+      {
+        "url": "https://www.les-germany.org/",
+        "title": "Home - [www.les-germany.org]"
+      },
+      {
+        "url": "https://les-mosbach.de/",
+        "title": "Startseite - Ludwig-Erhard-Schule Mosbach"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "node:9335811557",
+    "name": "Les Jardins du Cœur",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2155874,
+    "lon": 0.1719236,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811557",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2155874,0.1719236",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (les-pforzheim.de)",
+    "search_results": [
+      {
+        "url": "https://www.les-pforzheim.de/",
+        "title": "LES - Ludwig-Erhard-Schule"
+      },
+      {
+        "url": "https://www.les-neuwied.de/",
+        "title": "Home - LES Neuwied"
+      },
+      {
+        "url": "https://www.les-frankfurt.de/",
+        "title": "WILLKOMMEN / WELCOME"
+      },
+      {
+        "url": "https://www.les-germany.org/",
+        "title": "Home - [www.les-germany.org]"
+      },
+      {
+        "url": "https://les-mosbach.de/",
+        "title": "Startseite - Ludwig-Erhard-Schule Mosbach"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "node:10846182205",
+    "name": "Les Terrasses d'Ussé",
+    "category": "amenity:restaurant",
+    "subcategory": "restaurant",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "2 Rue Principale, 37420",
+    "phone": "",
+    "email": "",
+    "website": "https://fr.restaurantguru.com/Les-Terrasses-dUsse-Rigny-Usse",
+    "lat": 47.2509401,
+    "lon": 0.2930872,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/10846182205",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2509401,0.2930872",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (fr.restaurantguru.com)",
+    "search_results": [
+      {
+        "url": "https://fr.restaurantguru.com/Les-Terrasses-dUsse-Rigny-Usse",
+        "title": "Les Terrasses d'Ussé, Rigny-Ussé - Menu du restaurant, prix et avis"
+      },
+      {
+        "url": "https://restaurant.restaurants-de-france.fr/les-terrasses-d-usse-1237579.html",
+        "title": "Les Terrasses d'Ussé à Rigny-Ussé - Restaurant"
+      },
+      {
+        "url": "https://fr.mappy.com/poi/66613e28ab12d044a5208bc8",
+        "title": "Les Terrasses d'Ussé - Restaurant, 2 r Principale, 37420 Rigny Ussé ..."
+      },
+      {
+        "url": "https://autour-de-moi.pro/fiche/les-terrasses-dusse/",
+        "title": "Les Terrasses d’Ussé – Autour de moi"
+      },
+      {
+        "url": "https://jrbistronomie.fr/les-terrasses-dusse/",
+        "title": "Les Terrasses d'Ussé - Rigny-Ussé Bistro Épicurien"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 1
+  },
+  {
+    "id": "node:9335811575",
+    "name": "LMN Nettoyage",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2178854,
+    "lon": 0.164201,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811575",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2178854,0.164201",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (livemusicnow-hannover.de)",
+    "search_results": [
+      {
+        "url": "https://livemusicnow-hannover.de/",
+        "title": "Live Music Now Hannover e. V."
+      },
+      {
+        "url": "https://www.livemusicnow-hamburg.de/",
+        "title": "LMN Hamburg"
+      },
+      {
+        "url": "https://livemusicnow.de/",
+        "title": "Yehudi Menuhin Live Music Now Deutschland"
+      },
+      {
+        "url": "https://www.lm-n.de/",
+        "title": "LMN - LANDESVERBAND MOTORBOOTSPORT NIEDERSACHSEN: NI"
+      },
+      {
+        "url": "https://livemusicnow-muenchen.de/",
+        "title": "YEHUDI MENUHIN Live Music Now München e.V."
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "node:9335811548",
+    "name": "Menuiserie Arnault",
+    "category": "craft:joiner",
+    "subcategory": "joiner",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2197047,
+    "lon": 0.1644989,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811548",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2197047,0.1644989",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (airbus.com)",
+    "search_results": [
+      {
+        "url": "https://www.airbus.com/en",
+        "title": "Pioneering sustainable aerospace | Airbus"
+      },
+      {
+        "url": "https://de.m.wikipedia.org/wiki/Airbus",
+        "title": "Airbus – Wikipedia"
+      },
+      {
+        "url": "https://www.zdfheute.de/thema/airbus-118.html",
+        "title": "Airbus - Aktuelle Nachrichten und Hintergründe - ZDFheute"
+      },
+      {
+        "url": "https://www.n-tv.de/wirtschaft/der_boersen_tag/Airbus-sackt-Rekordauftrag-ein-id30794831.html",
+        "title": "Der Börsen-Tag: Airbus sackt Rekordauftrag ein - ntv.de"
+      },
+      {
+        "url": "https://www.spiegel.de/thema/airbus/",
+        "title": "Airbus - DER SPIEGEL"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "node:9332693415",
+    "name": "Passenaud H.A Métal",
+    "category": "craft:metal_works",
+    "subcategory": "metal_works",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2102752,
+    "lon": 0.1599367,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9332693415",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2102752,0.1599367",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (monporno.fr)",
+    "search_results": [
+      {
+        "url": "https://www.monporno.fr/",
+        "title": "Vidéos porno gratuites ️ Le meilleur site porno français !"
+      },
+      {
+        "url": "https://www.porn300.com/fr/",
+        "title": "VIDEO PORNO GRATUITES - PORN300.COM"
+      },
+      {
+        "url": "https://fr.pornhub.com/",
+        "title": "Vidéos porno et films de sexe gratuits - Porno, XXX, Porn Tube"
+      },
+      {
+        "url": "https://fra.xhamster.com/",
+        "title": "Vidéos pornos gratuites et films XXX : site de vidéos de sexe | xHamster"
+      },
+      {
+        "url": "https://www.superporn.com/fr",
+        "title": "SuperPorn - VIDÉOS PORNO GRATUITES"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "node:9335811568",
+    "name": "Peinture du Véron",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2178123,
+    "lon": 0.1641126,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811568",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2178123,0.1641126",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (swissbanking.ch)",
+    "search_results": [
+      {
+        "url": "https://www.swissbanking.ch/en/media-politics/press-releases/milestone-for-the-swiss-financial-center-deposit-token-proof-of-concept-successfully-completed",
+        "title": "Milestone for the Swiss financial center: Deposit Token Proof of ..."
+      },
+      {
+        "url": "https://www.finews.ch/news/banken/69340-deposit-token-machbarkeitsstudie-sbvg-poc-digitalisierung-krypto-zahlungsverkehr-postfinance-sygnum-ubs-blockchain-smart-contract-finanzplatz-schweiz",
+        "title": "Zahlungsverkehr: Meilenstein für den Deposit Token"
+      },
+      {
+        "url": "https://cvj.ch/fokus/blockchain/ubs-postfinance-und-sygnum-bank-testen-quasi-stablecoin-deposit-token/",
+        "title": "UBS, PostFinance und Sygnum Bank testen Quasi-Stablecoin (\"Deposit-Token…"
+      },
+      {
+        "url": "https://www.linkedin.com/pulse/deposit-tokens-switzerlands-step-toward-programmable-money-jindal-7x3xc",
+        "title": "Deposit Tokens: Switzerland’s Step Toward Programmable Money"
+      },
+      {
+        "url": "https://www.ledgerinsights.com/ubs-swiss-banks-complete-tokenized-deposit-trial-on-public-blockchain/",
+        "title": "UBS, Swiss banks complete tokenized deposit trial on public blockchain"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "node:9335811580",
+    "name": "Phytoservice",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2172381,
+    "lon": 0.1645884,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811580",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2172381,0.1645884",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (inps.it)",
+    "search_results": [
+      {
+        "url": "https://www.inps.it/it/it/sedi-e-contatti/sedi/ricerca-sede/dettaglio-sedi.it.sezione-sedi.sedi-inps.570003.570003-elencoStruttureInps.html",
+        "title": "Portale Inps - Voghera"
+      },
+      {
+        "url": "https://www.agenziaentrate.gov.it/portale/strumenti/codici-attivita-e-tributo/f24-codici-tributo-per-i-versamenti/tabelle-dei-codici-tributo-e-altri-codici-per-il-modello-f24/tabelle-codici-inps-e-enti-previdenziali-ed-assicurativi/tabella-codici-sede-inps",
+        "title": "Strumenti - Tabella codici sede INPS - Agenzia delle Entrate"
+      },
+      {
+        "url": "https://www.pmi.it/uffici-pubblici/inps-voghera",
+        "title": "Sede INPS VOGHERA - PMI.it"
+      },
+      {
+        "url": "https://www.cylex-italia.it/voghera/inps-8602278.html",
+        "title": "INPS | Ente, Voghera - Cylex Ricerca Locale"
+      },
+      {
+        "url": "https://www.filippomartin.com/inps-voghera-orari-numero-di-telefono-indirizzo/",
+        "title": "INPS Voghera – Orari, Numero di Telefono, Indirizzo"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "node:9332693402",
+    "name": "Point P",
+    "category": "shop:doityourself",
+    "subcategory": "doityourself",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2144215,
+    "lon": 0.1666278,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9332693402",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2144215,0.1666278",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (de.pons.com)",
+    "search_results": [
+      {
+        "url": "https://de.pons.com/%C3%BCbersetzung/englisch-deutsch/point",
+        "title": "POINT - Englisch-Deutsch Übersetzung | PONS"
+      },
+      {
+        "url": "https://www.point-sports.de/",
+        "title": "POINT - Sports - Erlebnisraum für jeden. Punktgenau für Sie. | POINT"
+      },
+      {
+        "url": "https://point-s.de/",
+        "title": "point S. – Deutschland"
+      },
+      {
+        "url": "https://powerpoint.cloud.microsoft/en-us/",
+        "title": "Edit presentations for free | Microsoft PowerPoint for the Web"
+      },
+      {
+        "url": "https://www.bing.com/ck/a?!&&p=58b3a38a38fea088679285c14b2b1a1e38a6b89b68ae17b2001aaa02502bd5baJmltdHM9MTc3ODQ1NzYwMA&ptn=3&ver=2&hsh=4&fclid=0a034474-bda5-6194-1a3f-5322bcf960a7&u=a1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi11cy9taWNyb3NvZnQtMzY1L3Bvd2VycG9pbnQ_bXNvY2tpZD0wYTAzNDQ3NGJkYTU2MTk0MWEzZjUzMjJiY2Y5NjBhNw&ntb=1",
+        "title": "PowerPoint | Presentations and Slides Online | Microsoft 365"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "node:11020751522",
+    "name": "Ponticelli",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2189936,
+    "lon": 0.1645588,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/11020751522",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2189936,0.1645588",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (it.investing.com)",
+    "search_results": [
+      {
+        "url": "https://it.investing.com/equities/infrastrutture-wireless-italiane",
+        "title": "Azioni Inwit | INWT: quotazione titolo oggi - valore borsa"
+      },
+      {
+        "url": "https://www.borsaitaliana.it/borsa/azioni/scheda/IT0005090300-MTAA.html",
+        "title": "Azioni Inwit: quotazioni in tempo reale - Borsa Italiana"
+      },
+      {
+        "url": "https://www.inwit.it/it/investor-relations/informazioni-sul-titolo/",
+        "title": "Informazioni sul titolo – INWIT"
+      },
+      {
+        "url": "https://live.euronext.com/en/product/equities/IT0005090300-MTAA",
+        "title": "INWIT | IT0005090300 | Euronext exchange Live quotes"
+      },
+      {
+        "url": "https://www.milanofinanza.it/quotazioni/dettaglio/inwit-2ae1059",
+        "title": "INWIT - Quotazioni in tempo reale | MilanoFinanza.it"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "node:11893641640",
+    "name": "Serre Tixier",
+    "category": "shop:garden_centre",
+    "subcategory": "garden_centre",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2138174,
+    "lon": 0.1608229,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/11893641640",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2138174,0.1608229",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (dict.leo.org)",
+    "search_results": [
+      {
+        "url": "https://dict.leo.org/franz%C3%B6sisch-deutsch/serre",
+        "title": "serre - LEO: Übersetzung im Französisch ⇔ Deutsch Wörterbuch"
+      },
+      {
+        "url": "https://de.pons.com/%C3%BCbersetzung/franz%C3%B6sisch-deutsch/serre",
+        "title": "SERRE - Französisch-Deutsch Übersetzung | PONS"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Jean-Pierre_Serre",
+        "title": "Jean-Pierre Serre - Wikipedia"
+      },
+      {
+        "url": "https://de.wikipedia.org/wiki/Serre",
+        "title": "Serre – Wikipedia"
+      },
+      {
+        "url": "https://de.wikipedia.org/wiki/Jean-Pierre_Serre",
+        "title": "Jean-Pierre Serre – Wikipedia"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "node:9332693412",
+    "name": "Services Techniques Communautaires",
+    "category": "office:government",
+    "subcategory": "government",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2093904,
+    "lon": 0.1596598,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9332693412",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2093904,0.1596598",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (portal.buxtehude.de)",
+    "search_results": [
+      {
+        "url": "https://portal.buxtehude.de/",
+        "title": "Startseite - Serviceportal Hansestadt Buxtehude"
+      },
+      {
+        "url": "https://www.spkhb.de/de/home/service.html",
+        "title": "Service-Center | Sparkasse Harburg-Buxtehude"
+      },
+      {
+        "url": "https://www.cm-buxte-service.de/",
+        "title": "CM-Buxte-Service | Hausmeisterservice | Buxtehude | Home"
+      },
+      {
+        "url": "https://www.dasoertliche.de/Themen/Dienstleistungsservices/Buxtehude.html",
+        "title": "Dienstleistungsservices in Buxtehude ⇒ in Das Örtliche"
+      },
+      {
+        "url": "http://routec.de/",
+        "title": "RouTEC IT-Services Buxtehude | Netzwerke | Systeme | Sicherheit ..."
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "node:9335811563",
+    "name": "SM Elec",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2179572,
+    "lon": 0.1643038,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811563",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2179572,0.1643038",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (de.wikipedia.org)",
+    "search_results": [
+      {
+        "url": "https://de.wikipedia.org/wiki/SM",
+        "title": "SM – Wikipedia"
+      },
+      {
+        "url": "https://www.sm-apartments-elegance.de/de/buchen-rot.php",
+        "title": "Buchungskalender - SM Apartment ROT - SM Apartments ELEGANCE"
+      },
+      {
+        "url": "https://www.sm-hostel.de/ausstattung.php",
+        "title": "SM-Hostel - Ausstattung"
+      },
+      {
+        "url": "https://abkuerzungen.woxikon.de/abkuerzung/sm.php",
+        "title": "Abkürzung: sm - alle Bedeutungen | Was bedeutet das?"
+      },
+      {
+        "url": "https://studio-tbz.de/lady-anna/",
+        "title": "Lady Anna - studio-tbz.de"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "node:9332693411",
+    "name": "SNEF",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2138263,
+    "lon": 0.1620573,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9332693411",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2138263,0.1620573",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (zhihu.com)",
+    "search_results": [
+      {
+        "url": "https://www.zhihu.com/question/623244551",
+        "title": "微软推出跨 Win11、必应、Edge 等应用的统一 Copilot AI 助手，将带 …"
+      },
+      {
+        "url": "https://www.zhihu.com/question/1963698332040929828",
+        "title": "GitHub Copilot、Cursor、CodeX 与Claude Code，我究竟要为谁付费？"
+      },
+      {
+        "url": "https://www.zhihu.com/question/526374767",
+        "title": "copilot有什么好玩/强大的使用技巧？ - 知乎"
+      },
+      {
+        "url": "https://www.zhihu.com/question/1938594125936064121",
+        "title": "中国大陆地区不能用Copilot吗？ - 知乎"
+      },
+      {
+        "url": "https://www.zhihu.com/question/648375623",
+        "title": "copilot pro值得买吗？ - 知乎"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "node:9335811585",
+    "name": "Sols Pro Services",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.212896,
+    "lon": 0.1711811,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811585",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.212896,0.1711811",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (sologroup-paris.com)",
+    "search_results": [
+      {
+        "url": "https://www.sologroup-paris.com/en/page/brands/sols",
+        "title": "SOL’S – European leader in customizable textiles"
+      },
+      {
+        "url": "https://www.textilwaren24.eu/sols/",
+        "title": "Sol´s Bekleidung günstig online kaufen - textilwaren24"
+      },
+      {
+        "url": "https://www.textil-grosshandel.eu/sols/imperial/",
+        "title": "Shirts von SOL'S Imperial bei textilgrosshandel.eu"
+      },
+      {
+        "url": "https://www.shirt-guenstig-kaufen.de/sols/",
+        "title": "SOL´S Onlineshop - Textilien günstig online kaufen"
+      },
+      {
+        "url": "https://www.foxxshirts.de/marken/sols/",
+        "title": "Sol's Basics online kaufen | Foxxshirts Onlineshop"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "node:9335811583",
+    "name": "Start People",
+    "category": "office:employment_agency",
+    "subcategory": "employment_agency",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2196207,
+    "lon": 0.1643989,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811583",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2196207,0.1643989",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (bodenseekreis.de)",
+    "search_results": [
+      {
+        "url": "https://www.bodenseekreis.de/",
+        "title": "Start"
+      },
+      {
+        "url": "https://start-ni-mitte.de/",
+        "title": "Regionalverkehre Start Deutschland GmbH"
+      },
+      {
+        "url": "https://support.microsoft.com/de-de/windows/konfigurieren-von-startanwendungen-in-windows-115a420a-0bff-4a6f-90e0-1934c844e473",
+        "title": "Konfigurieren von Startanwendungen in Windows - Microsoft-Support"
+      },
+      {
+        "url": "https://de.wikipedia.org/wiki/Regionalverkehre_Start_Deutschland",
+        "title": "Regionalverkehre Start Deutschland – Wikipedia"
+      },
+      {
+        "url": "https://www.startgmbh.com/verkehrswender/ueber-uns/",
+        "title": "Über start - Start"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "node:9332693394",
+    "name": "TPPL",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2137369,
+    "lon": 0.1668304,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9332693394",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2137369,0.1668304",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (idp.agate.ch)",
+    "search_results": [
+      {
+        "url": "https://idp.agate.ch/IDP/",
+        "title": "Agate"
+      },
+      {
+        "url": "https://agate.alco-dec.admin.ch/SSO/SSO/Login",
+        "title": "agate.alco-dec.admin.ch"
+      },
+      {
+        "url": "https://agate.softec.ch/LU/IdPLogin.aspx",
+        "title": "IdPLogin - agate.softec.ch"
+      },
+      {
+        "url": "https://zh.agriportal.ch/?forceAgatelogin=true",
+        "title": "agriPortal"
+      },
+      {
+        "url": "https://www.gelan.ch/de/Support/agate",
+        "title": "Agate | GELAN - Gesamtlösung EDV Landwirtschaft und Natur"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "way:70737373",
+    "name": "Église Notre-Dame",
+    "category": "tourism:attraction",
+    "subcategory": "attraction",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "lat": 47.2479647,
+    "lon": 0.3162042,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/way/70737373",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2479647,0.3162042",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (de.pons.com)",
+    "search_results": [
+      {
+        "url": "https://de.pons.com/%C3%BCbersetzung/franz%C3%B6sisch-deutsch/%C3%A9glise",
+        "title": "ÉGLISE - Französisch-Deutsch Übersetzung | PONS"
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/%C3%A9glise",
+        "title": "église - Wiktionary, the free dictionary"
+      },
+      {
+        "url": "https://fr.wikipedia.org/wiki/%C3%89glise_(%C3%A9difice)",
+        "title": "Église (édifice) — Wikipédia"
+      },
+      {
+        "url": "https://de.langenscheidt.com/franzoesisch-deutsch/%C3%A9glise",
+        "title": "église - Deutsch-Übersetzung - Langenscheidt Französisch-Deutsch …"
+      },
+      {
+        "url": "https://www.visitberlin.de/fr/eglises-et-lieux-de-culte",
+        "title": "Églises et lieux de culte - visitBerlin"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 1
+  },
+  {
+    "id": "node:9335811588",
+    "name": "Adecco",
+    "category": "office:employment_agency",
+    "subcategory": "employment_agency",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.adecco.com/de-de",
+    "lat": 47.2193724,
+    "lon": 0.164769,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811588",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2193724,0.164769",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (adecco.com)",
+    "search_results": [
+      {
+        "url": "https://www.adecco.com/de-de",
+        "title": "Adecco Personaldienstleistungen | Jetzt mit neuen Jobs"
+      },
+      {
+        "url": "https://www.adeccogroup.de/",
+        "title": "The Adecco Group Deutschland – Aus jahrzehntelanger Erfahrung …"
+      },
+      {
+        "url": "https://meinjob.adecco.de/app/browser/login",
+        "title": "Mein Job"
+      },
+      {
+        "url": "https://careers.adeccogroup.com/de/",
+        "title": "Die Arbeitswelt von ihrer besten Seite und du kannst ... - The Adecco …"
+      },
+      {
+        "url": "https://www.adecco.com/de-de/ueber-uns",
+        "title": "Über Uns | Adecco Personaldienstleistungen GmbH"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:9335811556",
+    "name": "Ambiance Cuisine",
+    "category": "shop:kitchen",
+    "subcategory": "kitchen",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://ambiance-sport.de/",
+    "lat": 47.2127839,
+    "lon": 0.1710675,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811556",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2127839,0.1710675",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (ambiance-sport.de)",
+    "search_results": [
+      {
+        "url": "https://ambiance-sport.de/",
+        "title": "Startseite - Ambiance Sport"
+      },
+      {
+        "url": "https://www.duden.de/rechtschreibung/Ambiance",
+        "title": "Ambiance Rechtschreibung, Bedeutung, Definition, Herkunft Duden"
+      },
+      {
+        "url": "https://ambiance.de/",
+        "title": "Ambiance"
+      },
+      {
+        "url": "https://dict.leo.org/englisch-deutsch/ambiance",
+        "title": "ambiance - LEO: Übersetzung im Englisch ⇔ Deutsch Wörterbuch"
+      },
+      {
+        "url": "https://www.dwds.de/wb/Ambiance",
+        "title": "Ambiance – Schreibung, Synonyme, Beispiele | DWDS"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "way:189091229",
+    "name": "Angélique Léon",
+    "category": "shop:wine",
+    "subcategory": "wine",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://angelique-leon.com/",
+    "lat": 47.2007803,
+    "lon": 0.143577,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/way/189091229",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2007803,0.143577",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (angelique-leon.com)",
+    "search_results": [
+      {
+        "url": "https://angelique-leon.com/",
+        "title": "Angélique Léon, vigneronne passionnée à Chinon"
+      },
+      {
+        "url": "https://maisondesvinsduveron.com/nos-vignerons/angelique-leon/",
+        "title": "Angélique Léon • La Maison des Vins du Véron"
+      },
+      {
+        "url": "https://www.vignerons-independants.com/annuaire-des-vignerons-independants-de-france/angelique-leon",
+        "title": "ANGÉLIQUE LEON - vignerons-independants.com"
+      },
+      {
+        "url": "https://www.pagesjaunes.fr/pros/62333041",
+        "title": "Angélique Léon Beaumont en Véron (adresse, horaires)"
+      },
+      {
+        "url": "https://divineloire.fr/vigneron/domaine-angelique-leon/",
+        "title": "Domaine Angélique Léon à Beaumont-en-Véron (Chinon)"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:9332693393",
+    "name": "Apave",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://france.apave.com/",
+    "lat": 47.2136262,
+    "lon": 0.1620516,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9332693393",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2136262,0.1620516",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (france.apave.com)",
+    "search_results": [
+      {
+        "url": "https://france.apave.com/",
+        "title": "Apave France - Maitrise des risques techniques, humains ..."
+      },
+      {
+        "url": "https://app.apave-support.com/t/AboutUs",
+        "title": "APAVE"
+      },
+      {
+        "url": "https://fr.wikipedia.org/wiki/Apave",
+        "title": "Apave — Wikipédia"
+      },
+      {
+        "url": "https://www.apave.com/fr-FR",
+        "title": "Groupe Apave - Maîtrise des risques depuis 150 ans"
+      },
+      {
+        "url": "https://france.apave.com/Vos-besoins/Former-vos-equipes",
+        "title": "Formation professionnelle et développement des compétences | Apave"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:9335811567",
+    "name": "ASCA",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://asca-scop-sa.com/",
+    "lat": 47.213952,
+    "lon": 0.1711312,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811567",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.213952,0.1711312",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (asca-scop-sa.com)",
+    "search_results": [
+      {
+        "url": "https://asca-scop-sa.com/",
+        "title": "Ascascop - ASCA - Industrie"
+      },
+      {
+        "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/agencement-securite-creations-aluminium-a-s-c-a-asca-409476363",
+        "title": "AGENCEMENT SECURITE-CREATIONS ALUMINIUM (A.S.C.A.) (ASCA)"
+      },
+      {
+        "url": "https://www.pappers.fr/entreprise/asca-agencement-securite-creations-aluminium-409476363",
+        "title": "Société ASCA AGENCEMENT SECURITE-CREATIONS ALUMINIUM : …"
+      },
+      {
+        "url": "https://fr.kompass.com/c/asca/fr6426514/",
+        "title": "Asca - Avoine 37420 (Indre-et-loire), 6 Zi Des Grands Clos ... - Kompass"
+      },
+      {
+        "url": "https://entreprises.lefigaro.fr/agencement-securite-creations-aluminiu-asca-37/entreprise-409476363",
+        "title": "Agencement Securite-Creations Aluminium - Asca (37420) : siret, siren ..."
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:9335811578",
+    "name": "ASPA 2",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.aspa2.fr/",
+    "lat": 47.21735,
+    "lon": 0.1697599,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811578",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.21735,0.1697599",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (aspa2.fr)",
+    "search_results": [
+      {
+        "url": "https://www.aspa2.fr/",
+        "title": "Aspa2"
+      },
+      {
+        "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/earl-aspa-ii-790028351",
+        "title": "Société EARL ASPA II à 37420 AVOINE - L’Annuaire des Entreprises ..."
+      },
+      {
+        "url": "https://www.societe.com/etablissement/earl-aspa-ii-79002835100019.html",
+        "title": "Etablissement EARL ASPA II à AVOINE (37420) sur SOCIETE.COM ..."
+      },
+      {
+        "url": "https://www.chinon-vienne-loire.fr/commercant/aspa-2/",
+        "title": "CC Chinon Vienne et Loire"
+      },
+      {
+        "url": "https://www.acheteralasource.com/producteur/130736",
+        "title": "EARL ASPA2 : Légumes en vente directe producteur - AVOINE (37420)"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:9335811550",
+    "name": "ATTM",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.societe.com/etablissement/a-t-t-m-34083286400037.html",
+    "lat": 47.2169238,
+    "lon": 0.1654374,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811550",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2169238,0.1654374",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (societe.com)",
+    "search_results": [
+      {
+        "url": "https://www.societe.com/etablissement/a-t-t-m-34083286400037.html",
+        "title": "Etablissement A.T.T.M à AVOINE (37420) sur SOCIETE.COM …"
+      },
+      {
+        "url": "https://entreprise-attm.wixsite.com/accueil",
+        "title": "ATTM Atelier Tolerie Tuyauterie Metallerie"
+      },
+      {
+        "url": "https://www.pappers.fr/entreprise/attm-atelier-tuyauterie-tolerie-metalerie-340832864",
+        "title": "Société ATTM ATELIER TUYAUTERIE TOLERIE METALERIE - Pappers"
+      },
+      {
+        "url": "https://www.pagesjaunes.fr/pros/05570516",
+        "title": "A.T.T.M Atelier Tuyauterie Tolerie Métallerie Avoine"
+      },
+      {
+        "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/atelier-tuyauterie-tolerie-metalerie-attm-340832864",
+        "title": "Société ATELIER TUYAUTERIE TOLERIE METALERIE (ATTM) à 37420 …"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:9332693392",
+    "name": "Bilfinger",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.bilfinger.com/fr/fr/",
+    "lat": 47.2134071,
+    "lon": 0.1626577,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9332693392",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2134071,0.1626577",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (bilfinger.com)",
+    "search_results": [
+      {
+        "url": "https://www.bilfinger.com/fr/fr/",
+        "title": "France: Bilfinger SE"
+      },
+      {
+        "url": "https://fr.wikipedia.org/wiki/Bilfinger_(entreprise)",
+        "title": "Bilfinger (entreprise) — Wikipédia"
+      },
+      {
+        "url": "https://annuaire-entreprises.data.gouv.fr/etablissement/48944153500064",
+        "title": "L’Annuaire des Entreprises : le moteur de recherche officiel"
+      },
+      {
+        "url": "https://fr.linkedin.com/company/bilfinger",
+        "title": "Bilfinger - LinkedIn"
+      },
+      {
+        "url": "https://www.bilfinger.com/en/fr/",
+        "title": "France - Bilfinger"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:2339173987",
+    "name": "Boucherie - Charcuterie Traiteur",
+    "category": "shop:butcher",
+    "subcategory": "butcher",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "http://www.lesbouchers-tours.com/",
+    "lat": 47.2055169,
+    "lon": 0.1824295,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/2339173987",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2055169,0.1824295",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (lesbouchers-tours.com)",
+    "search_results": [
+      {
+        "url": "http://www.lesbouchers-tours.com/",
+        "title": "Les Bouchers: boucherie charcuterie traiteur Indre-et-Loire 37"
+      },
+      {
+        "url": "https://boucheries.net/37/avoine/boucherie-charcuterie-marchais-traiteur-fyv",
+        "title": "Boucherie Charcuterie Marchais - traiteur Avoine (37420)"
+      },
+      {
+        "url": "https://lestraiteurs.fr/37/sp/traiteur-boucher-charcutier",
+        "title": "Traiteur boucher-charcutier d'Indre-et-Loire"
+      },
+      {
+        "url": "https://www.pagesjaunes.fr/annuaire/departement/indre-et-loire-37/boucheries-boucheries-charcuteries",
+        "title": "Boucheries et Charcuteries en Indre-et-Loire (37) - Trouvez votre ..."
+      },
+      {
+        "url": "https://chez-augustin.com/",
+        "title": "Votre boucher-charcutier à Loches – Artisan boucher-charcutier à …"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:9332693397",
+    "name": "Bouygues Énergie et Services",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.bouygues.com/en/",
+    "lat": 47.2138192,
+    "lon": 0.1614446,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9332693397",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2138192,0.1614446",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (bouygues.com)",
+    "search_results": [
+      {
+        "url": "https://www.bouygues.com/en/",
+        "title": "Bouygues Group - Making progress become reality"
+      },
+      {
+        "url": "https://www.bouyguestelecom.fr/?msockid=3e12da95e48f6c6a103bcdc3e5ad6d9a",
+        "title": "Bouygues Telecom - téléphone, forfait mobile, offre internet"
+      },
+      {
+        "url": "https://de.wikipedia.org/wiki/Bouygues",
+        "title": "Bouygues – Wikipedia"
+      },
+      {
+        "url": "https://www.kraftanlagen.com/ueber-uns/die-bouygues-gruppe/",
+        "title": "Die Bouygues Gruppe - Kraftanlagen Energies & Services SE"
+      },
+      {
+        "url": "https://de.marketscreener.com/kurs/aktie/BOUYGUES-8357764/unternehmen-gruppe/",
+        "title": "BOUYGUES Gruppe: Liste der Tochtergesellschaften & Beziehungen ..."
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:10038069342",
+    "name": "Cabas Huismois",
+    "category": "shop:convenience",
+    "subcategory": "convenience",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.facebook.com/Lecabashuismois/",
+    "lat": 47.2316764,
+    "lon": 0.2534786,
+    "opening_hours": "Mo 08:00-12:30,16:30-19:15; Tu 08:30-12:30; We-Su 09:30-12:30; Th off; Fr 09:30-12:30,16:30-19:15",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/10038069342",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2316764,0.2534786",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (facebook.com)",
+    "search_results": [
+      {
+        "url": "https://www.facebook.com/Lecabashuismois/",
+        "title": "Le Cabas Huismois | Huismes - Facebook"
+      },
+      {
+        "url": "https://annuaire-entreprises.data.gouv.fr/etablissement/84871167700015",
+        "title": "LE CABAS HUISMOIS à 37420 HUISMES - L’Annuaire des Entreprises ..."
+      },
+      {
+        "url": "https://epicerie.autour-de-moi.com/le-cabas-huismois-370094.html",
+        "title": "Le cabas huismois à Huismes | 24 Avis - 1 Photos"
+      },
+      {
+        "url": "https://www.pagesjaunes.fr/pros/63621177",
+        "title": "LE CABAS HUISMOIS Huismes (adresse) - Pages Jaunes"
+      },
+      {
+        "url": "https://www.petitfute.com/v10686-huismes-37420/c650-produits-gourmands-vins/c1104-epicerie/2032670-cabas-huismois.html",
+        "title": "CABAS HUISMOIS - Épicerie - Huismes (37420) - Petit Futé"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:9332693401",
+    "name": "Casse auto du Véron",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://casseautos.com/37/savigny-en-veron/casse-auto-du-veron-bc",
+    "lat": 47.2106039,
+    "lon": 0.1590578,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9332693401",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2106039,0.1590578",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (casseautos.com)",
+    "search_results": [
+      {
+        "url": "https://casseautos.com/37/savigny-en-veron/casse-auto-du-veron-bc",
+        "title": "Casse Auto du Veron Savigny-en-Véron (37420)"
+      },
+      {
+        "url": "https://www.pagesjaunes.fr/pros/50388352",
+        "title": "Casse Auto Du Veron Savigny en Véron - Casse …"
+      },
+      {
+        "url": "https://www.telephone.city/casse-auto/casse-auto-du-veron-savigny-en-veron-217017.html",
+        "title": "Casse Auto Du Veron Savigny-en-Véron (37420) – Horaires & contact"
+      },
+      {
+        "url": "https://www.soscasseauto.fr/casse-auto-savigny-en-veron/casse-auto-du-veron.html",
+        "title": "Casse Auto Du Veron : casse auto à Savigny-en-véron (37) - Pièces ..."
+      },
+      {
+        "url": "https://www.centres-vhu-agrees.fr/societe-549/",
+        "title": "Centre VHU Agréé: Casse Auto Du Veron à SAVIGNY-EN …"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "way:187037922",
+    "name": "Christian Tribut",
+    "category": "craft:painter",
+    "subcategory": "painter",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.pagesjaunes.fr/pros/08163345",
+    "lat": 47.2181082,
+    "lon": 0.1659243,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/way/187037922",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2181082,0.1659243",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (pagesjaunes.fr)",
+    "search_results": [
+      {
+        "url": "https://www.pagesjaunes.fr/pros/08163345",
+        "title": "Tribut Christian Avoine - Entreprise de peinture (adresse, horaires)"
+      },
+      {
+        "url": "https://fr.mappy.com/poi/58d00d0c0351d173094b6201",
+        "title": "Tribut Christian - Entreprise de peinture, 22 r Lavoisier, 37420 Avoine ..."
+      },
+      {
+        "url": "https://entreprises.lefigaro.fr/monsieur-christian-tribut-37/entreprise-333548451",
+        "title": "Monsieur Christian Tribut (37140) : siret, siren, TVA, adresse..."
+      },
+      {
+        "url": "https://indre-et-loire-province.cataloxy.org/firms/benais/monsieur-christian-tribut--artisan.1450817_c.htm",
+        "title": "Monsieur Christian Tribut - Artisan, Benais: adresse — Catalogue d ..."
+      },
+      {
+        "url": "https://www.societe.com/societe/monsieur-christian-tribut-333548451.html",
+        "title": "MONSIEUR CHRISTIAN TRIBUT - Societe.com"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "relation:20044001",
+    "name": "Château d'Ussé",
+    "category": "tourism:attraction",
+    "subcategory": "attraction",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.chateaudusse.fr/",
+    "lat": 47.2497911,
+    "lon": 0.2913042,
+    "opening_hours": "Feb 16 - Mar 31 10:00-18:00; Apr 1 - Sep 30 10:00-19:00; Oct 1 - Nov 1 10:00-18:00",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/relation/20044001",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2497911,0.2913042",
+    "website_status": "yes",
+    "website_confidence": "high",
+    "website_evidence": "website tag présent dans OpenStreetMap",
+    "search_results": [],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:9332693391",
+    "name": "Domaine de la Roche Honneur",
+    "category": "craft:winery",
+    "subcategory": "winery",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://boncaviste.com/37/savigny-en-veron/domaine-de-la-roche-honneur-drv",
+    "lat": 47.2094658,
+    "lon": 0.1533879,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9332693391",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2094658,0.1533879",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (boncaviste.com)",
+    "search_results": [
+      {
+        "url": "https://boncaviste.com/37/savigny-en-veron/domaine-de-la-roche-honneur-drv",
+        "title": "Domaine de la Roche Honneur - Caviste Savigny-en-Véron (37420)"
+      },
+      {
+        "url": "https://www.pagesjaunes.fr/pros/05569488",
+        "title": "Domaine Roche Honneur Savigny en Véron (adresse, horaires)"
+      },
+      {
+        "url": "https://www.petitfute.com/v10820-savigny-en-veron-37420/c650-produits-gourmands-vins/c1117-vins-alcools-boissons-sans-alcool/c718-domaine/241763-domaine-de-la-roche-honneur.html",
+        "title": "DOMAINE DE LA ROCHE HONNEUR - Domaine - Savigny-En-Véron (37420)"
+      },
+      {
+        "url": "https://www.hachette-vins.com/guide-vins/producteurs/1301/dom-de-la-roche-honneur/",
+        "title": "Domaine de la Roche Honneur - Guide Hachette des Vins"
+      },
+      {
+        "url": "https://www.118000.fr/e_C0099434580",
+        "title": "Domaine Roche Honneur à SAVIGNY EN VÉRON 37420 - 118000.fr"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "way:189724544",
+    "name": "Domaine de la Roche Honneur",
+    "category": "shop:wine",
+    "subcategory": "wine",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://boncaviste.com/37/savigny-en-veron/domaine-de-la-roche-honneur-drv",
+    "lat": 47.2069005,
+    "lon": 0.1407502,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/way/189724544",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2069005,0.1407502",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (boncaviste.com)",
+    "search_results": [
+      {
+        "url": "https://boncaviste.com/37/savigny-en-veron/domaine-de-la-roche-honneur-drv",
+        "title": "Domaine de la Roche Honneur - Caviste Savigny-en-Véron (37420)"
+      },
+      {
+        "url": "https://www.pagesjaunes.fr/pros/05569488",
+        "title": "Domaine Roche Honneur Savigny en Véron (adresse, horaires)"
+      },
+      {
+        "url": "https://www.petitfute.com/v10820-savigny-en-veron-37420/c650-produits-gourmands-vins/c1117-vins-alcools-boissons-sans-alcool/c718-domaine/241763-domaine-de-la-roche-honneur.html",
+        "title": "DOMAINE DE LA ROCHE HONNEUR - Domaine - Savigny-En-Véron (37420)"
+      },
+      {
+        "url": "https://www.hachette-vins.com/guide-vins/producteurs/1301/dom-de-la-roche-honneur/",
+        "title": "Domaine de la Roche Honneur - Guide Hachette des Vins"
+      },
+      {
+        "url": "https://www.118000.fr/e_C0099434580",
+        "title": "Domaine Roche Honneur à SAVIGNY EN VÉRON 37420 - 118000.fr"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "way:189724538",
+    "name": "Domaine du Raifault",
+    "category": "shop:wine",
+    "subcategory": "wine",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://cavemonplaisir.fr/domaines/domaine_du_raifault_cave_monplaisir_chinon/",
+    "lat": 47.2070566,
+    "lon": 0.1390743,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/way/189724538",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2070566,0.1390743",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (cavemonplaisir.fr)",
+    "search_results": [
+      {
+        "url": "https://cavemonplaisir.fr/domaines/domaine_du_raifault_cave_monplaisir_chinon/",
+        "title": "domaine_du_raifault_cave_monplaisir_chinon"
+      },
+      {
+        "url": "https://www.olga-raffault.com/",
+        "title": "Domaine Olga Raffault : vins de Chinon, vins de Loire. Vin rouge, rosé ..."
+      },
+      {
+        "url": "https://divineloire.fr/vigneron/domaine-du-raifault/",
+        "title": "Domaine du Raifault à Savigny-en-Véron (Chinon)"
+      },
+      {
+        "url": "https://indre-et-loire-province.cataloxy.org/firms/savigny-en-veron/domaine-du-raifault-exploitation-agricole-a-responsabilite-limitee.182152_c.htm",
+        "title": "Domaine Du Raifault - EARL JULIEN RAFFAULT, Domaine Du Raifault ..."
+      },
+      {
+        "url": "https://boncaviste.com/37/savigny-en-veron/domaine-du-raifault-julien-raffault-b7t",
+        "title": "Domaine du Raifault Julien RAFFAULT - Caviste Savigny-en-Véron …"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "way:189592210",
+    "name": "Domaine Jean-Maurice Raffault",
+    "category": "shop:wine",
+    "subcategory": "wine",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.bing.com/ck/a?!&&p=de9d762134db8d6553776ad3d392d6e309c79239d0b52eea91d340c0528dffcbJmltdHM9MTc3ODQ1NzYwMA&ptn=3&ver=2&hsh=4&fclid=35d2dc08-24c8-601e-144c-cb5e25d16182&u=a1L3Nob3A_cT0lMjJkb21haW5lK2plYW4tbWF1cmljZStyYWZmYXVsdCUyMiszNzQyMCtzaXRlK29mZmljaWVsJkZPUk09U0hPUFBBJm9yaWdpbklHVUlEPTkwRkE1REMyQzZCNDRGQjNBOUUzNUNBNURERUVGRjFB&ntb=1",
+    "lat": 47.204775,
+    "lon": 0.1461395,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/way/189592210",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.204775,0.1461395",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (bing.com)",
+    "search_results": [
+      {
+        "url": "https://www.bing.com/ck/a?!&&p=de9d762134db8d6553776ad3d392d6e309c79239d0b52eea91d340c0528dffcbJmltdHM9MTc3ODQ1NzYwMA&ptn=3&ver=2&hsh=4&fclid=35d2dc08-24c8-601e-144c-cb5e25d16182&u=a1L3Nob3A_cT0lMjJkb21haW5lK2plYW4tbWF1cmljZStyYWZmYXVsdCUyMiszNzQyMCtzaXRlK29mZmljaWVsJkZPUk09U0hPUFBBJm9yaWdpbklHVUlEPTkwRkE1REMyQzZCNDRGQjNBOUUzNUNBNURERUVGRjFB&ntb=1",
+        "title": "Voir \"domaine Jean-Maurice Raffault\" 37420 Site Officiel"
+      },
+      {
+        "url": "https://jean-maurice-raffault.com/index.php",
+        "title": "Domaine Jean Maurice Raffault - Depuis 1693"
+      },
+      {
+        "url": "https://cavemonplaisir.fr/domaine-jean-maurice-raffault/",
+        "title": "Domaine Jean Maurice Raffault - La CAVE MONPLAISIR"
+      },
+      {
+        "url": "https://maisondesvinsduveron.com/nos-vignerons/jean-maurice-raffault/",
+        "title": "Rodolphe Raffault - La Maison des Vins du Véron"
+      },
+      {
+        "url": "https://geograppe.fr/en/vallee-de-la-loire/appellation/aoc-chinon/domaine-jean-maurice-raffault",
+        "title": "Domaine Jean-Maurice Raffault à Savigny-en-Véron - AOC Chinon"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:9332693414",
+    "name": "Ecosys",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.ecosysgroup.com/",
+    "lat": 47.2104453,
+    "lon": 0.1613793,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9332693414",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2104453,0.1613793",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (ecosysgroup.com)",
+    "search_results": [
+      {
+        "url": "https://www.ecosysgroup.com/",
+        "title": "ECOSYS Group – Data, IA & Modélisation d’Ecosystèmes"
+      },
+      {
+        "url": "https://www.societe.com/etablissement/ecosys-39265765600139.html",
+        "title": "Etablissement ECOSYS à SAVIGNY-EN-VERON (37420) sur …"
+      },
+      {
+        "url": "https://annuaire-entreprises.data.gouv.fr/etablissement/39265765600139",
+        "title": "Etablissement secondaire - ECOSYS à 37420 SAVIGNY-EN-VERON"
+      },
+      {
+        "url": "http://www.ecosys.com/bureau/equipe/",
+        "title": "Équipe : Ecosys"
+      },
+      {
+        "url": "https://www.pple.fr/entreprise/ecosys-39265765600139",
+        "title": "ECOSYS - 37420 SAVIGNY-EN-VERON - 392 657 656 00139 - PPLE"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "way:124993171",
+    "name": "Eiffage Énergie Systèmes - Clemessy",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.eiffage.com/",
+    "lat": 47.213874,
+    "lon": 0.1636705,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/way/124993171",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.213874,0.1636705",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (eiffage.com)",
+    "search_results": [
+      {
+        "url": "https://www.eiffage.com/",
+        "title": "Accueil | Groupe Eiffage"
+      },
+      {
+        "url": "https://eiffage-infra.de/organisation/infra-bau",
+        "title": "Bauen Sie mit uns!: Eiffage"
+      },
+      {
+        "url": "https://de.wikipedia.org/wiki/Eiffage",
+        "title": "Eiffage – Wikipedia"
+      },
+      {
+        "url": "https://www.eiffageconstruction.com/",
+        "title": "Eiffage Construction"
+      },
+      {
+        "url": "https://www.eiffage.ch/fr/a-propos-de-nous",
+        "title": "À propos de nous | Eiffage"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:9335811581",
+    "name": "Engie Axima",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.engie-deutschland.de/de",
+    "lat": 47.2183877,
+    "lon": 0.1638555,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811581",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2183877,0.1638555",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (engie-deutschland.de)",
+    "search_results": [
+      {
+        "url": "https://www.engie-deutschland.de/de",
+        "title": "Energiedienstleistungen und Energielösungen | ENGIE Deutschland"
+      },
+      {
+        "url": "https://www.engie.de/de/engie-deutschland",
+        "title": "ENGIE Deutschland"
+      },
+      {
+        "url": "https://www.engie.com/en",
+        "title": "World Energy Actor | ENGIE"
+      },
+      {
+        "url": "https://de.wikipedia.org/wiki/Engie",
+        "title": "Engie – Wikipedia"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Engie",
+        "title": "Engie - Wikipedia"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:9335811569",
+    "name": "Engie Endel",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.engie-deutschland.de/de",
+    "lat": 47.2163884,
+    "lon": 0.1649414,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811569",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2163884,0.1649414",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (engie-deutschland.de)",
+    "search_results": [
+      {
+        "url": "https://www.engie-deutschland.de/de",
+        "title": "Energiedienstleistungen und Energielösungen | ENGIE Deutschland"
+      },
+      {
+        "url": "https://www.engie.de/de/engie-deutschland",
+        "title": "ENGIE Deutschland"
+      },
+      {
+        "url": "https://www.engie.com/en",
+        "title": "World Energy Actor | ENGIE"
+      },
+      {
+        "url": "https://de.wikipedia.org/wiki/Engie",
+        "title": "Engie – Wikipedia"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Engie",
+        "title": "Engie - Wikipedia"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:3114974989",
+    "name": "Europcar",
+    "category": "amenity:car_rental",
+    "subcategory": "car_rental",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.europcar.fr/fr-fr/agences/france/avoine",
+    "lat": 47.2133644,
+    "lon": 0.1707095,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/3114974989",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2133644,0.1707095",
+    "website_status": "yes",
+    "website_confidence": "high",
+    "website_evidence": "website tag présent dans OpenStreetMap",
+    "search_results": [],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:9335811589",
+    "name": "Flament Philippe et Fils",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.societe.com/societe/flament-philippe-et-fils-sarl-811487792.html",
+    "lat": 47.2192744,
+    "lon": 0.1677814,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811589",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2192744,0.1677814",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (societe.com)",
+    "search_results": [
+      {
+        "url": "https://www.societe.com/societe/flament-philippe-et-fils-sarl-811487792.html",
+        "title": "Société FLAMENT PHILIPPE ET FILS SARL (811487792) à AVOINE (37420)."
+      },
+      {
+        "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/flament-philippe-et-fils-sarl-taille-de-pierre-flament-philippe-811487792",
+        "title": "FLAMENT PHILIPPE ET FILS SARL (TAILLE DE PIERRE FLAMENT …"
+      },
+      {
+        "url": "https://www.pagesjaunes.fr/pros/56250235",
+        "title": "Flament Philippe & fils SARL Avoine - Tailleur de pierres (adresse ..."
+      },
+      {
+        "url": "https://indre-et-loire-province.cataloxy.org/firms/avoine/taille-de-pierre-flament-philippe--societe-a-responsabilite-limitee-sans-autre-indication.1457428_c.htm",
+        "title": "Taille De Pierre Flament Philippe - FLAMENT PHILIPPE ET FILS SARL"
+      },
+      {
+        "url": "https://www.pappers.fr/entreprise/flament-philippe-et-fils-sarl-811487792",
+        "title": "Société FLAMENT PHILIPPE ET FILS SARL - Pappers"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:9335811564",
+    "name": "Foc",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.focus.de/",
+    "lat": 47.2125105,
+    "lon": 0.1724266,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811564",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2125105,0.1724266",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (focus.de)",
+    "search_results": [
+      {
+        "url": "https://www.focus.de/",
+        "title": "FOCUS online - Aktuelle Nachrichten"
+      },
+      {
+        "url": "https://www.foc-fo.de/",
+        "title": "FOC – fibre optical components GmbH – Ihr Spezialist für faseroptische ..."
+      },
+      {
+        "url": "https://www.abbreviationfinder.org/de/acronyms/foc.html",
+        "title": "Was bedeutet FOC? - Abbreviation Finder"
+      },
+      {
+        "url": "https://de.wikipedia.org/wiki/FOC",
+        "title": "FOC – Wikipedia"
+      },
+      {
+        "url": "https://abkuerzungen.woxikon.de/abkuerzung/foc.php",
+        "title": "Abkürzung: foc - alle Bedeutungen | Was bedeutet das?"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "way:128305223",
+    "name": "Gîte des Figuiers",
+    "category": "tourism:chalet",
+    "subcategory": "chalet",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.gites-de-france.com/de",
+    "lat": 47.2270734,
+    "lon": 0.2548042,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/way/128305223",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2270734,0.2548042",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (gites-de-france.com)",
+    "search_results": [
+      {
+        "url": "https://www.gites-de-france.com/de",
+        "title": "Gîtes de France®. ferienvermietungen, gästezimmer, ferienvermietung ..."
+      },
+      {
+        "url": "https://www.gites.com/de",
+        "title": "Wirklich zu Hause, in Frankreich! | Gites"
+      },
+      {
+        "url": "https://www.naturhaeuschen.de/gite",
+        "title": "Gîte buchen auf Naturhaeuschen.de"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/G%C3%AEte",
+        "title": "Gîte - Wikipedia"
+      },
+      {
+        "url": "https://www.gites.fr/",
+        "title": "Locations de Vacances : Gîtes, Appartements, Résidences et Campings"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:9335811554",
+    "name": "Helios",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.heliosventilatoren.de/de/",
+    "lat": 47.2178197,
+    "lon": 0.1657269,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811554",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2178197,0.1657269",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (heliosventilatoren.de)",
+    "search_results": [
+      {
+        "url": "https://www.heliosventilatoren.de/de/",
+        "title": "Lüftung für Wohnen, Industrie und Gewerbe | Helios Ventilatoren"
+      },
+      {
+        "url": "https://www.helios-gesundheit.de/",
+        "title": "Helios Gesundheit: Unser Ziel ist Ihre Gesundheit"
+      },
+      {
+        "url": "https://de.wikipedia.org/wiki/Helios_Kliniken",
+        "title": "Helios Kliniken – Wikipedia"
+      },
+      {
+        "url": "https://www.helios-international.com/about-helios",
+        "title": "About Helios"
+      },
+      {
+        "url": "https://www.helios.de/contact.html?lang_id=de",
+        "title": "HELIOS - Kontakt"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:9335811579",
+    "name": "Innov' Formation",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://innovv.com/",
+    "lat": 47.2193821,
+    "lon": 0.1642068,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811579",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2193821,0.1642068",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (innovv.com)",
+    "search_results": [
+      {
+        "url": "https://innovv.com/",
+        "title": "INNOVV Motorcycle Safety Systems: Dash Cams, CarPlay & BSD"
+      },
+      {
+        "url": "https://www.inov8.com/eu/",
+        "title": "Official INOV8® website. Ambition In Motion | INOV8 EU"
+      },
+      {
+        "url": "https://www.bing.com/ck/a?!&&p=43fe2ad985344a7d1eee4166622b5070e196ea50374d187b4f2d344a8c9e44a4JmltdHM9MTc3ODQ1NzYwMA&ptn=3&ver=2&hsh=4&fclid=31ad42e0-45ab-6be5-1f50-55b644606a40&u=a1aHR0cHM6Ly93d3cuZGVjYXRobG9uLmRlL2JyYW5kcy9pbm92LTg_bXNvY2tpZD0zMWFkNDJlMDQ1YWI2YmU1MWY1MDU1YjY0NDYwNmE0MA&ntb=1",
+        "title": "INOV-8-Kollektion - DECATHLON"
+      },
+      {
+        "url": "https://www.test.de/Naehmaschinen-im-Test-5100761-detail/320000032170!2/",
+        "title": "Test: Brother Innov-is A65 | Stiftung Warentest"
+      },
+      {
+        "url": "https://innovater.uni-leipzig.de/?lang=de",
+        "title": "Startseite | innov@ter"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:9335811584",
+    "name": "Institut de Soudure Industrie",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.ifv.de/",
+    "lat": 47.2201111,
+    "lon": 0.1653055,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811584",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2201111,0.1653055",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (ifv.de)",
+    "search_results": [
+      {
+        "url": "https://www.ifv.de/",
+        "title": "ifV - Institut für Verwaltungswissenschaften - Home"
+      },
+      {
+        "url": "https://www.sg-institut.de/",
+        "title": "SG Steuer- und Wirtschaftsakademie | Umschulung …"
+      },
+      {
+        "url": "https://de.wikipedia.org/wiki/Institut_(Organisation)",
+        "title": "Institut (Organisation) – Wikipedia"
+      },
+      {
+        "url": "https://www.iat.eu/",
+        "title": "IAT - Home / Institut Arbeit und Technik"
+      },
+      {
+        "url": "https://www.ikt.de/",
+        "title": "IKT – Institut für Unterirdische Infrastruktur |"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:4337173690",
+    "name": "Jacqueline et Phillippe Nalin",
+    "category": "shop:bakery",
+    "subcategory": "bakery",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://de.wikipedia.org/wiki/Jacqueline",
+    "lat": 47.1939585,
+    "lon": 0.1854373,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/4337173690",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.1939585,0.1854373",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (de.wikipedia.org)",
+    "search_results": [
+      {
+        "url": "https://de.wikipedia.org/wiki/Jacqueline",
+        "title": "Jacqueline – Wikipedia"
+      },
+      {
+        "url": "https://www.vorname.com/name,Jacqueline.html",
+        "title": "Vorname Jacqueline: Herkunft, Bedeutung & Namenstag"
+      },
+      {
+        "url": "https://namensbedeutung.net/vorname-jacqueline-bedeutung-herkunft-beliebtheit/",
+        "title": "Vorname Jacqueline – Bedeutung, Herkunft, Beliebtheit"
+      },
+      {
+        "url": "https://www.baby-vornamen.de/Maedchen/J/Ja/Jacqueline/",
+        "title": "Vorname Jacqueline » Bedeutung, Herkunft, Beliebtheit & mehr"
+      },
+      {
+        "url": "https://www.bing.com/ck/a?!&&p=30d678e25c398f50b28571000c942152bc44edf5c3629abcd39a7a6ee1111833JmltdHM9MTc3ODQ1NzYwMA&ptn=3&ver=2&hsh=4&fclid=08c10597-dac0-6e03-2cf0-12c1db356f2a&u=a1aHR0cHM6Ly93d3cuYmFieXZvcm5hbWVuLmF0L2RldGFpbHM_dm9ybmFtZT1KYWNxdWVsaW5l&ntb=1",
+        "title": "Jacqueline - Bedeutung, Herkunft, Namenstag"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:9335811572",
+    "name": "Kiosque à Pizza",
+    "category": "amenity:fast_food",
+    "subcategory": "fast_food",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.kiosque.hamburg/",
+    "lat": 47.2118039,
+    "lon": 0.1727891,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811572",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2118039,0.1727891",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (kiosque.hamburg)",
+    "search_results": [
+      {
+        "url": "https://www.kiosque.hamburg/",
+        "title": "Home of Kiosque St.Pauli - Wine- and Pastabar"
+      },
+      {
+        "url": "https://www.tastehamburg.com/kiosque/",
+        "title": "kiosque. - Taste Hamburg"
+      },
+      {
+        "url": "https://selection-magazin.de/kiosque/",
+        "title": "Kiosque - Selection City Guide"
+      },
+      {
+        "url": "https://www.cremeguides.com/hamburg/kiosque/",
+        "title": "Kiosque Bäckerei auf der Schanze | Hamburg | CREME GUIDES"
+      },
+      {
+        "url": "https://www.genussguide-hamburg.com/gastro-tests/restaurants/kiosque/",
+        "title": "Kiosque | Genuss-Guide"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "way:187046960",
+    "name": "Lambert Peinture",
+    "category": "craft:painter",
+    "subcategory": "painter",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.lambertentreprise.fr/qui-sommes-nous",
+    "lat": 47.2105327,
+    "lon": 0.1541303,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/way/187046960",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2105327,0.1541303",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (lambertentreprise.fr)",
+    "search_results": [
+      {
+        "url": "https://www.lambertentreprise.fr/qui-sommes-nous",
+        "title": "Peinture et décoration intérieur, pose de plafond tendu, rénovation de ..."
+      },
+      {
+        "url": "https://peintre-batiment.net/37/savigny-en-veron/entreprise-lambert-7cn",
+        "title": "Entreprise Lambert - Peintre Savigny-en-Véron (37420)"
+      },
+      {
+        "url": "https://www.pagesjaunes.fr/pros/02805573",
+        "title": "Lambert Entreprise Savigny en Véron - Entreprise de peinture (adresse ..."
+      },
+      {
+        "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/entreprise-lambert-entreprise-lambert-331888917",
+        "title": "Société ENTREPRISE LAMBERT (ENTREPRISE LAMBERT) à 37420 …"
+      },
+      {
+        "url": "https://www.societe.com/societe/entreprise-lambert-331888917.html",
+        "title": "ENTREPRISE LAMBERT (SAVIGNY-EN-VERON) Chiffre d'affaires, résultat ..."
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "way:189091201",
+    "name": "Le Bocage",
+    "category": "amenity:restaurant",
+    "subcategory": "restaurant",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.bocage.eu/",
+    "lat": 47.2006827,
+    "lon": 0.1437487,
+    "opening_hours": "Mo-Su,PH 12:00-14:00,19:00-20:00",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/way/189091201",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2006827,0.1437487",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (bocage.eu)",
+    "search_results": [
+      {
+        "url": "https://www.bocage.eu/",
+        "title": "Bocage | Shoes, Bags and Accessories for Men and Women"
+      },
+      {
+        "url": "https://www.bocage.fr/",
+        "title": "Bocage | Chaussures, Sacs, Accessoires Femme & Homme | Site Officiel"
+      },
+      {
+        "url": "https://de.wikipedia.org/wiki/Bocage",
+        "title": "Bocage – Wikipedia"
+      },
+      {
+        "url": "https://www.bing.com/ck/a?!&&p=cfb33ffbf9312e19f78b938623ce2c812e1953f70432df141812143de3329184JmltdHM9MTc3ODQ1NzYwMA&ptn=3&ver=2&hsh=4&fclid=0f932abe-7ed9-6806-108c-3de87fda69f9&u=a1aHR0cHM6Ly93d3cuc2FyZW56YS5jb20vZGUvZGUvYnJhbmRzL2IvYm9jYWdlLWJvY2FnZS8_bXNvY2tpZD0wZjkzMmFiZTdlZDk2ODA2MTA4YzNkZTg3ZmRhNjlmOQ&ntb=1",
+        "title": "Kollektion Bocage 2026 | Sarenza Deutschland"
+      },
+      {
+        "url": "https://www.placedestendances.com/de/de/bocage-damen",
+        "title": "Place des Tendances | Frühjahr-Sommer-Kollektion"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:2364776615",
+    "name": "Le Bourg Joly",
+    "category": "tourism:guest_house",
+    "subcategory": "guest_house",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.lebourgjoly.com/presentation/",
+    "lat": 47.2694982,
+    "lon": 0.3140789,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/2364776615",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2694982,0.3140789",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (lebourgjoly.com)",
+    "search_results": [
+      {
+        "url": "https://www.lebourgjoly.com/presentation/",
+        "title": "Le Bourg Joly – Le Bourg Joly"
+      },
+      {
+        "url": "https://chambre-d-hotes.chambre-d-hotes.tel/le-bourg-joly-2973266.html",
+        "title": "Le Bourg Joly à Rigny-Ussé - Chambre d'hôtes"
+      },
+      {
+        "url": "https://www.tourainevaldeloire.com/preparer-votre-sejour/hebergements/tous-les-hebergements/le-bourg-joly-rigny-usse-fr-5153276/",
+        "title": "Le bourg Joly - Rigny-Ussé - Touraine Val de Loire"
+      },
+      {
+        "url": "https://www.pagesjaunes.fr/pros/64082738",
+        "title": "Le Bourg Joly Rigny Ussé - Chambres d'hôtes (adresse, horaires)"
+      },
+      {
+        "url": "https://www.lebourgjoly.com/contact/",
+        "title": "Contact – Le Bourg Joly"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:10038069344",
+    "name": "Le P'tit salon de Carine",
+    "category": "shop:hairdresser",
+    "subcategory": "hairdresser",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.fresha.com/fr/lvp/le-ptit-salon-de-carine-rue-des-ecoles-huismes-jbKqo7",
+    "lat": 47.2322323,
+    "lon": 0.2526841,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/10038069344",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2322323,0.2526841",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (fresha.com)",
+    "search_results": [
+      {
+        "url": "https://www.fresha.com/fr/lvp/le-ptit-salon-de-carine-rue-des-ecoles-huismes-jbKqo7",
+        "title": "Le P'tit salon de Carine - 4 Rue des Écoles, 37420 Huismes, France"
+      },
+      {
+        "url": "https://www.facebook.com/profile.php/?id=100069149435366",
+        "title": "Le P'tit Salon de Carine - Facebook"
+      },
+      {
+        "url": "https://www.cylex-locale.fr/entreprises/le-p%27tit-salon-de-carine-13870375.html",
+        "title": "Le P'tit salon de Carine, Huismes - Cylex Recherche Locale"
+      },
+      {
+        "url": "https://entreprise-locale.com/entreprise/le-p-tit-salon-de-carine/175152",
+        "title": "Le P'tit salon de Carine, - entreprise-locale.com"
+      },
+      {
+        "url": "https://www.118000.fr/e_C0074830589",
+        "title": "LE PTIT SALON DE CARINE à HUISMES 37420 (RUE DES ECOLES)"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:7997055228",
+    "name": "Le Pas des Vignes",
+    "category": "tourism:guest_house",
+    "subcategory": "guest_house",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.parc-loire-anjou-touraine.fr/destination-parc/se-loger/se-restaurer/les-hebergements/le-pas-des-vignes",
+    "lat": 47.200965,
+    "lon": 0.1453677,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/7997055228",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.200965,0.1453677",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (parc-loire-anjou-touraine.fr)",
+    "search_results": [
+      {
+        "url": "https://www.parc-loire-anjou-touraine.fr/destination-parc/se-loger/se-restaurer/les-hebergements/le-pas-des-vignes",
+        "title": "Le Pas des Vignes | Parc Naturel Régional Loire-Anjou …"
+      },
+      {
+        "url": "https://www.gite-etape-savigny.fr/gite-etape-savigny-6",
+        "title": "Gîte d'étape Savigny en Véron. Le Pas des Vignes. Hébergement Chinon"
+      },
+      {
+        "url": "https://www.gites-de-france.com/fr/centre-val-de-loire/indre-et-loire/le-pas-des-vignes-37g22141",
+        "title": "Gîte de groupe - Le Pas des Vignes - SAVIGNY EN VERON"
+      },
+      {
+        "url": "https://www.tourainevaldeloire.com/preparer-votre-sejour/hebergements/tous-les-hebergements/le-pas-des-vignes-savigny-en-veron-fr-5152993/",
+        "title": "Le Pas des Vignes - Savigny-en-Véron - Touraine Val de Loire"
+      },
+      {
+        "url": "https://www.grandsgites.com/gite-37-pas-des-vignes-3749.htm",
+        "title": "Le Pas des Vignes - Gite de groupe Indre et Loire 23 couchages"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "way:124992428",
+    "name": "Le petit logis",
+    "category": "tourism:hotel",
+    "subcategory": "hotel",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.lepetitlogis.fr/",
+    "lat": 47.2156257,
+    "lon": 0.1632087,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/way/124992428",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2156257,0.1632087",
+    "website_status": "yes",
+    "website_confidence": "high",
+    "website_evidence": "website tag présent dans OpenStreetMap",
+    "search_results": [],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:9335811565",
+    "name": "Les Brasseurs Rabelaisiens",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://autour-de-moi.pro/fiche/les-brasseurs-rabelaisiens/",
+    "lat": 47.2178349,
+    "lon": 0.1642824,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811565",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2178349,0.1642824",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (autour-de-moi.pro)",
+    "search_results": [
+      {
+        "url": "https://autour-de-moi.pro/fiche/les-brasseurs-rabelaisiens/",
+        "title": "Les brasseurs Rabelaisiens – Autour de moi"
+      },
+      {
+        "url": "https://brasserie.city/les-brasseurs-rabelaisiens-2367387.html",
+        "title": "Les brasseurs Rabelaisiens à Avoine | 1 Avis - 1 Photos"
+      },
+      {
+        "url": "https://www.cylex-locale.fr/entreprises/les-brasseurs-rabelaisiens-15014989.html",
+        "title": "Les brasseurs Rabelaisiens | Brasserie, Avoine"
+      },
+      {
+        "url": "https://www.findglocal.com/FR/Avoine/296207777661697/Les-Brasseurs-Rabelaisiens",
+        "title": "Les Brasseurs Rabelaisiens, 3 Rue André Marie Ampère, Avoine (2026)"
+      },
+      {
+        "url": "https://www.bottin.fr/fiche-locale/bfdaceaffidhjjceeai--les-brasseurs-rabelaisiens--avoine.htm",
+        "title": "Les brasseurs Rabelaisiens à Avoine | - Bottin.fr"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:9332693409",
+    "name": "Les Jouets en Bois",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.lesjouetsenbois.com/",
+    "lat": 47.2137068,
+    "lon": 0.1627007,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9332693409",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2137068,0.1627007",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (lesjouetsenbois.com)",
+    "search_results": [
+      {
+        "url": "https://www.lesjouetsenbois.com/",
+        "title": "Les jouets en bois - Site Officiel"
+      },
+      {
+        "url": "https://www.pagesjaunes.fr/pros/61314628",
+        "title": "Les jouets en bois H.Events Savigny en Véron - Magasin de jouets ..."
+      },
+      {
+        "url": "https://magasin-de-jouets.autour-de-moi.com/les-jouets-en-bois-h-events-712875.html",
+        "title": "Les jouets en bois - H.EVENTS à Savigny-en-Véron | 31 Avis - 1 Photos"
+      },
+      {
+        "url": "https://www.cylex-locale.fr/entreprises/les-jouets-en-bois---h-events-15155639.html",
+        "title": "Les jouets en bois - H.EVENTS, Savigny-en-Véron"
+      },
+      {
+        "url": "https://fr.mappy.com/poi/61e241841014d2454e7d3a46",
+        "title": "Les jouets en bois H.Events - Jouets et jeux, r Maurice Raffault, 37420 ..."
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:7982479492",
+    "name": "Maison des vins du Véron",
+    "category": "craft:winery",
+    "subcategory": "winery",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.maisonsdumonde.com/DE/de?msockid=0d1819bc4ed866a50dee0eea4f3f67d2",
+    "lat": 47.1939994,
+    "lon": 0.1851201,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/7982479492",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.1939994,0.1851201",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (maisonsdumonde.com)",
+    "search_results": [
+      {
+        "url": "https://www.maisonsdumonde.com/DE/de?msockid=0d1819bc4ed866a50dee0eea4f3f67d2",
+        "title": "Möbel, Dekoration, Leuchte und Sofa - Maisons du Monde"
+      },
+      {
+        "url": "https://www.seloger.com/recherche/achat/immobilier/grand-est/bantzenheim-68490/ad08fr28321?msockid=0d1819bc4ed866a50dee0eea4f3f67d2",
+        "title": "21 annonces Immobilier à vendre Bantzenheim 68490 , Seloger.com"
+      },
+      {
+        "url": "https://www.camping.info/de/campingplatz/camping-behe",
+        "title": "Campingplatz Camping Maison Behe in Elsass"
+      },
+      {
+        "url": "https://www.segmueller.de/marken/maison",
+        "title": "MAISON Massivholzmöbel günstig kaufen | SEGMÜLLER"
+      },
+      {
+        "url": "https://www.maisonmargiela.com/de-de/",
+        "title": "Maison Margiela Offizieller Store | Kleidung & Accessoires"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "way:128307117",
+    "name": "Maison Max Ernst",
+    "category": "tourism:museum",
+    "subcategory": "museum",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "http://www.maison-max-ernst.org/",
+    "lat": 47.229698,
+    "lon": 0.252816,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/way/128307117",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.229698,0.252816",
+    "website_status": "yes",
+    "website_confidence": "high",
+    "website_evidence": "website tag présent dans OpenStreetMap",
+    "search_results": [],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:9335811577",
+    "name": "Mat Équip 37",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.societe.com/societe/mat-equip-37-501911721.html",
+    "lat": 47.2166532,
+    "lon": 0.1548472,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811577",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2166532,0.1548472",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (societe.com)",
+    "search_results": [
+      {
+        "url": "https://www.societe.com/societe/mat-equip-37-501911721.html",
+        "title": "Société MAT'EQUIP 37 (501911721) à SAVIGNY-EN-VERON (37420)."
+      },
+      {
+        "url": "https://www.pagesjaunes.fr/pros/50965617",
+        "title": "Mat Equip 37 Savigny en Véron - Location de matériel pour …"
+      },
+      {
+        "url": "https://www.pappers.fr/entreprise/matequip-37-501911721",
+        "title": "Société MAT'EQUIP 37 : Chiffre d'affaires, statuts, extrait d ..."
+      },
+      {
+        "url": "https://location-materiel-pro.fr/agence-de-location-de-materiel-mat-equip-37-sarl-37420.html",
+        "title": "Agence de location de matériel mat'equip 37 sarl à Savigny-en-Véron"
+      },
+      {
+        "url": "https://fr.kompass.com/c/mat-equip-37/fr5281748/",
+        "title": "Mat'equip 37 - Savigny-en-veron 37420 (Indre-et-loire), Zac Du Veron ,"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:9335811559",
+    "name": "Omexom Lensens Actea",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.omexom.de/",
+    "lat": 47.2183848,
+    "lon": 0.1631265,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811559",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2183848,0.1631265",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (omexom.de)",
+    "search_results": [
+      {
+        "url": "https://www.omexom.de/",
+        "title": "Home - Omexom DE"
+      },
+      {
+        "url": "https://www.omexom.com/",
+        "title": "Global Energy Solutions | Omexom"
+      },
+      {
+        "url": "https://www.omexom-offshore.de/",
+        "title": "Wir machen aus jeder Brise ein Megawatt - Omexom Renewable …"
+      },
+      {
+        "url": "https://www.vinci-energies.de/unsere-bereiche/energie-infrastrukturen-omexom/",
+        "title": "Energieinfrastrukturen - VINCI Energies in Deutschland"
+      },
+      {
+        "url": "https://www.kununu.com/de/omexom",
+        "title": "Omexom Deutschland als Arbeitgeber ⚡ Dein Überblick 2026 - kununu"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:11020751521",
+    "name": "Orano",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.orano.group/en",
+    "lat": 47.2180621,
+    "lon": 0.1630687,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/11020751521",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2180621,0.1630687",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (orano.group)",
+    "search_results": [
+      {
+        "url": "https://www.orano.group/en",
+        "title": "Orano | Major player in nuclear fuel cycle products and services"
+      },
+      {
+        "url": "https://de.wikipedia.org/wiki/Orano",
+        "title": "Orano – Wikipedia"
+      },
+      {
+        "url": "https://www.orano-gmbh.de/Orano-Group-Orano",
+        "title": "ORANO GmbH"
+      },
+      {
+        "url": "https://orano-ncs.com/",
+        "title": "ORANO NCS | Radioaktive Transporte"
+      },
+      {
+        "url": "https://www.wiwo.de/themen/orano",
+        "title": "Orano News: Aktuelle Nachrichten zum französischen Atomkonzern"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:9335811560",
+    "name": "PC2E",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.societe.com/societe/pc2e-499788065.html",
+    "lat": 47.2148421,
+    "lon": 0.1720724,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811560",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2148421,0.1720724",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (societe.com)",
+    "search_results": [
+      {
+        "url": "https://www.societe.com/societe/pc2e-499788065.html",
+        "title": "Société PC2E à AVOINE (37420). Chiffre d'affaires, extrait Kbis ..."
+      },
+      {
+        "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/pc2e-499788065",
+        "title": "Société PC2E à 37420 AVOINE - Annuaire des Entreprises"
+      },
+      {
+        "url": "https://entreprises.lefigaro.fr/pc2e-37/entreprise-499788065",
+        "title": "Pc2E (37420) : siret, siren, TVA, adresse... - Annuaire Entreprises"
+      },
+      {
+        "url": "https://www.prodestravaux.com/entreprise/49978806500039",
+        "title": "SARL PC2E à AVOINE, 37 - prodestravaux.com"
+      },
+      {
+        "url": "https://www.pappers.fr/entreprise/pc2e-499788065",
+        "title": "Société PC2E (499788065) : Chiffre d'affaires, statuts ... - Pappers"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:2339174515",
+    "name": "Pharmacie Regina",
+    "category": "amenity:pharmacy",
+    "subcategory": "pharmacy",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://pharmacie-avoine.fr/",
+    "lat": 47.2055824,
+    "lon": 0.1826926,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/2339174515",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2055824,0.1826926",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (pharmacie-avoine.fr)",
+    "search_results": [
+      {
+        "url": "https://pharmacie-avoine.fr/",
+        "title": "Pharmacie Pierre Regina – 02 47 58 40 35"
+      },
+      {
+        "url": "https://www.sante.fr/pharmacie-dofficine/avoine/pharmacie-regina",
+        "title": "Pharmacie Regina - Avoine | Santé.fr"
+      },
+      {
+        "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/pharmacie-regina-pharmacie-regina-830995627",
+        "title": "Société PHARMACIE REGINA (PHARMACIE REGINA) à 37420 …"
+      },
+      {
+        "url": "https://www.pagesjaunes.fr/pros/51745576",
+        "title": "Pharmacie Regina Avoine - Pharmacie (adresse, horaires)"
+      },
+      {
+        "url": "https://www.santeenfrance.fr/etablissement/30425-pharmacie-regina",
+        "title": "PHARMACIE REGINA Avoine (37420) : téléphone, mail, adresse..."
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:11020739572",
+    "name": "Philippe Flament",
+    "category": "craft:stonemason",
+    "subcategory": "stonemason",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://de.wikipedia.org/wiki/Philippe_(Belgien)",
+    "lat": 47.218474,
+    "lon": 0.1667067,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/11020739572",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.218474,0.1667067",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (de.wikipedia.org)",
+    "search_results": [
+      {
+        "url": "https://de.wikipedia.org/wiki/Philippe_(Belgien)",
+        "title": "Philippe (Belgien) – Wikipedia"
+      },
+      {
+        "url": "https://www.vorname.com/name,Philippe.html",
+        "title": "Vorname Philippe: Herkunft, Bedeutung & Namenstag"
+      },
+      {
+        "url": "https://www.monarchie.be/de/fur-kinder/der-konig-die-konigin-und-ihre-familie",
+        "title": "Der könig, die Königin und Ihre Familie | Die Monarchie Belgien"
+      },
+      {
+        "url": "https://www.philippemodel.com/de-de/",
+        "title": "Philippe Model Paris: Sneaker und Bekleidung"
+      },
+      {
+        "url": "https://www.baby-vornamen.de/Jungen/P/Ph/Philippe/",
+        "title": "Vorname Philippe » Bedeutung, Herkunft, Beliebtheit & mehr"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:9335811561",
+    "name": "Point S",
+    "category": "shop:car_repair",
+    "subcategory": "car_repair",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.points.fr/centre/vt-garage-avoine/",
+    "lat": 47.2190842,
+    "lon": 0.1638026,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811561",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2190842,0.1638026",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (points.fr)",
+    "search_results": [
+      {
+        "url": "https://www.points.fr/centre/vt-garage-avoine/",
+        "title": "Entretien, pneumatiques et pare-brise auto - Point S"
+      },
+      {
+        "url": "https://www.vroomly.com/garages/garage-vt-garage-point-s-37420-france/",
+        "title": "Garage Point S - Avoine à Avoine 37420 - Vroomly"
+      },
+      {
+        "url": "https://garage-automobile.autour-de-moi.com/point-s-avoine-vt-garage-404224.html",
+        "title": "Point S - Avoine (VT Garage) à Avoine | 63 Avis - 1 Photos"
+      },
+      {
+        "url": "https://annuaire-entreprises.data.gouv.fr/etablissement/83540244700014",
+        "title": "Siège social - POINT S à 37420 AVOINE - L’Annuaire des Entreprises ..."
+      },
+      {
+        "url": "https://www.allbiz.fr/avoine-pneus-02-47-58-01-42",
+        "title": "Point S Auto Centre | 02 47 58 01 42 | Avoine (Indre-et-Loire) - AllBiz"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:9335811591",
+    "name": "Prezioso Linje Bygg",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.societe.com/etablissement/prezioso-linjebygg-57368016200258.html",
+    "lat": 47.2186959,
+    "lon": 0.1631318,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811591",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2186959,0.1631318",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (societe.com)",
+    "search_results": [
+      {
+        "url": "https://www.societe.com/etablissement/prezioso-linjebygg-57368016200258.html",
+        "title": "PREZIOSO LINJEBYGG - 37420 - Societe.com"
+      },
+      {
+        "url": "https://fr.kompass.com/c/altrad-prezioso/fr9228536/",
+        "title": "Altrad Prezioso - Avoine 37420 (Indre-et-loire), 2 Rue Denis ... - Kompass"
+      },
+      {
+        "url": "https://www.pple.fr/entreprise/PREZIOSO%20LINJEBYGG-57368016200381",
+        "title": "PREZIOSO LINJEBYGG - 37420 AVOINE - 573 680 162 00381 - PPLE"
+      },
+      {
+        "url": "https://entreprises.annuairefrancais.fr/37420/prezioso-linjebygg-avoine-37-indre-et-loire-573680162-00381.html",
+        "title": "société : PREZIOSO LINJEBYGG (siren 573680162) a Avoine 37420 …"
+      },
+      {
+        "url": "https://batiment.e-pro.fr/isere/prezioso-linjebygg_f5303613",
+        "title": "PREZIOSO LINJEBYGG à Vienne (adresse, téléphone)"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "way:189089675",
+    "name": "Redken styl'coiffure",
+    "category": "shop:hairdresser",
+    "subcategory": "hairdresser",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.redken.eu/de-de/",
+    "lat": 47.2009412,
+    "lon": 0.1447959,
+    "opening_hours": "Tu-Fr 09:00-12:00,14:00-18:30; Sa 09:00-14:00",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/way/189089675",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2009412,0.1447959",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (redken.eu)",
+    "search_results": [
+      {
+        "url": "https://www.redken.eu/de-de/",
+        "title": "Produkte für Haarpflege: Shampoo, Kur, Öl und mehr | Redken"
+      },
+      {
+        "url": "https://www.redken.com/",
+        "title": "Redken Professional Hair Care, Hair Styling & Color Products"
+      },
+      {
+        "url": "https://www.douglas.de/de/b/redken/b0202",
+        "title": "Redken ️ online kaufen | DOUGLAS"
+      },
+      {
+        "url": "https://www.flaconi.de/marken/redken/?msockid=124d0a4d26bb671633581d1b274a66bc",
+        "title": "Redken » Beauty-Produkte online kaufen - flaconi"
+      },
+      {
+        "url": "https://www.sephora.de/marken/alle-marken-von-a---z/redken-redke/",
+        "title": "REDKEN – Professionelle Haarpflege jetzt online entdecken"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:9335811549",
+    "name": "San T BTP",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.santbtp.fr/",
+    "lat": 47.2177167,
+    "lon": 0.1633629,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811549",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2177167,0.1633629",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (santbtp.fr)",
+    "search_results": [
+      {
+        "url": "https://www.santbtp.fr/",
+        "title": "Santbtp | Service de Santé au Travail du BTP"
+      },
+      {
+        "url": "https://lannuaire.service-public.gouv.fr/centre-val-de-loire/indre-et-loire/ee4d7f3d-ac2f-4dc9-afc2-ee7a7b93c55f",
+        "title": "Santé au travail du bâtiment et des travaux publics - Tours"
+      },
+      {
+        "url": "https://www.santbtp.fr/les-centres/",
+        "title": "Santbtp | Nos centres & contacts"
+      },
+      {
+        "url": "https://www.santbtp.fr/adhesion-a-san-t-btp/",
+        "title": "Santbtp | Adhésion à SAN.T.BTP"
+      },
+      {
+        "url": "https://www.santbtp.fr/contact/",
+        "title": "Santbtp | Contact"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:11020739580",
+    "name": "Socotec",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.socotec.fr/",
+    "lat": 47.2199732,
+    "lon": 0.1639595,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/11020739580",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2199732,0.1639595",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (socotec.fr)",
+    "search_results": [
+      {
+        "url": "https://www.socotec.fr/",
+        "title": "SOCOTEC - Leader de la durabilité du bâti"
+      },
+      {
+        "url": "https://www.socotecsmartsolutions.fr/nos-agences",
+        "title": "Nos agences - SOCOTEC Smart Solutions"
+      },
+      {
+        "url": "https://nos-agences.socotec.fr/fr/centre-val-de-loire/indre-et-loire",
+        "title": "SOCOTEC Indre-et-Loire : Expert en conseil technique et gestion des …"
+      },
+      {
+        "url": "https://www.socotec.com/content/sites-pays-et-sites-activites",
+        "title": "Sites pays et sites activités | socotec.com"
+      },
+      {
+        "url": "https://www.pagesjaunes.fr/annuaire/departement/indre-et-loire-37/socotec",
+        "title": "Socotec en Indre-et-loire - Pages Jaunes"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:9335811590",
+    "name": "Soraya",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://annuaire-entreprises.data.gouv.fr/etablissement/41155971900025",
+    "lat": 47.2195944,
+    "lon": 0.1641319,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811590",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2195944,0.1641319",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (annuaire-entreprises.data.gouv.fr)",
+    "search_results": [
+      {
+        "url": "https://annuaire-entreprises.data.gouv.fr/etablissement/41155971900025",
+        "title": "Siège social - SORAYA SARL à 37420 AVOINE - L’Annuaire des ..."
+      },
+      {
+        "url": "https://www.societe.com/societe/soraya-sarl-411559719.html",
+        "title": "Société SORAYA SARL (411559719) à AVOINE (37420)."
+      },
+      {
+        "url": "https://fr.kompass.com/c/soraya-sarl/fr0455959/",
+        "title": "Soraya Sarl - Avoine 37420 (Indre-et-loire), Le Clos Dupuy ... - Kompass"
+      },
+      {
+        "url": "https://indre-et-loire-province.cataloxy.org/firms/avoine/www.soraya.fr.htm",
+        "title": "Soraya - Soraya Sarl (Soraya - Société à responsabilité limitée (sans ..."
+      },
+      {
+        "url": "https://www.118000.fr/e_C0024445069",
+        "title": "Soraya à AVOINE 37420 (Grand Clos)- 118000.fr"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "way:311148085",
+    "name": "Stéphane et Francis Suard",
+    "category": "shop:wine",
+    "subcategory": "wine",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.vorname.com/name,St%c3%a9phane.html",
+    "lat": 47.208228,
+    "lon": 0.1262204,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/way/311148085",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.208228,0.1262204",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (vorname.com)",
+    "search_results": [
+      {
+        "url": "https://www.vorname.com/name,St%c3%a9phane.html",
+        "title": "Vorname Stéphane: Herkunft, Bedeutung & Namenstag"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/St%C3%A9phane",
+        "title": "Stéphane - Wikipedia"
+      },
+      {
+        "url": "https://de.wiktionary.org/wiki/St%C3%A9phane",
+        "title": "Stéphane – Wiktionary"
+      },
+      {
+        "url": "https://vornamen.blog/St%C3%A9phane",
+        "title": "Stéphane - Vorname für Jungen | Bedeutung, Verbreitung, …"
+      },
+      {
+        "url": "https://www.baby-vornamen.de/Jungen/S/St/Stephane/",
+        "title": "Vorname Stephane » Bedeutung, Herkunft, Beliebtheit & mehr"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:9335811551",
+    "name": "Thierry Jonot",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://thierry-gmbh.de/",
+    "lat": 47.2178992,
+    "lon": 0.1644028,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811551",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2178992,0.1644028",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (thierry-gmbh.de)",
+    "search_results": [
+      {
+        "url": "https://thierry-gmbh.de/",
+        "title": "Thierry GmbH - Urmustermanagement, Farbvorlagen, …"
+      },
+      {
+        "url": "https://www.vorname.com/name,Thierry.html",
+        "title": "Vorname Thierry: Herkunft, Bedeutung & Namenstag"
+      },
+      {
+        "url": "https://de.wikipedia.org/wiki/Thierry",
+        "title": "Thierry – Wikipedia"
+      },
+      {
+        "url": "https://www.bing.com/ck/a?!&&p=2e52a87d1f7de9bccdb5d6c38eb975a6d7c7f1478682d7d0b52cbb9fc95128c6JmltdHM9MTc3ODQ1NzYwMA&ptn=3&ver=2&hsh=4&fclid=282739d5-a661-6a59-142a-2e83a7626bbb&u=a1aHR0cHM6Ly93d3cuYmFieXZvcm5hbWVuLmF0L2RldGFpbHM_dm9ybmFtZT1UaGllcnJ5&ntb=1",
+        "title": "Thierry - Bedeutung, Herkunft, Namenstag"
+      },
+      {
+        "url": "https://namensbedeutung.net/vorname-thierry-bedeutung-herkunft-beliebtheit/",
+        "title": "Vorname Thierry – Bedeutung, Herkunft, Beliebtheit"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "way:62410880",
+    "name": "Total",
+    "category": "shop:convenience;gas",
+    "subcategory": "convenience;gas",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://totalenergies.com/fr",
+    "lat": 47.2134092,
+    "lon": 0.1705349,
+    "opening_hours": "24/7",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/way/62410880",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2134092,0.1705349",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (totalenergies.com)",
+    "search_results": [
+      {
+        "url": "https://totalenergies.com/fr",
+        "title": "Compagnie multi-énergies intégrée - TotalEnergies.com"
+      },
+      {
+        "url": "https://www.totalenergies.fr/particuliers/home-client",
+        "title": "TotalEnergies - Page d'accueil clients"
+      },
+      {
+        "url": "https://www.totalenergies.fr/clients/connexion",
+        "title": "Espace client TotalEnergies (ex Total Direct Energie)"
+      },
+      {
+        "url": "https://totalenergies.com/fr/nos-sites-clients/stations-service",
+        "title": "Trouver une station | TotalEnergies.com"
+      },
+      {
+        "url": "https://services.totalenergies.fr/contact-et-faq/tous-nos-sites",
+        "title": "Tous les sites web du groupe TotalEnergies"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:9335811562",
+    "name": "Usinage 37",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.societe.com/societe/usinage-37-817527856.html",
+    "lat": 47.219707,
+    "lon": 0.1637195,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811562",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.219707,0.1637195",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (societe.com)",
+    "search_results": [
+      {
+        "url": "https://www.societe.com/societe/usinage-37-817527856.html",
+        "title": "Société USINAGE 37 (817527856) à SAVIGNY-EN-VERON (37420)."
+      },
+      {
+        "url": "https://usinage37.fr/",
+        "title": "Usinage CNC industriel 3 et 5 axes - Usinage37"
+      },
+      {
+        "url": "https://www.pagesjaunes.fr/pros/55573764",
+        "title": "Usinage 37 Savigny en Véron - Graveurs (adresse, horaires)"
+      },
+      {
+        "url": "https://www.pappers.fr/entreprise/usinage-37-817527856",
+        "title": "Société USINAGE 37 : Chiffre d'affaires, statuts, extrait d ... - Pappers"
+      },
+      {
+        "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/usinage-37-usinage-37-817527856",
+        "title": "Société USINAGE 37 (USINAGE 37) à 37420 SAVIGNY-EN-VERON"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  },
+  {
+    "id": "node:9335811576",
+    "name": "Yapluka",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "",
+    "postal_code": "37420",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.pagesjaunes.fr/pros/52079489",
+    "lat": 47.2147195,
+    "lon": 0.1720506,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811576",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2147195,0.1720506",
+    "website_status": "likely_yes",
+    "website_confidence": "medium",
+    "website_evidence": "premier domaine plausible comme site officiel (pagesjaunes.fr)",
+    "search_results": [
+      {
+        "url": "https://www.pagesjaunes.fr/pros/52079489",
+        "title": "Yapluka Avoine - Ménage, repassage à domicile (adresse, horaires)"
+      },
+      {
+        "url": "https://www.societe.com/etablissement/yapluka-50822348400025.html",
+        "title": "Etablissement YAPLUKA à AVOINE (37420) sur SOCIETE.COM …"
+      },
+      {
+        "url": "https://www.santeenfrance.fr/etablissement/30926-yapluka-services-aux-personnes",
+        "title": "Yapluka Services aux Personnes Avoine (37420) : téléphone, mail, …"
+      },
+      {
+        "url": "https://fr.mappy.com/poi/56aa18849191b069d238306f",
+        "title": "Yapluka - Ménage et repassage à domicile, 1 r Gutenberg, 37420 …"
+      },
+      {
+        "url": "https://fr.kompass.com/c/yapluka/fr6431977/",
+        "title": "Yapluka - Avoine 37420 (Indre-et-loire), 1 Rue Guttenberg Za Les B...,"
+      }
+    ],
+    "priority": "low",
+    "prospect_score": 0
+  }
+]
