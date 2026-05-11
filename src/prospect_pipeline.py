@@ -9,6 +9,7 @@ import re
 import textwrap
 import time
 import unicodedata
+import urllib.error
 import urllib.parse
 import urllib.request
 from urllib.parse import quote, urlparse
@@ -43,8 +44,16 @@ def simplify(value):
 
 def http_get_json(url):
     request = urllib.request.Request(url, headers={'User-Agent': USER_AGENT, 'Accept': 'application/json'})
-    with urllib.request.urlopen(request, timeout=30) as response:
-        return json.loads(response.read())
+    delay = 2.0
+    for attempt in range(4):
+        try:
+            with urllib.request.urlopen(request, timeout=30) as response:
+                return json.loads(response.read())
+        except urllib.error.HTTPError as exc:
+            if exc.code != 429 or attempt == 3:
+                raise
+            time.sleep(delay)
+            delay *= 2
 
 
 def http_post_json(url, form_data):
@@ -67,6 +76,25 @@ def fetch_postcode_nominatim_results(postal_code, country='France'):
     return http_get_json(f'{NOMINATIM_URL}?{params}')
 
 
+def postal_cache_path(outdir_root):
+    return os.path.join(outdir_root, 'config', 'postal_codes.json')
+
+
+def load_postal_code_cache(outdir_root):
+    path = postal_cache_path(outdir_root)
+    if not os.path.exists(path):
+        return {}
+    with open(path, encoding='utf-8') as handle:
+        return json.load(handle)
+
+
+def save_postal_code_cache(outdir_root, cache):
+    path = postal_cache_path(outdir_root)
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, 'w', encoding='utf-8') as handle:
+        json.dump(cache, handle, ensure_ascii=False, indent=2)
+
+
 def build_job_config(postal_code, outdir_root, nominatim_results):
     postal_code = clean(postal_code)
     for result in nominatim_results:
@@ -81,6 +109,26 @@ def build_job_config(postal_code, outdir_root, nominatim_results):
                 'display_name': clean(result.get('display_name')),
             }
     raise ValueError(f'Aucune relation Nominatim exploitable trouvée pour le code postal {postal_code}')
+
+
+def resolve_job_config(postal_code, outdir_root, country='France'):
+    postal_code = clean(postal_code)
+    cache = load_postal_code_cache(outdir_root)
+    cached = cache.get(postal_code)
+    if cached:
+        config = dict(cached)
+        config['job_dir'] = os.path.join(outdir_root, postal_code)
+        return config
+    config = build_job_config(postal_code, outdir_root, fetch_postcode_nominatim_results(postal_code, country=country))
+    cache[postal_code] = {
+        'postal_code': config['postal_code'],
+        'relation_id': config['relation_id'],
+        'area_id': config['area_id'],
+        'label': config['label'],
+        'display_name': config['display_name'],
+    }
+    save_postal_code_cache(outdir_root, cache)
+    return config
 
 
 def build_output_paths(config):
@@ -179,6 +227,46 @@ def commune_from_tags(tags):
         if value:
             return value
     return ''
+
+
+def commune_from_reverse_address(address):
+    for key in ['city', 'town', 'village', 'municipality']:
+        value = clean(address.get(key))
+        if value:
+            return value
+    return ''
+
+
+def formatted_reverse_address(address):
+    house_number = clean(address.get('house_number'))
+    road = clean(address.get('road'))
+    postcode = clean(address.get('postcode'))
+    commune = commune_from_reverse_address(address)
+    line1 = ' '.join(part for part in [house_number, road] if part)
+    line2 = ' '.join(part for part in [postcode, commune] if part)
+    parts = [part for part in [line1, line2] if part]
+    return ', '.join(parts)
+
+
+def fetch_reverse_geocode(lat, lon):
+    params = urllib.parse.urlencode({'lat': lat, 'lon': lon, 'format': 'jsonv2'})
+    url = f'https://nominatim.openstreetmap.org/reverse?{params}'
+    return http_get_json(url)
+
+
+def enrich_record_from_reverse_geocode(record, reverse_result):
+    address = reverse_result.get('address', {})
+    if not record.get('address'):
+        reverse_address = formatted_reverse_address(address)
+        if reverse_address:
+            record['address'] = reverse_address
+    if not record.get('commune'):
+        commune = commune_from_reverse_address(address)
+        if commune:
+            record['commune'] = commune
+    postcode = clean(address.get('postcode'))
+    if postcode and clean(record.get('postal_code')) != postcode:
+        record['postal_code'] = postcode
 
 
 def search_web(query):
@@ -352,6 +440,24 @@ def build_records(elements, postal_code):
     return records
 
 
+def enrich_records_with_reverse_geocoding(records, sleep_seconds=1.0):
+    reverse_cache = {}
+    for record in records:
+        lat = record.get('lat')
+        lon = record.get('lon')
+        if lat is None or lon is None:
+            continue
+        cache_key = (round(float(lat), 6), round(float(lon), 6))
+        if cache_key not in reverse_cache:
+            try:
+                reverse_cache[cache_key] = fetch_reverse_geocode(lat, lon)
+            except Exception:
+                continue
+            if sleep_seconds:
+                time.sleep(sleep_seconds)
+        enrich_record_from_reverse_geocode(record, reverse_cache[cache_key])
+
+
 def summarize(records):
     return {
         'total': len(records),
@@ -502,7 +608,7 @@ def write_outputs(config, records):
 
 
 def run_collection(postal_code, outdir_root, country='France', sleep_seconds=0.15):
-    config = build_job_config(postal_code, outdir_root, fetch_postcode_nominatim_results(postal_code, country=country))
+    config = resolve_job_config(postal_code, outdir_root, country=country)
     os.makedirs(config['job_dir'], exist_ok=True)
     elements = fetch_overpass_elements(config)
     records = build_records(elements, postal_code=config['postal_code'])
@@ -520,6 +626,15 @@ def run_collection(postal_code, outdir_root, country='France', sleep_seconds=0.1
                 time.sleep(max(1.0, sleep_seconds * 8))
             else:
                 time.sleep(sleep_seconds)
+    enrich_records_with_reverse_geocoding(target_records(records), sleep_seconds=1.0)
+    for record in records:
+        record['prospect_score'] = prospect_score(record)
+        if record['website_status'] == 'no' and (record['phone'] or record['email']):
+            record['priority'] = 'high'
+        elif record['website_status'] in ('no', 'uncertain'):
+            record['priority'] = 'medium'
+        else:
+            record['priority'] = 'low'
     records.sort(key=lambda item: (-item['prospect_score'], item['name'].lower()))
     summary = write_outputs(config, records)
     top_non_site = [
