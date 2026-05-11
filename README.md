@@ -32,7 +32,11 @@ Ce que produit le pipeline
 - extraction des points business via OpenStreetMap / Overpass
 - détection du site via les tags OSM quand ils existent
 - sinon recherche web légère pour classer les fiches en yes / likely_yes / uncertain / no
+- enrichissement d'adresse/commune des cibles à partir du reverse geocoding Nominatim
 - génération d'un HTML filtrable et de CSV/JSON pour la prospection
+
+Cache
+- `config/postal_codes.json` mémorise les relations de codes postaux déjà résolues pour éviter de solliciter Nominatim inutilement à chaque relance
 
 Tests
 - python3 -m unittest tests/test_pipeline.py -v
