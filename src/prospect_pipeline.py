@@ -293,12 +293,16 @@ def decode_bing_href(href):
 
 
 def extract_search_results(page_html):
-    matches = re.findall(r'<h2[^>]*><a[^>]+href="([^"]+)"[^>]*>(.*?)</a>', page_html, re.S)
+    matches = re.findall(r'<li class="b_algo".*?</li>', page_html, re.S)
     results = []
-    for href, title_html in matches[:5]:
-        url = clean(decode_bing_href(href))
-        title = html.unescape(re.sub(r'<.*?>', '', title_html))
-        results.append({'url': url, 'title': clean(title)})
+    for block in matches[:5]:
+        match = re.search(r'<h2[^>]*><a[^>]+href="([^"]+)"[^>]*>(.*?)</a>', block, re.S)
+        if not match:
+            continue
+        url = clean(decode_bing_href(match.group(1)))
+        title = html.unescape(re.sub(r'<.*?>', '', match.group(2)))
+        snippet = html.unescape(re.sub(r'<.*?>', ' ', block))
+        results.append({'url': url, 'title': clean(title), 'snippet': clean(snippet)})
     return results
 
 
@@ -339,6 +343,88 @@ def query_variants(record):
         if variant and variant not in unique:
             unique.append(variant)
     return unique
+
+
+def contact_query_variants(record):
+    commune = record.get('commune') or record.get('postal_code') or ''
+    address = record.get('address') or ''
+    variants = [
+        f'"{record["name"]}" {commune} téléphone',
+        f'"{record["name"]}" {commune} email',
+        f'"{record["name"]}" {address} contact',
+    ]
+    unique = []
+    for variant in variants:
+        variant = clean(variant)
+        if variant and variant not in unique:
+            unique.append(variant)
+    return unique
+
+
+def normalize_phone(phone):
+    digits = re.sub(r'\D+', '', phone or '')
+    if digits.startswith('33') and len(digits) == 11:
+        digits = '0' + digits[2:]
+    if len(digits) == 10 and digits.startswith('0'):
+        return '+33 ' + ' '.join([digits[1], digits[2:4], digits[4:6], digits[6:8], digits[8:10]])
+    return clean(phone)
+
+
+def extract_candidate_phones(text):
+    matches = re.findall(r'(?:\+33\s?[1-9](?:[\s\.-]?\d{2}){4}|0[1-9](?:[\s\.-]?\d{2}){4})', text or '')
+    return [normalize_phone(match) for match in matches]
+
+
+def extract_candidate_emails(text):
+    return [clean(match.lower()) for match in re.findall(r'[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}', text or '')]
+
+
+def search_result_is_relevant(record, result):
+    haystack = simplify(' '.join([result.get('title', ''), result.get('snippet', ''), result.get('url', '')]))
+    name_tokens = [token for token in simplify(record.get('name', '')).split() if len(token) >= 4]
+    if not name_tokens:
+        return False
+    if not any(token in haystack for token in name_tokens):
+        return False
+    location_tokens = [token for token in simplify(record.get('commune', '')).split() if len(token) >= 4]
+    postal_code = clean(record.get('postal_code'))
+    if location_tokens and any(token in haystack for token in location_tokens):
+        return True
+    if postal_code and postal_code in haystack:
+        return True
+    return False
+
+
+def enrich_contact_from_search_results(record, results):
+    if record.get('phone') and record.get('email'):
+        return
+    for result in results:
+        if not search_result_is_relevant(record, result):
+            continue
+        corpus = ' '.join([result.get('title', ''), result.get('snippet', ''), result.get('url', '')])
+        if not record.get('phone'):
+            phones = extract_candidate_phones(corpus)
+            if phones:
+                record['phone'] = phones[0]
+        if not record.get('email'):
+            emails = extract_candidate_emails(corpus)
+            if emails:
+                record['email'] = emails[0]
+        if record.get('phone') and record.get('email'):
+            return
+
+
+def enrich_record_contact_from_web(record):
+    if record.get('phone') and record.get('email'):
+        return
+    for query in contact_query_variants(record):
+        try:
+            results = extract_search_results(search_web(query))
+        except Exception:
+            continue
+        enrich_contact_from_search_results(record, results)
+        if record.get('phone') and record.get('email'):
+            return
 
 
 def classify_website(record):
@@ -627,6 +713,11 @@ def run_collection(postal_code, outdir_root, country='France', sleep_seconds=0.1
             else:
                 time.sleep(sleep_seconds)
     enrich_records_with_reverse_geocoding(target_records(records), sleep_seconds=1.0)
+    for record in target_records(records):
+        if not record.get('phone') or not record.get('email'):
+            enrich_record_contact_from_web(record)
+            if sleep_seconds:
+                time.sleep(min(max(sleep_seconds, 0.1), 0.5))
     for record in records:
         record['prospect_score'] = prospect_score(record)
         if record['website_status'] == 'no' and (record['phone'] or record['email']):
