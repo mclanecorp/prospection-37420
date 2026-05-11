@@ -8,6 +8,8 @@ Usage principal
 
 Structure des sorties
 Chaque code postal écrit ses résultats dans un sous-dossier dédié.
+Le repo ne doit pas contenir de doublons en racine dans `data/` ou `reports/`.
+Le seul emplacement canonique des exports est `CODE_POSTAL/...`.
 
 Exemple pour 37420 :
 - 37420/data/37420.json
