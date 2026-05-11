@@ -135,5 +135,47 @@ class CachedPostalConfigTests(unittest.TestCase):
         self.assertEqual(config['job_dir'], str(pathlib.Path(tmpdir) / '37420'))
 
 
+class ContactEnrichmentTests(unittest.TestCase):
+    def test_contact_enrichment_extracts_phone_from_relevant_search_result(self):
+        record = {
+            'name': 'Pharmacie Fraillon',
+            'commune': 'Beaumont-en-Véron',
+            'postal_code': '37420',
+            'phone': '',
+            'email': '',
+        }
+        results = [
+            {
+                'url': 'https://example.org/pharmacie-fraillon',
+                'title': 'Pharmacie Fraillon à Beaumont-en-Véron',
+                'snippet': 'Téléphone : 02 47 58 94 39. Adresse : 9 Beaumont-en-Véron 37420.'
+            }
+        ]
+
+        prospect_pipeline.enrich_contact_from_search_results(record, results)
+
+        self.assertEqual(record['phone'], '+33 2 47 58 94 39')
+
+    def test_contact_enrichment_ignores_irrelevant_search_result(self):
+        record = {
+            'name': '3DG',
+            'commune': 'Avoine',
+            'postal_code': '37420',
+            'phone': '',
+            'email': '',
+        }
+        results = [
+            {
+                'url': 'https://example.org/unrelated',
+                'title': 'Scratch - Imagine, Program, Share',
+                'snippet': 'Contact : 05 63 40 19 42 pour un service sans rapport.'
+            }
+        ]
+
+        prospect_pipeline.enrich_contact_from_search_results(record, results)
+
+        self.assertEqual(record['phone'], '')
+
+
 if __name__ == '__main__':
     unittest.main()

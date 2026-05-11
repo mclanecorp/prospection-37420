@@ -1,5 +1,55 @@
 [
   {
+    "id": "node:9335811553",
+    "name": "Horti Production",
+    "category": "office:company",
+    "subcategory": "company",
+    "commune": "Avoine",
+    "postal_code": "37420",
+    "address": "Rue Gustave Eiffel, 37420 Avoine",
+    "phone": "+33 2 47 58 88 80",
+    "email": "",
+    "website": "",
+    "lat": 47.2180419,
+    "lon": 0.169032,
+    "opening_hours": "",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/9335811553",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2180419,0.169032",
+    "website_status": "uncertain",
+    "website_confidence": "low",
+    "website_evidence": "résultat ambigu (google.com.eg)",
+    "search_results": [
+      {
+        "url": "https://www.google.com.eg/index.html",
+        "title": "Google",
+        "snippet": "google.com.eg https://www. google .com.eg › index.html Google Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for."
+      },
+      {
+        "url": "https://about.google/",
+        "title": "About Google: Our products, technology and company information",
+        "snippet": "about.google https://about. google About Google : Our products, technology and company information Learn more about Google. Explore our innovative AI products and services, and how we're using technology to help improve lives around the world."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Google",
+        "title": "Google - Wikipedia",
+        "snippet": "wikipedia.org https:// en.wikipedia.org › wiki › Google Google - Wikipedia Google ... Google LLC (/ ˈɡuː.ɡəl / ⓘ, GOO-gəl) is an American multinational technology corporation focused on information technology, online advertising, search engine technology, email, cloud …"
+      },
+      {
+        "url": "https://www.bing.com/ck/a?!&&p=e583a22cd3f1595f91a5f2ce19736a1392062cc01472127e857acc636cca6fffJmltdHM9MTc3ODQ1NzYwMA&ptn=3&ver=2&hsh=4&fclid=3a0a7160-3fee-63f7-2307-66363e96625e&u=a1aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8_aGw9YXItRUc&ntb=1",
+        "title": "Google",
+        "snippet": "google.com https:// www.google.com Google الإعلانات كل ما تحب معرفته عن Google‏ هنا Google.com in English © 2026 - الخصوصية - البنود"
+      },
+      {
+        "url": "https://accounts.google.com/",
+        "title": "Sign in - Google Accounts",
+        "snippet": "google.com https:// accounts.google.com Sign in - Google Accounts Not your computer? Use a private browsing window to sign in. Learn more about using Guest mode Next Create account"
+      }
+    ],
+    "priority": "medium",
+    "prospect_score": 4
+  },
+  {
     "id": "way:124995022",
     "name": "Pharmacie Fraillon",
     "category": "amenity:pharmacy",
@@ -18,27 +68,32 @@
     "maps_url": "https://www.google.com/maps/search/?api=1&query=47.197831,0.1842535",
     "website_status": "uncertain",
     "website_confidence": "low",
-    "website_evidence": "résultat ambigu (translate.google.com)",
+    "website_evidence": "résultat ambigu (ru.wikipedia.org)",
     "search_results": [
       {
-        "url": "https://translate.google.com/",
-        "title": "Google Translate"
+        "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%98-25",
+        "title": "АИ-25 — Википедия",
+        "snippet": "wikipedia.org https://ru.wikipedia.org › wiki АИ -25 — Википедия Двигатель АИ-25 предназначен для установки на пассажирские и транспортные самолеты местных линий. Выполнен по двухкаскадной (двухвальной) схеме с осевым …"
       },
       {
-        "url": "https://support.google.com/translate/answer/6350850?hl=en&co=GENIE.Platform%3DDesktop",
-        "title": "Download & use Google Translate - Computer - Google Translate Help"
+        "url": "https://airwar.ru/enc/engines/ai25tl.html",
+        "title": "Уголок неба ¦ Турбореактивный двухконтурный двигатель АИ-25ТЛ",
+        "snippet": "airwar.ru https://airwar.ru › enc › engines Уголок неба ¦ Турбореактивный двухконтурный двигатель АИ-25ТЛ АИ-25ТЛ оборудован специальной системой смазки, обеспечивающей работу подшипников в условиях перевернутого полета. Предназначен для самолетов L-39, K-8J и других учебно …"
       },
       {
-        "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.translate&hl=en-GB&gl=ca",
-        "title": "Google Translate - Apps on Google Play"
+        "url": "https://studfile.net/preview/11643160/page:3/",
+        "title": "Технические характеристики аи-25тл",
+        "snippet": "studfile.net https://studfile.net › preview Технические характеристики аи-25тл 1 mai 2025 · Зависимость удельной тяги и удельного расхода топлива двигателя от суммарной степени повышения давления. • 3.3. Изменения удельной тяги и удельного расхода топлива в …"
       },
       {
-        "url": "https://apps.apple.com/us/app/google-translate/id414706506",
-        "title": "Google Translate - App Store"
+        "url": "https://military.wikireading.ru/hPhUGiztGx",
+        "title": "Турбореактивные двигатели для учебно- тренировочных и …",
+        "snippet": "wikireading.ru https://military.wikireading.ru › hPhUGiztGx Турбореактивные двигатели для учебно- тренировочных и … Создан специально для чешского учебно-тренировочного самолета L-39 базе серийного ТРДД АИ-25 (1966 г.) тягой 1500 кгс, применяемого на пассажирских самолетах Як-40, и проекта …"
       },
       {
-        "url": "https://translate.google.com/details",
-        "title": "Google Translate"
+        "url": "https://www.redstar.gr/ru/letatelnye-aparaty-rossii/aviatsionnye-dvigateli/ai-25-aviacionnyj-dvuhkonturnyj-turboreaktivnyj-dvigatel.html",
+        "title": "АИ-25 авиационный двухконтурный турбореактивный двигатель",
+        "snippet": "redstar.gr https://www.redstar.gr › ru › letatelnye-aparaty-rossii › aviatsionnye-dvigateli АИ -25 авиационный двухконтурный турбореактивный двигатель Аи-25 был создан в 1965 г. для реактивного самолета местных воздушных линий Як-40. Кроме того, двигатель устанавливался на реактивные сельскохозяйственные самолеты типа М-15 …"
       }
     ],
     "priority": "medium",
@@ -63,27 +118,17 @@
     "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2175203,0.1650136",
     "website_status": "uncertain",
     "website_confidence": "low",
-    "website_evidence": "résultat ambigu (greatbarrierreef.org)",
+    "website_evidence": "résultat ambigu (ninisite.com)",
     "search_results": [
       {
-        "url": "https://greatbarrierreef.org/",
-        "title": "Great Barrier Reef | Australia's Great Natural Wonder"
+        "url": "https://www.ninisite.com/discussion",
+        "title": "تبادل نظر نی نی سایت",
+        "snippet": "ninisite.com https://www.ninisite.com › discussion تبادل نظر نی نی سایت تبادل نظر نی نی سایت محلی برای تبادل و انتقال اطلاعات و تجربیات کاربران و کارشناسان .راهنمای بارداری و بچه داری"
       },
       {
-        "url": "https://greatbarrierreef.org/about-the-reef/",
-        "title": "About The Reef - What Is The Great Barrier Reef?"
-      },
-      {
-        "url": "https://greatbarrierreef.org/about-the-reef/great-barrier-reef-facts/",
-        "title": "Facts About The Great Barrier Reef"
-      },
-      {
-        "url": "https://greatbarrierreef.org/about-the-reef/how-big-is-the-great-barrier-reef/",
-        "title": "How big is the reef? - Guide To The Great Barrier Reef"
-      },
-      {
-        "url": "https://greatbarrierreef.org/destinations/rockhampton/",
-        "title": "Rockhampton, Queensland - Great Barrier Reef"
+        "url": "https://www.dev-point.com/vb/threads/660407/",
+        "title": "Understanding Mortgage Rates and Discount Points | .Loans",
+        "snippet": "dev-point.com https://www.dev-point.com › vb › threads Understanding Mortgage Rates and Discount Points | .Loans 19 déc. 2025 · Mortgage rates and discount points significantly impact home loan costs. This article explains how rates are determined, what discount points are, and when paying points makes …"
       }
     ],
     "priority": "medium",
@@ -108,27 +153,32 @@
     "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2052203,0.1824908",
     "website_status": "uncertain",
     "website_confidence": "low",
-    "website_evidence": "résultat ambigu (de.wikipedia.org)",
+    "website_evidence": "résultat ambigu (geheimtippaugsburg.de)",
     "search_results": [
       {
-        "url": "https://de.wikipedia.org/wiki/Bar_(Einheit)",
-        "title": "Bar (Einheit) – Wikipedia"
+        "url": "https://geheimtippaugsburg.de/kategorie/bars/",
+        "title": "Bars - Geheimtipp Augsburg",
+        "snippet": "geheimtippaugsburg.de https://geheimtippaugsburg.de › kategorie › bar s Bars - Geheimtipp Augsburg Wir zeigen euch die gemütlichsten, angesagtesten und interessantesten Bars in Augsburg."
       },
       {
-        "url": "https://fiddlersgreenpub.de/",
-        "title": "Fiddler's Green - das Irish Pub in Pfaffenhofen mit Live-Musik und Bar"
+        "url": "https://www.tripadvisor.de/Attractions-g187314-Activities-c20-t99-Augsburg_Swabia_Bavaria.html",
+        "title": "Die 10 besten Bars & Clubs in Augsburg - Tripadvisor",
+        "snippet": "tripadvisor.de https://www.tripadvisor.de Die 10 besten Bars & Clubs in Augsburg - Tripadvisor 21 janv. 2016 · Die Position der Aktivitäten im Ranking basiert auf Tripadvisor-Daten wie Bewertungen, Gesamtwertungen, Anzahl der Seitenbesuche und Benutzerstandort. Wir überprüfen Bewertungen."
       },
       {
-        "url": "https://www.duden.de/rechtschreibung/bar_Adjektiv",
-        "title": "Wie schreibt man „bar“? Rechtschreibung - Duden"
+        "url": "https://www.hallo-augsburg.de/augsburger-bars-10-bars-in-augsburg-der-perfekte-guide_Zh3",
+        "title": "10 Bars in Augsburg – der perfekte Guide | Aktuelle Nachrichten und ...",
+        "snippet": "hallo-augsburg.de https://www.hallo-augsburg.de 10 Bars in Augsburg – der perfekte Guide | Aktuelle Nachrichten und ... Es ist immer wichtig zu wissen, wo es die besten Drinks, die schönste Location oder vielleicht das gemütlichste Ambiente gibt. Deshalb wollen wir euch heute 10 Bars in Augsburg vorstellen, die einen …"
       },
       {
-        "url": "https://de.restaurantguru.com/pub-and-bar-Pfaffenhofen-an-der-Roth-t2",
-        "title": "Top 5 Pubs & Bars in Pfaffenhofen an der Roth - Restaurant Guru"
+        "url": "https://www.werkenntdenbesten.de/bar/augsburg",
+        "title": "Die 10 besten Bars in Augsburg 2026 – wer kennt den BESTEN",
+        "snippet": "werkenntdenbesten.de https://www.werkenntdenbesten.de › bar › augsburg Die 10 besten Bars in Augsburg 2026 – wer kennt den BESTEN Gute Bars in Augsburg - 35.956 Bewertungen aus 52 Bewertungsportalen für insgesamt 88 Bars. TOP Bars auf: wer kennt den BESTEN."
       },
       {
-        "url": "https://www.landkreis.neu-ulm-tourismus.de/gastro/fiddlers-green-irish-pub-pfaffenhofen",
-        "title": "Fiddlers Green Irish Pub | Pfaffenhofen"
+        "url": "https://www.herrbrand.de/",
+        "title": "Herr Brand | Wein & Bar Augsburg",
+        "snippet": "herrbrand.de https://www.herrbrand.de Herr Brand | Wein & Bar Augsburg Erlebe hochwertige Drinks und regionale Speisen bei Herr Brand - Wein & Bar in Augsburg. 🍸 Entdecke Gyld Kräuterlikör geboren aus einem Familienrezept & mehr aus der eigenen Gebrüder Elwert …"
       }
     ],
     "priority": "medium",
@@ -153,27 +203,32 @@
     "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2189289,0.1642171",
     "website_status": "uncertain",
     "website_confidence": "low",
-    "website_evidence": "résultat ambigu (ge.xhamster.desi)",
+    "website_evidence": "résultat ambigu (amberg.de)",
     "search_results": [
       {
-        "url": "https://ge.xhamster.desi/",
-        "title": "Kostenlose Porno Videos & XXX Filme: Sex Videos Tube | xHamster"
+        "url": "https://amberg.de/",
+        "title": "Home: Stadt Amberg",
+        "snippet": "amberg.de https:// amberg .de Home: Stadt Amberg 30 mars 2026 · Informationen aus dem aktuellen Amtsblatt Das Amtsblatt der Stadt Amberg ist das offizielle Mitteilungsblatt der Stadtverwaltung, in dem…"
       },
       {
-        "url": "https://ge.xhamster.com/categories/german",
-        "title": "Deutsch Porno-Videos | xHamster"
+        "url": "https://de.wikipedia.org/wiki/Amberg",
+        "title": "Amberg – Wikipedia",
+        "snippet": "wikipedia.org https://de.wikipedia.org › wiki › Amberg Amberg – Wikipedia Das Bundeswehr-Dienstleistungszentrum Amberg ist für das Gebiet der Landkreise und Städte Amberg-Sulzbach, Bayreuth, Neustadt an der Waldnaab, Weiden, Grafenwöhr, Schwandorf, Hof, Kulmbach …"
       },
       {
-        "url": "https://xhamster3.com/channels/german-porn",
-        "title": "Free German Porn Porn Videos: Hot Sex | xHamster"
+        "url": "https://www.kulturerbebayern.de/ratgeber/amberg-sehenswuerdigkeiten/",
+        "title": "Amberg Sehenswürdigkeiten | Tipps von uns - Kulturerbe Bayern",
+        "snippet": "kulturerbebayern.de https://www.kulturerbebayern.de › ratgeber › amberg -sehenswuerdigkeiten Amberg Sehenswürdigkeiten | Tipps von uns - Kulturerbe Bayern Amberg – eine historische Stadt mit jungem Charme, die als eine der schönsten Städte Bayerns gilt und viele Sehenswürdigkeiten Bayerns zu bieten hat. Die mittelalterliche Altstadt ist beinahe vollständig …"
       },
       {
-        "url": "https://xhamster.tv/de/",
-        "title": "xHamster TV Kostenlose Pornovideos"
+        "url": "https://www.gemeinde-amberg.de/",
+        "title": "Gemeinde Amberg: Home",
+        "snippet": "gemeinde-amberg.de https://www.gemeinde- amberg .de Gemeinde Amberg : Home 1 mai 2026 · Amberg ist Mitgliedsgemeinde der Verwaltungsgemeinschaft Türkheim im Unterallgäu und vereint eine optimale Infrastruktur mit ländlicher Idylle und einem attraktivem Vereinsleben."
       },
       {
-        "url": "https://ge.xhamster.com/newest",
-        "title": "Die neuesten Porno-Videos & kostenlosen Sexfilme | xHamster"
+        "url": "https://www.onetz.de/oberpfalz/amberg",
+        "title": "Aktuelle Nachrichten aus Amberg | Onetz",
+        "snippet": "onetz.de https://www.onetz.de › oberpfalz › amberg Aktuelle Nachrichten aus Amberg | Onetz Aktuelle News, Bilder, Videos, Informationen zu Politik, Sport, Wirtschaft, Blaulicht, Kultur aus Amberg im Onetz."
       }
     ],
     "priority": "medium",
@@ -202,23 +257,28 @@
     "search_results": [
       {
         "url": "https://www.patienteninfo-service.de/a-z-liste/c/capvalR-dragees-25-mg-ueberzogene-tabletten",
-        "title": "Capval® Dragees 25 mg Überzogene Tabletten - PatientenInfo-Service"
+        "title": "Capval® Dragees 25 mg Überzogene Tabletten - PatientenInfo-Service",
+        "snippet": "patienteninfo-service.de https://www.patienteninfo-service.de › a-z-liste Capval® Dragees 25 mg Überzogene Tabletten - PatientenInfo-Service 2. Was sollten Sie vor der Einnahme von CAPVAL Dragees beachten? CAPVAL Dragees dürfen nicht eingenommen werden, wenn Sie allergisch gegen Noscapin oder einen der in Abschnitt 6. …"
       },
       {
         "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/capval-hustensaft-1672693.html",
-        "title": "CAPVAL Hustensaft - Beipackzettel | Apotheken Umschau"
+        "title": "CAPVAL Hustensaft - Beipackzettel | Apotheken Umschau",
+        "snippet": "apotheken-umschau.de https://www.apotheken-umschau.de › medikamente › beipackzettel CAPVAL Hustensaft - Beipackzettel | Apotheken Umschau In diesem Beipackzettel finden Sie verständliche Informationen zu Ihrem Arzneimittel – unter anderem zu Wirkung, Anwendung und Nebenwirkungen. Wählen Sie eines der folgenden Kapitel aus, um …"
       },
       {
         "url": "https://www.infectopharm.de/praeparate/capval-saft/",
-        "title": "Capval® Saft • InfectoPharm Wissen wirkt."
+        "title": "Capval® Saft • InfectoPharm Wissen wirkt.",
+        "snippet": "infectopharm.de https://www.infectopharm.de › praeparate › capval-saft Capval® Saft • InfectoPharm Wissen wirkt . Anwendungsgebiet bei unproduktivem Reizhusten (Husten ohne Auswurf) Gut zu wissen Die Alternative zu Codein – auch für Kinder Exzellent wirksam und gut verträglich Festbetragsgeregelt und …"
       },
       {
-        "url": "https://www.shop-apotheke.com/arzneimittel/1858995/capval-tropfen.htm?msockid=0dba1daa0a0467a903910afc0b586619",
-        "title": "Capval® Tropfen 30 ml mit dem E-Rezept kaufen - Shop Apotheke"
+        "url": "https://www.shop-apotheke.com/arzneimittel/1858995/capval-tropfen.htm?msockid=19eabf2b851f6b201684a87d847c6a4b",
+        "title": "Capval® Tropfen 30 ml mit dem E-Rezept kaufen - Shop Apotheke",
+        "snippet": "shop-apotheke.com https://www.shop-apotheke.com › arzneimittel › capval-tropfen.htm Capval® Tropfen 30 ml mit dem E-Rezept kaufen - Shop Apotheke Capval® Tropfen 30 ml bei Ihrer Online Apotheke für Deutschland mit dem E-Rezept kaufen."
       },
       {
         "url": "https://info-patient.de/capval-dragees-172300/beipackzettel",
-        "title": "Capval - Dragees - Beipackzettel, Nebenwirkungen, Wirkung ..."
+        "title": "Capval - Dragees - Beipackzettel, Nebenwirkungen, Wirkung ...",
+        "snippet": "info-patient.de https://info-patient.de › beipackzettel Capval - Dragees - Beipackzettel, Nebenwirkungen, Wirkung ... Beipackzettel enthält vollständige Dosierungsinformationen , Inhaltsstoffe und Unerwünschte Arzneimittelwirkungen Capval - Dragees"
       }
     ],
     "priority": "medium",
@@ -231,7 +291,7 @@
     "subcategory": "attraction",
     "commune": "Avoine",
     "postal_code": "37420",
-    "address": "D 749, 37420 Avoine",
+    "address": "D 7, 37420 Avoine",
     "phone": "",
     "email": "",
     "website": "",
@@ -243,27 +303,32 @@
     "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2282946,0.1714546",
     "website_status": "uncertain",
     "website_confidence": "low",
-    "website_evidence": "résultat ambigu (chatgpt.com)",
+    "website_evidence": "résultat ambigu (insolvenzbekanntmachungen.de)",
     "search_results": [
       {
-        "url": "https://chatgpt.com/",
-        "title": "ChatGPT"
+        "url": "https://www.insolvenzbekanntmachungen.de/",
+        "title": "Insolvenzbekanntmachungen",
+        "snippet": "insolvenzbekanntmachungen.de https://www. insolvenzbekanntmachungen .de Insolvenzbekanntmachungen Hier sollte eine Beschreibung angezeigt werden, diese Seite lässt dies jedoch nicht zu. En savoir plus"
       },
       {
-        "url": "https://openai.com/index/chatgpt/",
-        "title": "Introducing ChatGPT - OpenAI"
+        "url": "https://justiz.de/onlinedienste/insolvenzbekanntmachungen/index.php",
+        "title": "Justizportal des Bundes und der Länder: Insolvenz­bekanntmachungen",
+        "snippet": "justiz.de https://justiz.de › onlinedienste › insolvenzbekanntmachungen › index.php Justizportal des Bundes und der Länder: Insolvenz­bekanntmachungen Insolvenz­bekanntmachungen Die Bundesländer haben ein gemeinsames Portal zur Veröffentlichung von Bekanntmachungen der Insolvenzgerichte eingerichtet. Sie können hier Veröffentlichungen in …"
       },
       {
-        "url": "https://chatgpt.org/chat?trk=public_post-text",
-        "title": "ChatGPT — Free AI Chat Online"
+        "url": "https://verwaltung.bund.de/leistungsverzeichnis/DE/leistung/99066002095000/herausgeber/BY-3843/region/090000000000",
+        "title": "Bundesportal | Insolvenzverfahren; Abruf von öffentlichen …",
+        "snippet": "bund.de https://verwaltung.bund.de › leistungsverzeichnis › DE › leistung › ... Bundesportal | Insolvenzverfahren; Abruf von öffentlichen … Onlinedienste Die Insolvenzgerichte der Bundesrepublik Deutschland veröffentlichen die Bekanntmachungen, die vorzunehmen sind, wenn ein Insolvenzverfahren bei Gericht beantragt …"
       },
       {
-        "url": "https://www.wired.it/topic/chatgpt/",
-        "title": "ChatGPT - Wired Italia"
+        "url": "https://app.insolvenz-portal.de/Inhalt/willkommen",
+        "title": "Willkommen | Insolvenz-Portal",
+        "snippet": "insolvenz-portal.de https://app. insolvenz-portal .de › Inhalt › willkommen Willkommen | Insolvenz-Portal Die Liste der aktuellsten vorläufigen Unternehmensinsolvenzverfahren können Sie hier aufrufen. Es werden Ihnen die Unternehmensnamen sowie der bestellte vorläufige Verwalter, bzw. Sachwalter …"
       },
       {
-        "url": "https://www.ai4business.it/intelligenza-artificiale/chatgpt-guida-completa-al-chatbot-di-openai/",
-        "title": "ChatGPT, caratteristiche, storia ed evoluzioni del chatbot di OpenAI"
+        "url": "https://www.bing.com/ck/a?!&&p=3687e4c140054467cd828aad6757270d282f0f944a35710f7dfb7bf2668ee6cbJmltdHM9MTc3ODQ1NzYwMA&ptn=3&ver=2&hsh=4&fclid=0c2c95e1-2620-6afd-2eeb-82b727f66b74&u=a1aHR0cHM6Ly92ZXJ3YWx0dW5nc3BvcnRhbC5oZXNzZW4uZGUvbGVpc3R1bmc_bGVpc3R1bmdfaWQ9TDEwMDAwMV8zNDcxMjU3Mzg&ntb=1",
+        "title": "Öffentliche Bekanntmachungen in Insolvenzverfahren",
+        "snippet": "hessen.de https://verwaltungsportal.hessen.de › leistung Öffentliche Bekanntmachungen in Insolvenzverfahren 22 déc. 2022 · Beschlüsse über die Festsetzung der Vergütung der Insol-venzverwalterin / des Insolvenzverwalters, der Treuhänderin / des Treuhänders und der Mitglieder des Gläubigeraus …"
       }
     ],
     "priority": "medium",
@@ -288,117 +353,32 @@
     "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2204226,0.1649298",
     "website_status": "uncertain",
     "website_confidence": "low",
-    "website_evidence": "résultat ambigu (amazon.de)",
+    "website_evidence": "résultat ambigu (coinspeaker.com)",
     "search_results": [
       {
-        "url": "https://www.amazon.de/",
-        "title": "Amazon.de: Günstige Preise für Elektronik & Foto, Filme, Musik, Bücher ..."
+        "url": "https://www.coinspeaker.com/bybit-hack-spurs-4-6b-surge-thorchain-trading-activity/",
+        "title": "Bybit Hack Spurs $4.6B Surge in THORChain Trading Activity",
+        "snippet": "coinspeaker.com https://www.coinspeaker.com Bybit Hack Spurs $4.6B Surge in THORChain Trading Activity 4 mars 2025 · THORChain reportedly generated $5.5M in transaction fees from the surge in activity linked to the laundering of Bybit’s stolen funds."
       },
       {
-        "url": "https://www.amazon.de/stores/STARTSEITE/page/A3BF7899-27D9-459F-9761-F23AEA413EA3",
-        "title": "Amazon.de: STARTSEITE"
+        "url": "https://members.delphidigital.io/projects/thorchain",
+        "title": "What is THORChain? | RUNE Crypto | Delphi Digital",
+        "snippet": "delphidigital.io https://members.delphidigital.io › projects › thorchain What is THORChain ? | RUNE Crypto | Delphi Digital What is Thorchain? THORChain is a decentralized exchange (DEX) that stands out in the blockchain ecosystem for its ability to facilitate native cross-chain swaps."
       },
       {
-        "url": "https://www.amazon.de/gp/css/homepage.html",
-        "title": "Your Account - Amazon.de"
+        "url": "https://invezz.com/news/2025/12/23/thorchain-launches-dedicated-defi-swap-interface-for-cross-chain-crypto-trading/",
+        "title": "THORChain launches dedicated DeFi swap interface for cross-chain …",
+        "snippet": "invezz.com https://invezz.com › news › thorchain -launches-dedicated-defi-swap-interface... THORChain launches dedicated DeFi swap interface for cross-chain … 23 déc. 2025 · THORChain has unveiled the public beta of its new decentralised finance (DeFi) swap interface, marking a significant milestone in cross-chain cryptocurrency trading."
       },
       {
-        "url": "https://www.amazon.de/-/en/",
-        "title": "Amazon.de: Low Prices in Electronics, Books, Sports Equipment & more"
+        "url": "https://www.osiztechnologies.com/blog/what-is-thorchain",
+        "title": "ThorChain - An Ultimate Guide to the Decentralized Cross-Chain ...",
+        "snippet": "osiztechnologies.com https://www.osiztechnologies.com › blog › what-is- thorchain ThorChain - An Ultimate Guide to the Decentralized Cross-Chain ... 2 juil. 2025 · ThorChain is an extreme protocol that allows users to trade real assets instantly across various blockchains — for example, swapping Bitcoin for Ethereum — without using centralized …"
       },
       {
-        "url": "https://www.amazon.de/stores/Startseite/page/DFBA111A-B859-4902-8EBD-A3405740F6B7",
-        "title": "Amazon.de: Startseite"
-      }
-    ],
-    "priority": "medium",
-    "prospect_score": 2
-  },
-  {
-    "id": "way:192471336",
-    "name": "Domaine de Bertignolles",
-    "category": "shop:wine",
-    "subcategory": "wine",
-    "commune": "Savigny-en-Véron",
-    "postal_code": "37420",
-    "address": "Rue des Mariniers, 37420 Savigny-en-Véron",
-    "phone": "",
-    "email": "",
-    "website": "",
-    "lat": 47.2226405,
-    "lon": 0.1117507,
-    "opening_hours": "",
-    "source": "OpenStreetMap",
-    "source_url": "https://www.openstreetmap.org/way/192471336",
-    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2226405,0.1117507",
-    "website_status": "uncertain",
-    "website_confidence": "low",
-    "website_evidence": "résultat ambigu (de.wikipedia.org)",
-    "search_results": [
-      {
-        "url": "https://de.wikipedia.org/wiki/Dom%C3%A4ne",
-        "title": "Domäne – Wikipedia"
-      },
-      {
-        "url": "https://www.duden.de/rechtschreibung/Domaine",
-        "title": "Domaine Rechtschreibung, Bedeutung, Definition, Herkunft Duden"
-      },
-      {
-        "url": "https://vinodellago.de/pages/weinlexikon-domaine",
-        "title": "Domaine – Was bedeutet Domaine beim Wein? – Vino del Lago"
-      },
-      {
-        "url": "https://dict.leo.org/franz%C3%B6sisch-deutsch/domaine",
-        "title": "domaine - LEO: Übersetzung im Französisch ⇔ Deutsch Wörterbuch"
-      },
-      {
-        "url": "https://de.pons.com/%C3%BCbersetzung/franz%C3%B6sisch-deutsch/domaine",
-        "title": "DOMAINE - Französisch-Deutsch Übersetzung | PONS"
-      }
-    ],
-    "priority": "medium",
-    "prospect_score": 2
-  },
-  {
-    "id": "way:191430484",
-    "name": "Domaine Olga Raffault",
-    "category": "shop:wine",
-    "subcategory": "wine",
-    "commune": "Savigny-en-Véron",
-    "postal_code": "37420",
-    "address": "Rue du Pré aux Moines, 37420 Savigny-en-Véron",
-    "phone": "",
-    "email": "",
-    "website": "",
-    "lat": 47.2076583,
-    "lon": 0.1275195,
-    "opening_hours": "",
-    "source": "OpenStreetMap",
-    "source_url": "https://www.openstreetmap.org/way/191430484",
-    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2076583,0.1275195",
-    "website_status": "uncertain",
-    "website_confidence": "low",
-    "website_evidence": "résultat ambigu (de.wikipedia.org)",
-    "search_results": [
-      {
-        "url": "https://de.wikipedia.org/wiki/Dom%C3%A4ne",
-        "title": "Domäne – Wikipedia"
-      },
-      {
-        "url": "https://www.duden.de/rechtschreibung/Domaine",
-        "title": "Domaine Rechtschreibung, Bedeutung, Definition, Herkunft Duden"
-      },
-      {
-        "url": "https://vinodellago.de/pages/weinlexikon-domaine",
-        "title": "Domaine – Was bedeutet Domaine beim Wein? – Vino del Lago"
-      },
-      {
-        "url": "https://dict.leo.org/franz%C3%B6sisch-deutsch/domaine",
-        "title": "domaine - LEO: Übersetzung im Französisch ⇔ Deutsch Wörterbuch"
-      },
-      {
-        "url": "https://de.pons.com/%C3%BCbersetzung/franz%C3%B6sisch-deutsch/domaine",
-        "title": "DOMAINE - Französisch-Deutsch Übersetzung | PONS"
+        "url": "https://blockchain.news/news/thorchain-rune-2024-developments-report",
+        "title": "THORChain (RUNE) Reports Significant Developments in 2024",
+        "snippet": "blockchain.news https://blockchain.news › news THORChain (RUNE) Reports Significant Developments in 2024 10 janv. 2025 · THORChain's 2024 year-end report highlights major developments, including new integrations, liquidity changes, and strategic upgrades to enhance the network's efficiency and security."
       }
     ],
     "priority": "medium",
@@ -427,23 +407,28 @@
     "search_results": [
       {
         "url": "https://de.wikipedia.org/wiki/Gustave_Eiffel",
-        "title": "Gustave Eiffel – Wikipedia"
+        "title": "Gustave Eiffel – Wikipedia",
+        "snippet": "wikipedia.org https://de.wikipedia.org › wiki › Gustave_Eiffel Gustave Eiffel – Wikipedia 2021 erschien das Filmdrama Eiffel in Love, das eine fiktive Liebesgeschichte zwischen Eiffel und einer verheirateten Frau erzählt. Gustave Eiffel wird dabei von Romain Duris verkörpert."
       },
       {
         "url": "https://www.toureiffel.paris/de",
-        "title": "Der Eiffelturm, OFFIZIELLE Website: Tickets, Infos, News ..."
+        "title": "Der Eiffelturm, OFFIZIELLE Website: Tickets, Infos, News ...",
+        "snippet": "toureiffel.paris https://www.tour eiffel .paris › de Der Eiffelturm , OFFIZIELLE Website: Tickets, Infos, News ... Mit einer Höhe von 330 Metern hat der Eiffelturm eine faszinierende Geschichte, die bis zum Ende des 19. Jahrhunderts zurückreicht. Sein Erbauer, der Ingenieur Gustave Eiffel, war bereits für seine …"
       },
       {
-        "url": "https://paris-tourist.de/sehenswuerdigkeiten/eiffelturm/",
-        "title": "Eiffelturm Paris: Infos zum Eintritt, Tickets & Geschichte"
+        "url": "https://www.france.fr/de/artikel/eiffelturm/",
+        "title": "Eiffelturm - Tour Eiffel – Infos, Geschichte & Tipps",
+        "snippet": "france.fr https://www.france.fr › de › artikel › eiffel turm Eiffelturm - Tour Eiffel – Infos, Geschichte & Tipps Benannt ist der Tour Eiffel nach seinem Erbauer, dem Ingenieur Gustave Eiffel. Dieser ließ ihn gemeinsam mit dem Architekten Stephen Sauvestre von 1887 bis 1889 anlässlich der …"
       },
       {
-        "url": "https://www.parisentdecken.de/sehenswuerdigkeiten/eiffelturm.html",
-        "title": "Eiffelturm Paris 2026: Tickets, Preise & Tipps gegen Wartezeit"
+        "url": "https://www.zdf.de/video/dokus/terra-x-112/gustave-eiffel-der-mann-der-den-eiffelturm-erfand-doku-100",
+        "title": "Gustave Eiffel: Der Mann, der den Eiffelturm erfand - ZDFmediathek",
+        "snippet": "zdf.de https://www.zdf.de › video › dokus › gustave- eiffel -der-mann-der... Gustave Eiffel : Der Mann, der den Eiffelturm erfand - ZDFmediathek 25 déc. 2023 · Eiffel macht das beinahe Unmögliche möglich: In nur zwei Jahren, zwei Monaten und fünf Tagen errichtet er einen über 300 Meter hohen Koloss aus Eisen – den Eiffelturm."
       },
       {
         "url": "https://www.britannica.com/topic/Eiffel-Tower-Paris-France",
-        "title": "Eiffel Tower | History, Height, & Facts | Britannica"
+        "title": "Eiffel Tower | History, Height, & Facts | Britannica",
+        "snippet": "britannica.com https://www.britannica.com › topic › Eiffel-Tower -Paris-France Eiffel Tower | History, Height, & Facts | Britannica Il y a 1 jour · Eiffel Tower, wrought-iron structure in Paris that is one of the most famous landmarks in the world. It is also a technological masterpiece in building-construction history. It was designed and built …"
       }
     ],
     "priority": "medium",
@@ -472,23 +457,28 @@
     "search_results": [
       {
         "url": "https://de.wikipedia.org/wiki/Frankreich",
-        "title": "Frankreich – Wikipedia"
+        "title": "Frankreich – Wikipedia",
+        "snippet": "wikipedia.org https://de.wikipedia.org › wiki › Frankreich Frankreich – Wikipedia Air France, die führendes Mitglied der Allianz SkyTeam ist, fusionierte 2004 mit KLM zu Air France-KLM und ist seitdem eine der größten Fluggesellschaften der Welt."
       },
       {
         "url": "https://www.france.fr/de/",
-        "title": "France.fr: Entdecken Sie Frankreich und seine Wunder - Explore France"
+        "title": "France.fr: Entdecken Sie Frankreich und seine Wunder - Explore France",
+        "snippet": "france.fr https://www. france .fr › de France .fr: Entdecken Sie Frankreich und seine Wunder - Explore France France.fr: Entdecken Sie Frankreich und seine Wunder Ein paar Tage in der Stadt, tausend Möglichkeiten zum Abschalten Entdecken © Espiègle / iStock - Lyon, Place des Jacobins"
       },
       {
         "url": "https://www.britannica.com/place/France",
-        "title": "France | History, Maps, Flag, Population, Cities, Capital, & Facts ..."
+        "title": "France | History, Maps, Flag, Population, Cities, Capital, & Facts ...",
+        "snippet": "britannica.com https://www.britannica.com › place › France France | History, Maps, Flag, Population, Cities, Capital, & Facts ... Il y a 1 jour · France, a country of northwestern Europe, is historically and culturally among the most important countries in the Western world. It has also played a highly significant role in international …"
       },
       {
-        "url": "https://www.welcometofrance.com/en/fiche/overview-of-france",
-        "title": "Overview of France - Welcome to France"
+        "url": "https://www.franceinfo.fr/",
+        "title": "franceinfo - Actualités en temps réel et info en direct",
+        "snippet": "franceinfo.fr https://www. france info.fr franceinfo - Actualités en temps réel et info en direct Pour réagir ou poser votre question, connectez-vous avec votre compte France TV ou France Info."
       },
       {
-        "url": "https://de.wikivoyage.org/wiki/Frankreich",
-        "title": "Frankreich – Reiseführer auf Wikivoyage"
+        "url": "https://www.france24.com/fr/",
+        "title": "France 24 - Infos, news & actualités - L'information internationale en ...",
+        "snippet": "france24.com https://www. france24 .com › fr France 24 - Infos, news & actualités - L'information internationale en ... France 24 décrypte l’actualité internationale, politique, l’économie, l’environnement, la culture, le sport, en France et à l’international avec analyses, des interviews, des ..."
       }
     ],
     "priority": "medium",
@@ -513,72 +503,32 @@
     "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2136746,0.1628116",
     "website_status": "uncertain",
     "website_confidence": "low",
-    "website_evidence": "résultat ambigu (www2.hm.com)",
+    "website_evidence": "résultat ambigu (de.wikipedia.org)",
     "search_results": [
       {
-        "url": "https://www2.hm.com/de_de/index.html?msockid=3beb84532bcc62bd175193052a6e63b7",
-        "title": "H&M | Fashion für Frauen, Männer & Kinder | H&M DE"
-      },
-      {
-        "url": "https://de.m.wikipedia.org/wiki/H",
-        "title": "H – Wikipedia"
-      },
-      {
-        "url": "https://m.youtube.com/watch?v=2EdTB6ML1GQ",
-        "title": "Buchstaben lernen deutsch - DAS H-LIED - YouTube"
+        "url": "https://de.wikipedia.org/wiki/H",
+        "title": "H – Wikipedia",
+        "snippet": "wikipedia.org https://de.wikipedia.org › wiki › H H – Wikipedia H beziehungsweise h (gesprochen: [haː]) ist der achte Buchstabe des klassischen und modernen lateinischen Alphabets. Er ist ein Konsonant (auch wenn er unter bestimmten Bedingungen stumm ist)."
       },
       {
         "url": "https://www.duden.de/rechtschreibung/h_Buchstabe__Ton",
-        "title": "h Rechtschreibung, Bedeutung, Definition, Herkunft | Duden"
+        "title": "h Rechtschreibung, Bedeutung, Definition, Herkunft | Duden",
+        "snippet": "duden.de https://www.duden.de › rechtschreibung › h _Buchstabe__Ton h Rechtschreibung, Bedeutung, Definition, Herkunft | Duden Definition, Rechtschreibung, Synonyme und Grammatik von 'h' ️ Auf Duden online nachschlagen ️ Wörterbuch der deutschen Sprache."
+      },
+      {
+        "url": "https://www.bing.com/ck/a?!&&p=b84d76ab0c96cd6f5df59401112d7a0457ce631db738b11c92b8659f533afa1eJmltdHM9MTc3ODQ1NzYwMA&ptn=3&ver=2&hsh=4&fclid=3fe83d4b-9b6c-6ab6-0328-2a1d9ac56b5c&u=a1aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj0yRWRUQjZNTDFHUQ&ntb=1",
+        "title": "Buchstaben lernen deutsch - DAS H-LIED - YouTube",
+        "snippet": "youtube.com https://www.youtube.com › watch Buchstaben lernen deutsch - DAS H -LIED - YouTube 8 déc. 2014 · Heute singen und lernen wir den Buchstaben H aus dem deutschen Alphabet aus der Serie \"wir singen das ABC\"!"
+      },
+      {
+        "url": "https://www.wortbedeutung.info/H/",
+        "title": "H‎: Bedeutung, Definition - H - Wortbedeutung.info",
+        "snippet": "wortbedeutung.info https://www.wortbedeutung.info › H H ‎: Bedeutung, Definition - H - Wortbedeutung.info H (Sprache: Deutsch) Wortart: Substantiv, sächlich, Wortart: Buchstabe Bedeutung/Definition 1) achter Buchstabe des lateinischen Alphabets 2) Tonbezeichnung ( [haː] ) 3) Tonartbezeichnung ( [ˈhaːˈduɐ̯]) …"
       },
       {
         "url": "https://kinder.wdr.de/tv/die-sendung-mit-dem-elefanten/av/video-alphabet-lernen-buchstabe-h-100.html",
-        "title": "Alphabet lernen: Buchstabe H - Die Sendung mit dem Elefanten - Kinder"
-      }
-    ],
-    "priority": "medium",
-    "prospect_score": 2
-  },
-  {
-    "id": "node:9335811553",
-    "name": "Horti Production",
-    "category": "office:company",
-    "subcategory": "company",
-    "commune": "Avoine",
-    "postal_code": "37420",
-    "address": "Rue Gustave Eiffel, 37420 Avoine",
-    "phone": "",
-    "email": "",
-    "website": "",
-    "lat": 47.2180419,
-    "lon": 0.169032,
-    "opening_hours": "",
-    "source": "OpenStreetMap",
-    "source_url": "https://www.openstreetmap.org/node/9335811553",
-    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2180419,0.169032",
-    "website_status": "uncertain",
-    "website_confidence": "low",
-    "website_evidence": "résultat ambigu (zhihu.com)",
-    "search_results": [
-      {
-        "url": "https://www.zhihu.com/question/1916203992091964465",
-        "title": "Gemini显示“出了点问题”？ - 知乎"
-      },
-      {
-        "url": "https://www.astrologyanswers.com/horoscopes/gemini-daily-horoscope/",
-        "title": "Gemini Daily Horoscope - Astrology Answers"
-      },
-      {
-        "url": "https://www.zhihu.com/question/1980596374903993722",
-        "title": "国内如何使用Gemini？ - 知乎"
-      },
-      {
-        "url": "https://www.zhihu.com/question/1987568735523980297",
-        "title": "「Gemini」的正确读音是什么，哪种读法更被普遍接受？"
-      },
-      {
-        "url": "https://www.zhihu.com/question/1897953382473405562",
-        "title": "免费使用Gemini 2.5 Pro的完整教程？ - 知乎"
+        "title": "Alphabet lernen: Buchstabe H - Die Sendung mit dem Elefanten - Kinder",
+        "snippet": "wdr.de https://kinder.wdr.de › ... › av Alphabet lernen: Buchstabe H - Die Sendung mit dem Elefanten - Kinder Alphabet lernen: Buchstabe H Der Elefant 18.03.2022 01:59 Min. Verfügbar bis 18.03.2027 WDR Welche Wörter fangen alle mit H an? Der Buchstabe H verwandelt sich zuerst in eine Harfe und zeigt …"
       }
     ],
     "priority": "medium",
@@ -603,162 +553,32 @@
     "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2193203,0.1591469",
     "website_status": "uncertain",
     "website_confidence": "low",
-    "website_evidence": "résultat ambigu (dict.leo.org)",
+    "website_evidence": "résultat ambigu (leo.org)",
     "search_results": [
+      {
+        "url": "https://www.leo.org/",
+        "title": "LEO.org - Ihr Sprachangebot im Web",
+        "snippet": "leo.org https://www.leo.org LEO.org - Ihr Sprachangebot im Web LEO.org: Ihr Sprachexperte im Internet - mit Online-Wörterbüchern, Forum, Vokabeltrainer und Sprachkursen. Natürlich auch als App."
+      },
       {
         "url": "https://dict.leo.org/englisch-deutsch/le",
-        "title": "le - LEO: Übersetzung im Englisch ⇔ Deutsch Wörterbuch"
+        "title": "le - LEO: Übersetzung im Englisch ⇔ Deutsch Wörterbuch",
+        "snippet": "leo.org https://dict.leo.org › englisch-deutsch › le le - LEO: Übersetzung im Englisch ⇔ Deutsch Wörterbuch Lernen Sie die Übersetzung für 'le' in LEOs ­Englisch ⇔ Deutsch­ Wörterbuch. Mit Flexionstabellen der verschiedenen Fälle und Zeiten Aussprache und relevante Diskussionen Kostenloser Vokabeltrainer"
       },
       {
-        "url": "https://www.bing.com/ck/a?!&&p=ffb938dfde2c924c7a2acd31d7ba6d2730824cf08f772f15c07ea6c7b4e32bfcJmltdHM9MTc3ODQ1NzYwMA&ptn=3&ver=2&hsh=4&fclid=2969e722-c6b1-6918-1860-f074c7e9688c&u=a1aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9tYXBzL3NlYXJjaC8_aGw9ZGU&ntb=1",
-        "title": "Google Maps"
+        "url": "https://www.bing.com/ck/a?!&&p=eccea87a44a4c76991a909ded9f36f7ef290317b120c2aebf8fa0dfbf5f31313JmltdHM9MTc3ODQ1NzYwMA&ptn=3&ver=2&hsh=4&fclid=263a8aa1-cbde-6e32-39e2-9df7ca7c6fee&u=a1aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8_aGw9ZGUtZGU&ntb=1",
+        "title": "Google",
+        "snippet": "google.com https://www.google.com Google Google gibt es auch auf: English Werbeprogramme Über Google Google.com in English"
       },
       {
-        "url": "https://les-mosbach.de/",
-        "title": "Startseite - Ludwig-Erhard-Schule Mosbach"
+        "url": "https://www.marriott.com/de/hotels/hammd-le-meridien-hamburg/overview/?msockid=263a8aa1cbde6e3239e29df7ca7c6fee",
+        "title": "Le Méridien Hamburg: Design-Hotel in Hamburg an der Alster",
+        "snippet": "marriott.com https://www.marriott.com › de › hotels › hammd-le-meridien-hamburg Le Méridien Hamburg: Design-Hotel in Hamburg an der Alster Buchen Sie unser Design-Hotel in Hamburg, das Le Méridien Hamburg. Ein familienfreundliches Hotel in bester Innenstadtlage."
       },
       {
-        "url": "https://de.wikipedia.org/wiki/LE",
-        "title": "LE – Wikipedia"
-      },
-      {
-        "url": "https://de.wiktionary.org/wiki/le",
-        "title": "le – Wiktionary"
-      }
-    ],
-    "priority": "medium",
-    "prospect_score": 2
-  },
-  {
-    "id": "node:7997055228",
-    "name": "Le Pas des Vignes",
-    "category": "tourism:guest_house",
-    "subcategory": "guest_house",
-    "commune": "Savigny-en-Véron",
-    "postal_code": "37420",
-    "address": "Place de l'Église, 37420 Savigny-en-Véron",
-    "phone": "",
-    "email": "",
-    "website": "",
-    "lat": 47.200965,
-    "lon": 0.1453677,
-    "opening_hours": "",
-    "source": "OpenStreetMap",
-    "source_url": "https://www.openstreetmap.org/node/7997055228",
-    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.200965,0.1453677",
-    "website_status": "uncertain",
-    "website_confidence": "low",
-    "website_evidence": "résultat ambigu (dict.leo.org)",
-    "search_results": [
-      {
-        "url": "https://dict.leo.org/englisch-deutsch/le",
-        "title": "le - LEO: Übersetzung im Englisch ⇔ Deutsch Wörterbuch"
-      },
-      {
-        "url": "https://www.bing.com/ck/a?!&&p=18440b2814e9975341567b3afc47474ded5accf28efedd0a19ec59ef76d01777JmltdHM9MTc3ODQ1NzYwMA&ptn=3&ver=2&hsh=4&fclid=0348846b-132f-6e41-2b5c-933d12876f3f&u=a1aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9tYXBzL3NlYXJjaC8_aGw9ZGU&ntb=1",
-        "title": "Google Maps"
-      },
-      {
-        "url": "https://les-mosbach.de/",
-        "title": "Startseite - Ludwig-Erhard-Schule Mosbach"
-      },
-      {
-        "url": "https://de.wikipedia.org/wiki/LE",
-        "title": "LE – Wikipedia"
-      },
-      {
-        "url": "https://de.wiktionary.org/wiki/le",
-        "title": "le – Wiktionary"
-      }
-    ],
-    "priority": "medium",
-    "prospect_score": 2
-  },
-  {
-    "id": "node:461178934",
-    "name": "Les cascades des saveurs",
-    "category": "shop:bakery",
-    "subcategory": "bakery",
-    "commune": "Avoine",
-    "postal_code": "37420",
-    "address": "Rue Marcel Vignaud, 37420 Avoine",
-    "phone": "",
-    "email": "",
-    "website": "",
-    "lat": 47.2050215,
-    "lon": 0.1826438,
-    "opening_hours": "Mo-Fr 06:30-14:00,15:00-18:30; Sa 07:30-12:30; Su off",
-    "source": "OpenStreetMap",
-    "source_url": "https://www.openstreetmap.org/node/461178934",
-    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2050215,0.1826438",
-    "website_status": "uncertain",
-    "website_confidence": "low",
-    "website_evidence": "résultat ambigu (les-pforzheim.de)",
-    "search_results": [
-      {
-        "url": "https://www.les-pforzheim.de/",
-        "title": "LES - Ludwig-Erhard-Schule"
-      },
-      {
-        "url": "https://www.les-neuwied.de/",
-        "title": "Home - LES Neuwied"
-      },
-      {
-        "url": "https://www.les-frankfurt.de/",
-        "title": "WILLKOMMEN / WELCOME"
-      },
-      {
-        "url": "https://www.les-germany.org/",
-        "title": "Home - [www.les-germany.org]"
-      },
-      {
-        "url": "https://les-mosbach.de/",
-        "title": "Startseite - Ludwig-Erhard-Schule Mosbach"
-      }
-    ],
-    "priority": "medium",
-    "prospect_score": 2
-  },
-  {
-    "id": "node:7982479488",
-    "name": "Les Douceurs du Véron",
-    "category": "shop:bakery",
-    "subcategory": "bakery",
-    "commune": "Beaumont-en-Véron",
-    "postal_code": "37420",
-    "address": "Rue du Parc, 37420 Beaumont-en-Véron",
-    "phone": "",
-    "email": "",
-    "website": "",
-    "lat": 47.194522,
-    "lon": 0.1832449,
-    "opening_hours": "",
-    "source": "OpenStreetMap",
-    "source_url": "https://www.openstreetmap.org/node/7982479488",
-    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.194522,0.1832449",
-    "website_status": "uncertain",
-    "website_confidence": "low",
-    "website_evidence": "résultat ambigu (les-pforzheim.de)",
-    "search_results": [
-      {
-        "url": "https://www.les-pforzheim.de/",
-        "title": "LES - Ludwig-Erhard-Schule"
-      },
-      {
-        "url": "https://www.les-neuwied.de/",
-        "title": "Home - LES Neuwied"
-      },
-      {
-        "url": "https://www.les-frankfurt.de/",
-        "title": "WILLKOMMEN / WELCOME"
-      },
-      {
-        "url": "https://www.les-germany.org/",
-        "title": "Home - [www.les-germany.org]"
-      },
-      {
-        "url": "https://les-mosbach.de/",
-        "title": "Startseite - Ludwig-Erhard-Schule Mosbach"
+        "url": "https://de.m.wikipedia.org/wiki/LE",
+        "title": "LE – Wikipedia",
+        "snippet": "wikipedia.org https://de.m.wikipedia.org › wiki › LE LE – Wikipedia LE als Unterscheidungszeichen auf Kfz-Kennzeichen: Albanien: Kreis Lezha (auslaufend) Deutschland: Kreis Lemgo (auslaufend) Großbritannien: Wimbledon (für Fahrzeuge aus London) Italien: Provinz …"
       }
     ],
     "priority": "medium",
@@ -787,68 +607,28 @@
     "search_results": [
       {
         "url": "https://livemusicnow-hannover.de/",
-        "title": "Live Music Now Hannover e. V."
+        "title": "Live Music Now Hannover e. V.",
+        "snippet": "livemusicnow-hannover.de https://livemusicnow-hannover.de Live Music Now Hannover e. V. Aktuelles Stipendium Stipendiaten Ensembles Audition Jury Alumni Über LMN Hannover Yehudi Menuhin Spielstätten Vorstand und Team Ehrenkomittee Friends Förderer Konzerte Spendenkonten …"
       },
       {
-        "url": "https://www.livemusicnow-hamburg.de/",
-        "title": "LMN Hamburg"
+        "url": "https://notebooklm.google/",
+        "title": "Google NotebookLM | AI Research Tool & Thinking Partner",
+        "snippet": "notebooklm.google https://notebooklm.google Google NotebookLM | AI Research Tool & Thinking Partner Meet NotebookLM, the AI research tool and thinking partner that can analyze your sources, turn complexity into clarity and transform your content."
       },
       {
         "url": "https://livemusicnow.de/",
-        "title": "Yehudi Menuhin Live Music Now Deutschland"
+        "title": "Yehudi Menuhin Live Music Now Deutschland",
+        "snippet": "livemusicnow.de https://livemusicnow.de Yehudi Menuhin Live Music Now Deutschland Benefizkonzert LMN Oberrhein Am 12.12.2024 um 19.30 Uhr im Wolfgang -Rihm-Forum in der Hochschule für Musik Karlsruhe."
       },
       {
-        "url": "https://www.lm-n.de/",
-        "title": "LMN - LANDESVERBAND MOTORBOOTSPORT NIEDERSACHSEN: NI"
+        "url": "https://www.livemusicnow-berlin.de/",
+        "title": "Home - Live Music Now Berlin.e.V.",
+        "snippet": "livemusicnow-berlin.de https://www.livemusicnow-berlin.de Home - Live Music Now Berlin.e.V. Die Vereine YEHUDI MENUHIN Live Music Now e.V. (LMN) organisieren eintrittsfreie Konzerte für Menschen, die in Krankenhäusern, Altersheimen, Waisenhäusern, Gefängnissen, Heimen oder …"
       },
       {
-        "url": "https://livemusicnow-muenchen.de/",
-        "title": "YEHUDI MENUHIN Live Music Now München e.V."
-      }
-    ],
-    "priority": "medium",
-    "prospect_score": 2
-  },
-  {
-    "id": "node:2017960925",
-    "name": "magpresse",
-    "category": "shop:newsagent",
-    "subcategory": "newsagent",
-    "commune": "Avoine",
-    "postal_code": "37420",
-    "address": "Rue Marcel Vignaud, 37420 Avoine",
-    "phone": "",
-    "email": "",
-    "website": "",
-    "lat": 47.2052453,
-    "lon": 0.1824628,
-    "opening_hours": "",
-    "source": "OpenStreetMap",
-    "source_url": "https://www.openstreetmap.org/node/2017960925",
-    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2052453,0.1824628",
-    "website_status": "uncertain",
-    "website_confidence": "low",
-    "website_evidence": "résultat ambigu (guide.planetofhotels.com)",
-    "search_results": [
-      {
-        "url": "https://guide.planetofhotels.com/ru/oae/dubay/gornyy-kurort-hatta",
-        "title": "Горный курорт Хатта в ОАЭ - прекрасная природа и древняя …"
-      },
-      {
-        "url": "https://travel.rambler.ru/abroad/55307502-kurort-hatta-stavshiy-populyarnym-v-oae-predlagaet-gostyam-novye-vidy-razvlecheniy/",
-        "title": "Курорт Хатта, ставший популярным в ОАЭ, предлагает гостям …"
-      },
-      {
-        "url": "https://dzen.ru/a/ZiI4Nprr8CPzMemq",
-        "title": "Стоит ли бывать на горном курорте Хатта? Вот причины, по …"
-      },
-      {
-        "url": "https://experience.tripster.ru/experience/52493/",
-        "title": "Из Дубая — к горному курорту Хатта"
-      },
-      {
-        "url": "https://fulluae.com/hatta-dubai-guide",
-        "title": "Хатта (Hatta): Горный курорт Дубая — хайкинг, каякинг и глэмпинг"
+        "url": "https://www.livemusicnow-hamburg.de/",
+        "title": "LMN Hamburg",
+        "snippet": "livemusicnow-hamburg.de https://www.livemusicnow-hamburg.de LMN Hamburg Idee Yehudi Menuhin Über uns Stipendium Stipendiaten Konzertkalender Spielstätten Sponsoren Förderkreis Galerie Presse Aktuelles Kontakt LMN Deutschland LMN intern Impressum Datenschutz"
       }
     ],
     "priority": "medium",
@@ -873,27 +653,32 @@
     "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2197047,0.1644989",
     "website_status": "uncertain",
     "website_confidence": "low",
-    "website_evidence": "résultat ambigu (gmx.net)",
+    "website_evidence": "résultat ambigu (community.sky.de)",
     "search_results": [
       {
-        "url": "https://www.gmx.net/",
-        "title": "GMX - kostenlose E-Mail, Cloud, Nachrichten & Freemail"
+        "url": "https://community.sky.de/conversations/sky-q-sky-q-mini/zdf-ard-mediathek-sowie-tvnow-kein-livestream-%C3%BCber-sky-q-verf%C3%BCgbar/68362ea7170e725f318f3d20",
+        "title": "ZDF & ARD Mediathek sowie TVnow - kein Livestream über Sky Q …",
+        "snippet": "sky.de https://community.sky.de › conversations › sky-q-sky-q-mini › zdf-ard-mediath… ZDF & ARD Mediathek sowie TVnow - kein Livestream über Sky Q … 27 juil. 2021 · ZDF & ARD Mediathek sowie TVnow - kein Livestream über Sky Q verfügbar Die ZDFmediathek App zeigt, unter Alle Livestreans auf einen Blick, keine Livestreams an, sobald man …"
       },
       {
-        "url": "https://www.gmx.at/mail/freemail/",
-        "title": "GMX Freemail | Kostenlose E-Mail-Adresse registrieren"
+        "url": "https://community.sky.de/conversations/sky-q-sky-q-mini/immer-noch-kein-live-programm-in-ard-mediathek-mit-iptv-receiver/68366883170e725f316d35fc",
+        "title": "‎Immer noch kein Live-Programm in ARD Mediathek mit IPTV Receiver ...",
+        "snippet": "sky.de https://community.sky.de › conversations › sky-q-sky-q-mini › immer-noch-kei… ‎Immer noch kein Live-Programm in ARD Mediathek mit IPTV Receiver ... 13 juin 2024 · Hallo,ich habe jetzt einen Sky Q IPTV Receiver. Ich würde gerne in der ARD Mediathek das Live-Programm schauen&nbsp; (insbesondere WDR Münster, da die Regionalprogramme nicht …"
       },
       {
-        "url": "https://mlogin.gmx.com/",
-        "title": "Free Email Accounts @GMX.com: Secure & easy to use"
+        "url": "https://community.sky.de/conversations/sky-q-sky-q-mini/kein-ard-live-in-mediathek-mit-sky-q/683617c1170e725f31ff7b2e",
+        "title": "Kein ARD Live in Mediathek mit Sky Q ? | Sky Community",
+        "snippet": "sky.de https://community.sky.de › conversations › sky-q-sky-q-mini › kein-ard-live-in-… Kein ARD Live in Mediathek mit Sky Q ? | Sky Community 21 nov. 2020 · Kein ARD Live in Mediathek mit Sky Q ? Hallo Ich möchte über die ARD mediathek App das Programm Live schauen. Aber ich finde dort keinen Button für Live TV. Ansonsten ist die …"
       },
       {
-        "url": "https://anmelden.gmx.net/",
-        "title": "GMX Login – ganz einfach"
+        "url": "https://community.sky.de/conversations/sky-q-sky-q-mini/livestreams-%C3%BCber-q-receiver/68366a99170e725f31908ebd",
+        "title": "Livestreams über Q Receiver | Sky Community",
+        "snippet": "sky.de https://community.sky.de › conversations › sky-q-sky-q-mini › livestreams-übe… Livestreams über Q Receiver | Sky Community 24 juil. 2024 · Kann man die Livestreams von ARD und ZDF&nbsp; über den Q Reseiver abspielen. Bei mir klappt es nicht. Habe gelesen, dass es in der Tat grundsätzlich nicht funtioniert."
       },
       {
-        "url": "https://www.gmx.com/mail/",
-        "title": "Unique email address @GMX.com: Free & feature-packed | GMX"
+        "url": "https://community.sky.de/conversations/sport/handball-em/683660de170e725f31e56408",
+        "title": "‎Handball EM | Sky Community",
+        "snippet": "sky.de https://community.sky.de › conversations › sport › handball-em ‎Handball EM | Sky Community 24 janv. 2024 · Hi,Kann ich mit dem Sky Q Reciever den Livestream von ARD oder ZDF sehen? Wenn ja, wie geht das? MfG Alex&nbsp;"
       }
     ],
     "priority": "medium",
@@ -918,72 +703,32 @@
     "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2102752,0.1599367",
     "website_status": "uncertain",
     "website_confidence": "low",
-    "website_evidence": "résultat ambigu (dometic.com)",
+    "website_evidence": "résultat ambigu (annoncesbateau.com)",
     "search_results": [
       {
-        "url": "https://www.dometic.com/it-it",
-        "title": "Dometic – Attrezzatura Outdoor e Vita Mobile"
+        "url": "https://www.annoncesbateau.com/",
+        "title": "Bateaux d’occasion et neufs à vendre - Annonces du Bateau",
+        "snippet": "annoncesbateau.com https://www.annonces bateau .com Bateaux d’occasion et neufs à vendre - Annonces du Bateau Annonces du Bateau est le site web idéal pour trouver le bateau de vos rêves. Nous vous proposons une large gamme de bateaux neufs, ainsi que des bateaux d'occasion d'entre les meilleurs marques …"
       },
       {
-        "url": "https://www.dometic.com/en-us",
-        "title": "Dometic – Outdoor Gear, Coolers & RV Accessories"
+        "url": "https://fr.wikipedia.org/wiki/Bateau",
+        "title": "Bateau — Wikipédia",
+        "snippet": "wikipedia.org https://fr.wikipedia.org › wiki › Bateau Bateau — Wikipédia La distinction entre « bateau » et « navire » notamment, et même d'autres termes, reste cependant variable selon les usages, le contexte, etc. Juridiquement, « bateau » désigne un bâtiment destiné à …"
       },
       {
-        "url": "https://www.dometic.com/it-it/categoria/camper-e-furgoni",
-        "title": "Camper e furgoni | Dometic"
+        "url": "https://www.boat24.com/fr/",
+        "title": "Bateaux à vendre, annonces de bateaux en France et en Europe",
+        "snippet": "boat24.com https://www. boat24 .com › fr Bateaux à vendre, annonces de bateaux en France et en Europe Vous souhaitez acheter ou vendre un bateau ? Sur la bourse aux bateaux Boat24, vous êtes au bon endroit : des vendeurs particuliers et plus de 900 professionnels proposent depuis plus de 20 ans …"
       },
       {
-        "url": "https://www.dometic.com/en",
-        "title": "Dometic – Premium Outdoor Gear & Mobile Living"
+        "url": "https://beau-bateau.fr/",
+        "title": "Beau Bateau",
+        "snippet": "beau-bateau.fr https://beau- bateau .fr Beau Bateau Il y a 3 jours · Chaque bateau est présenté avec des informations détaillées afin de faciliter la comparaison, sécuriser votre achat et vous aider à avancer sereinement dans votre projet nautique."
       },
       {
-        "url": "https://www.dometic.com/de-de",
-        "title": "Dometic – Outdoor-Ausrüstung & Mobile Living"
-      }
-    ],
-    "priority": "medium",
-    "prospect_score": 2
-  },
-  {
-    "id": "node:9335811568",
-    "name": "Peinture du Véron",
-    "category": "office:company",
-    "subcategory": "company",
-    "commune": "Avoine",
-    "postal_code": "37420",
-    "address": "Rue Denis Papin, 37420 Avoine",
-    "phone": "",
-    "email": "",
-    "website": "",
-    "lat": 47.2178123,
-    "lon": 0.1641126,
-    "opening_hours": "",
-    "source": "OpenStreetMap",
-    "source_url": "https://www.openstreetmap.org/node/9335811568",
-    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2178123,0.1641126",
-    "website_status": "uncertain",
-    "website_confidence": "low",
-    "website_evidence": "résultat ambigu (ville-chinon.com)",
-    "search_results": [
-      {
-        "url": "https://www.ville-chinon.com/",
-        "title": "Ville de Chinon - Site officiel de la Ville de Chinon - Mairie de Chinon"
-      },
-      {
-        "url": "https://lhrwb.cunoastere.org/crematorium-du-veron-accueil-crematorium-du-veron/",
-        "title": "Crématorium Du Véron Accueil | Crématorium Du Veron – CINI"
-      },
-      {
-        "url": "https://www.le-site-de.com/crematorium-du-veron-savigny-en-veron_159903.html",
-        "title": "Crématoriums à Savigny en veron (37420) - Le Site De"
-      },
-      {
-        "url": "https://indre-et-loire-province.cataloxy.org/firms/savigny-en-veron/crematorium-du-veron-sarl-unipersonnelle.774330_c.htm",
-        "title": "Crematorium Du Veron - LES CHAMPS FLEURIS (Crematorium Du …"
-      },
-      {
-        "url": "https://www.gitedegroupe.fr/capacite-40-couchages.html",
-        "title": "Location gites de groupe 25, 30, 40 personnes - Gitedegroupe.fr"
+        "url": "https://www.mybateau.fr/",
+        "title": "Spécialiste de la vente de bateaux d'occasion - MyBateau",
+        "snippet": "mybateau.fr https://www.my bateau .fr Spécialiste de la vente de bateaux d'occasion - MyBateau Acheter un bateau peut sembler complexe, mais notre équipe d’experts est là pour vous simplifier la tâche. Dès votre premier contact avec nous, nous vous offrons un service personnalisé qui prend en …"
       }
     ],
     "priority": "medium",
@@ -1008,117 +753,32 @@
     "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2172381,0.1645884",
     "website_status": "uncertain",
     "website_confidence": "low",
-    "website_evidence": "résultat ambigu (umicore.be)",
+    "website_evidence": "résultat ambigu (support.google.com)",
     "search_results": [
       {
-        "url": "https://www.umicore.be/",
-        "title": "Home | Umicore Belgium"
+        "url": "https://support.google.com/translate/answer/6350850?hl=tr&co=GENIE.Platform%3DDesktop",
+        "title": "Google Çeviri'yi indirme ve kullanma",
+        "snippet": "google.com https://support.google.com › translate › answer Google Çeviri'yi indirme ve kullanma Google Çeviri uygulamasıyla 200'den fazla dilde metin, el yazısı, fotoğraf ve konuşmaları çevirebilirsiniz. Çeviri uygulamasını web'de de kullanabilirsiniz. Google Çeviri'den çeşitli şekille"
       },
       {
-        "url": "https://www.umicore.be/nl/contact/",
-        "title": "Contact | Umicore Belgium"
+        "url": "https://support.google.com/translate/answer/2534559?hl=tr&co=GENIE.Platform%3DDesktop",
+        "title": "Dokümanları ve web sitelerini çevirme - Bilgisayar - Google Translate ...",
+        "snippet": "google.com https://support.google.com › translate › answer Dokümanları ve web sitelerini çevirme - Bilgisayar - Google Translate ... Web sitesi çeviri widget'ı Akademik kurum, devlet kurumu, sivil toplum kuruluşu ya da ticari olmayan bir web sitesiyseniz Google Çeviri Web Sitesi Çevirmeni kısayoluna kaydolmaya uygun olabilirsiniz. Bu …"
       },
       {
-        "url": "https://www.umicore.be/nl/nieuws/",
-        "title": "Lokaal nieuws België | Umicore Belgium"
+        "url": "https://support.google.com/translate/answer/6142468?hl=tr&co=GENIE.Platform%3DAndroid",
+        "title": "Konuşarak çevirme - Android - Google Translate Yardım",
+        "snippet": "google.com https://support.google.com › translate › answer Konuşarak çevirme - Android - Google Translate Yardım Android telefonunuzda veya tabletinizde Çeviri uygulamasını açın. Hangi diller arasında çeviri yapılacağını seçin. Kaynak dil: Sol alttan bir dil seçin. Hedef dil: Sağ alttan çeviri dilini seçin. Konuş'a …"
       },
       {
-        "url": "https://www.umicore.be/nl/over-ons/onze-sites/brussel/start/",
-        "title": "Start | Umicore Belgium"
+        "url": "https://support.google.com/translate/answer/6142468?hl=tr&co=GENIE.Platform%3DDesktop",
+        "title": "Konuşarak çevirme - Bilgisayar - Google Translate Yardım",
+        "snippet": "google.com https://support.google.com › translate › answer Konuşarak çevirme - Bilgisayar - Google Translate Yardım Konuşarak çevirme Canlı Çeviri ile konuşma çevirilerini canlı konuşma olarak dinleme Dokümanları ve web sitelerini çevirme El yazısı veya sanal klavye ile çeviri Google Çeviri'de metne dönüştürme …"
       },
       {
-        "url": "https://www.umicore.be/en/about/our-sites/brussels/start/",
-        "title": "Start | Umicore Belgium"
-      }
-    ],
-    "priority": "medium",
-    "prospect_score": 2
-  },
-  {
-    "id": "node:9335811583",
-    "name": "Start People",
-    "category": "office:employment_agency",
-    "subcategory": "employment_agency",
-    "commune": "Avoine",
-    "postal_code": "37420",
-    "address": "Rue Gustave Eiffel, 37420 Avoine",
-    "phone": "",
-    "email": "",
-    "website": "",
-    "lat": 47.2196207,
-    "lon": 0.1643989,
-    "opening_hours": "",
-    "source": "OpenStreetMap",
-    "source_url": "https://www.openstreetmap.org/node/9335811583",
-    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2196207,0.1643989",
-    "website_status": "uncertain",
-    "website_confidence": "low",
-    "website_evidence": "résultat ambigu (bodenseekreis.de)",
-    "search_results": [
-      {
-        "url": "https://www.bodenseekreis.de/",
-        "title": "Start"
-      },
-      {
-        "url": "https://start-ni-mitte.de/",
-        "title": "Regionalverkehre Start Deutschland GmbH"
-      },
-      {
-        "url": "https://support.microsoft.com/de-de/windows/konfigurieren-von-startanwendungen-in-windows-115a420a-0bff-4a6f-90e0-1934c844e473",
-        "title": "Konfigurieren von Startanwendungen in Windows - Microsoft-Support"
-      },
-      {
-        "url": "https://de.wikipedia.org/wiki/Regionalverkehre_Start_Deutschland",
-        "title": "Regionalverkehre Start Deutschland – Wikipedia"
-      },
-      {
-        "url": "https://www.startgmbh.com/verkehrswender/ueber-uns/",
-        "title": "Über start - Start"
-      }
-    ],
-    "priority": "medium",
-    "prospect_score": 2
-  },
-  {
-    "id": "node:9332693394",
-    "name": "TPPL",
-    "category": "office:company",
-    "subcategory": "company",
-    "commune": "Beaumont-en-Véron",
-    "postal_code": "37420",
-    "address": "Rue du Sauget, 37420 Beaumont-en-Véron",
-    "phone": "",
-    "email": "",
-    "website": "",
-    "lat": 47.2137369,
-    "lon": 0.1668304,
-    "opening_hours": "",
-    "source": "OpenStreetMap",
-    "source_url": "https://www.openstreetmap.org/node/9332693394",
-    "maps_url": "https://www.google.com/maps/search/?api=1&query=47.2137369,0.1668304",
-    "website_status": "uncertain",
-    "website_confidence": "low",
-    "website_evidence": "résultat ambigu (missavtv.com)",
-    "search_results": [
-      {
-        "url": "https://missavtv.com/en",
-        "title": "MissAV | Watch HD JAV Online | Free & High Quality AV"
-      },
-      {
-        "url": "https://javgecko.com/",
-        "title": "Free JAV Streaming, Japanese Porn Videos Full HD - JAV Gecko"
-      },
-      {
-        "url": "https://twojav.com/en",
-        "title": "Twojav | Watch HD JAV Online & Free HD JAV Streaming"
-      },
-      {
-        "url": "https://en.jable.tv/",
-        "title": "Jable.TV | Watch HD JAV Online | Free & High Quality AV"
-      },
-      {
-        "url": "https://javgg.net/",
-        "title": "JAVGG.NET - New Releases, English Subtitles & Uncensored"
+        "url": "https://support.google.com/translate/?hl=tr",
+        "title": "Google Translate Yardım",
+        "snippet": "google.com https://support.google.com › translate Google Translate Yardım Google Translate ürününe ait resmi Yardım Merkezi sayfasında ürünün kullanımıyla ilgili ipuçlarını ve eğitici bilgileri ve sık sorulan sorulara verilen diğer yanıtları bulabilirsiniz."
       }
     ],
     "priority": "medium",
@@ -1147,23 +807,28 @@
     "search_results": [
       {
         "url": "https://de.pons.com/%C3%BCbersetzung/franz%C3%B6sisch-deutsch/%C3%A9glise",
-        "title": "ÉGLISE - Französisch-Deutsch Übersetzung | PONS"
+        "title": "ÉGLISE - Französisch-Deutsch Übersetzung | PONS",
+        "snippet": "pons.com https://de.pons.com › übersetzung › französisch-deutsch › église ÉGLISE - Französisch-Deutsch Übersetzung | PONS im PONS Wörterbuch église [egliz] SUBST f 1. église (édifice): église Kirche f aller à l'église"
       },
       {
         "url": "https://en.wiktionary.org/wiki/%C3%A9glise",
-        "title": "église - Wiktionary, the free dictionary"
+        "title": "église - Wiktionary, the free dictionary",
+        "snippet": "wiktionary.org https://en.wiktionary.org › wiki › église église - Wiktionary, the free dictionary 28 mars 2026 · Traditionally, in Europe, église refers to a Catholic or Orthodox church, with Protestant churches referred to as temples. In Canada, église is used for all Christian churches."
       },
       {
         "url": "https://fr.wikipedia.org/wiki/%C3%89glise_(%C3%A9difice)",
-        "title": "Église (édifice) — Wikipédia"
+        "title": "Église (édifice) — Wikipédia",
+        "snippet": "wikipedia.org https://fr.wikipedia.org › wiki › Église_(édifice) Église (édifice) — Wikipédia Principal édifice de ce type de la paroisse dans le christianisme, l'église consiste en un bâtiment consacré à la prière et aux pratiques cultuelles des chrétiens comme la messe dite dans une église …"
       },
       {
         "url": "https://de.langenscheidt.com/franzoesisch-deutsch/%C3%A9glise",
-        "title": "église - Deutsch-Übersetzung - Langenscheidt Französisch-Deutsch …"
+        "title": "église - Deutsch-Übersetzung - Langenscheidt Französisch-Deutsch …",
+        "snippet": "langenscheidt.com https://de.langenscheidt.com › franzoesisch-deutsch › église église - Deutsch-Übersetzung - Langenscheidt Französisch-Deutsch … Übersetzung für 'église' im kostenlosen Französisch-Deutsch Wörterbuch von LANGENSCHEIDT – mit Beispielen, Synonymen und Aussprache."
       },
       {
         "url": "https://www.visitberlin.de/fr/eglises-et-lieux-de-culte",
-        "title": "Églises et lieux de culte - visitBerlin"
+        "title": "Églises et lieux de culte - visitBerlin",
+        "snippet": "visitberlin.de https://www.visitberlin.de › fr › eglises-et-lieux-de-culte Églises et lieux de culte - visitBerlin Il ne s'agit pas d'une église, mais d'une tour : la cathédrale française. Conjointement à la cathédrale allemande, elle agrémente la plus belle place de Berlin, la Gendarmenmarkt."
       }
     ],
     "priority": "medium",

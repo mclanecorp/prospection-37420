@@ -33,6 +33,7 @@ Ce que produit le pipeline
 - détection du site via les tags OSM quand ils existent
 - sinon recherche web légère pour classer les fiches en yes / likely_yes / uncertain / no
 - enrichissement d'adresse/commune des cibles à partir du reverse geocoding Nominatim
+- tentative d'enrichissement téléphone/email des cibles via extraction prudente depuis des résultats de recherche ciblés
 - génération d'un HTML filtrable et de CSV/JSON pour la prospection
 
 Cache
