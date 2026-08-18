@@ -1,0 +1,97 @@
+{% extends 'base.html' %}
+{% block title %}Réglages{% endblock %}
+{% block content %}
+<h1>Réglages</h1>
+
+<section class="card">
+  <h2>Comptes connectés</h2>
+  {% if not configured %}
+  <p class="banner banner-warning">L'app Meta n'est pas encore renseignée.
+  Définissez <code>META_APP_ID</code> et <code>META_APP_SECRET</code> dans la
+  configuration du serveur, puis revenez ici. Le guide complet est dans
+  <code>GUIDE.md</code>.</p>
+  {% endif %}
+
+  <table class="table">
+    <thead><tr><th>Compte</th><th>Type</th><th>État</th><th></th></tr></thead>
+    <tbody>
+    {% for account in accounts %}
+      <tr>
+        <td>{{ account.name }}</td>
+        <td>
+          <span class="chip chip-{{ account.platform }}">
+            {{ 'Facebook' if account.platform == 'facebook' else 'Instagram' }}
+          </span>
+        </td>
+        <td>{{ 'Actif' if account.active else 'Désactivé' }}</td>
+        <td class="row-actions">
+          <form method="post" action="/accounts/{{ account.id }}/toggle">
+            <button type="submit" class="link-button">
+              {{ 'Désactiver' if account.active else 'Réactiver' }}
+            </button>
+          </form>
+          <form method="post" action="/accounts/{{ account.id }}/delete"
+                onsubmit="return confirm('Déconnecter ce compte ?')">
+            <button type="submit" class="link-button danger-text">Déconnecter</button>
+          </form>
+        </td>
+      </tr>
+    {% else %}
+      <tr><td colspan="4" class="muted">Aucun compte connecté pour l'instant.</td></tr>
+    {% endfor %}
+    </tbody>
+  </table>
+
+  <p><a class="button primary" href="/connect">Connecter / actualiser les comptes Meta</a></p>
+  <p class="hint">À reporter dans les paramètres de l'app Meta —
+  URI de redirection OAuth valide : <code>{{ redirect_uri }}</code></p>
+</section>
+
+<section class="card">
+  <h2>Groupes Facebook</h2>
+  <p class="muted">Ces groupes servent à la liste de partage manuel affichée sur
+  chaque publication. Le lien est facultatif mais fait gagner du temps : il ouvre
+  le groupe directement.</p>
+
+  <ul class="group-list settings-groups">
+  {% for group in groups %}
+    <li class="{{ '' if group.active else 'inactive' }}">
+      <span class="group-name">
+        {% if group.url %}
+        <a href="{{ group.url }}" target="_blank" rel="noopener">{{ group.name }}</a>
+        {% else %}{{ group.name }}{% endif %}
+      </span>
+      <span class="row-actions">
+        <form method="post" action="/groups/{{ group.id }}/toggle">
+          <button type="submit" class="link-button">
+            {{ 'Masquer' if group.active else 'Réafficher' }}
+          </button>
+        </form>
+        <form method="post" action="/groups/{{ group.id }}/delete"
+              onsubmit="return confirm('Supprimer ce groupe ?')">
+          <button type="submit" class="link-button danger-text">Supprimer</button>
+        </form>
+      </span>
+    </li>
+  {% else %}
+    <li class="muted">Aucun groupe enregistré.</li>
+  {% endfor %}
+  </ul>
+
+  <form method="post" action="/groups" class="inline-form">
+    <input type="text" name="name" placeholder="Nom du groupe" required>
+    <input type="url" name="url" placeholder="https://www.facebook.com/groups/…">
+    <button type="submit" class="secondary">Ajouter</button>
+  </form>
+</section>
+
+<section class="card">
+  <h2>Serveur</h2>
+  <dl class="settings-list">
+    <div><dt>Adresse publique</dt><dd><code>{{ public_url }}</code></dd></div>
+    <div><dt>Mode simulation</dt><dd>{{ 'activé' if dry_run else 'désactivé' }}</dd></div>
+  </dl>
+  <p class="hint">L'adresse publique doit être joignable depuis Internet : c'est
+  là que Meta vient télécharger les photos au moment de publier.</p>
+</section>
+{% endblock %}

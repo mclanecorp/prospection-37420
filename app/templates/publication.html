@@ -1,0 +1,134 @@
+{% extends 'base.html' %}
+{% block title %}Publication{% endblock %}
+{% block content %}
+
+<div class="page-head">
+  <h1>Publication</h1>
+  <div class="head-actions">
+    <form method="post" action="/publications/{{ publication.id }}/refresh">
+      <button type="submit" class="secondary">Rafraîchir les stats</button>
+    </form>
+    {% if publication.status in ('draft', 'scheduled', 'partial', 'failed') %}
+    <form method="post" action="/publications/{{ publication.id }}/publish">
+      <button type="submit" class="primary">
+        {{ 'Réessayer' if publication.status in ('partial', 'failed') else 'Publier maintenant' }}
+      </button>
+    </form>
+    {% endif %}
+  </div>
+</div>
+
+<section class="card">
+  <span class="badge badge-{{ publication.status }}">
+    {{ STATUS_LABELS.get(publication.status, publication.status) }}
+  </span>
+  <p class="post-full">{{ publication.message or '(sans texte)' }}</p>
+  {% if images %}
+  <div class="gallery">
+    {% for image in images %}<img src="{{ image }}" alt="">{% endfor %}
+  </div>
+  {% endif %}
+</section>
+
+<section class="card">
+  <h2>Où c'est parti</h2>
+  <table class="table">
+    <thead>
+      <tr><th>Compte</th><th>État</th><th>Vues</th><th>J'aime</th><th>Comm.</th><th>Lien</th></tr>
+    </thead>
+    <tbody>
+    {% for target in targets %}
+      {% set snapshot = latest.get(target.id) %}
+      <tr>
+        <td>
+          <span class="chip chip-{{ target.platform }}">
+            {{ 'Facebook' if target.platform == 'facebook' else 'Instagram' }}
+          </span>
+          {{ target.name }}
+        </td>
+        <td>
+          {{ STATUS_LABELS.get(target.status, target.status) }}
+          {% if target.error %}<br><small class="error-text">{{ target.error }}</small>{% endif %}
+        </td>
+        <td>{{ snapshot.views | num if snapshot else '—' }}</td>
+        <td>{{ snapshot.likes | num if snapshot else '—' }}</td>
+        <td>{{ snapshot.comments | num if snapshot else '—' }}</td>
+        <td>
+          {% if target.permalink %}
+          <a href="{{ target.permalink }}" target="_blank" rel="noopener">voir</a>
+          {% else %}—{% endif %}
+        </td>
+      </tr>
+    {% else %}
+      <tr><td colspan="6" class="muted">Aucun compte associé.</td></tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  {% if totals %}
+  <p class="muted">Dernier relevé cumulé : {{ totals.views | num }} vues ·
+  {{ totals.likes | num }} j'aime · {{ totals.comments | num }} commentaires ·
+  {{ totals.shares | num }} partages.</p>
+  {% endif %}
+</section>
+
+<section class="card">
+  <h2>Évolution</h2>
+  <p class="muted">Un relevé est pris à la publication puis toutes les six heures.
+  Chaque mesure garde son échelle : les vues et les commentaires ne se comparent pas.</p>
+  <div class="chart-grid">
+    {% for figure in figures %}{{ figure | safe }}{% endfor %}
+  </div>
+</section>
+
+<section class="card" id="groupes">
+  <h2>Partage dans les groupes Facebook</h2>
+  <p class="muted">Meta a fermé l'API des groupes en avril 2024 : plus aucun outil
+  ne peut y publier automatiquement. Le plus rapide reste de partager le post de
+  la Page — deux appuis par groupe, sans retaper le texte.</p>
+
+  {% if page_permalink %}
+  <p><a class="button secondary" href="{{ page_permalink }}" target="_blank" rel="noopener">
+    Ouvrir le post de la Page pour le partager</a></p>
+  {% elif publication.status in ('published', 'partial') %}
+  <p class="muted">Le lien du post de la Page apparaîtra après le prochain
+  rafraîchissement.</p>
+  {% else %}
+  <p class="muted">Publiez d'abord sur la Page : le partage part de ce post.</p>
+  {% endif %}
+
+  {% if shares %}
+  <ul class="group-list">
+    {% for share in shares %}
+    <li class="{{ 'done' if share.shared_at }}">
+      <form method="post" action="/publications/{{ publication.id }}/groups/{{ share.group_id }}">
+        <button type="submit" class="check-button" aria-pressed="{{ 'true' if share.shared_at else 'false' }}">
+          {{ '✓' if share.shared_at else '' }}
+        </button>
+        <span class="group-name">
+          {% if share.url %}
+          <a href="{{ share.url }}" target="_blank" rel="noopener">{{ share.name }}</a>
+          {% else %}{{ share.name }}{% endif %}
+        </span>
+        <input type="number" name="manual_views" min="0" placeholder="vues"
+               value="{{ share.manual_views if share.manual_views is not none else '' }}"
+               aria-label="Vues relevées à la main pour {{ share.name }}">
+        <span class="muted small">
+          {{ 'partagé le ' ~ share.shared_at | dt if share.shared_at else 'à faire' }}
+        </span>
+      </form>
+    </li>
+    {% endfor %}
+  </ul>
+  <p class="hint">Le champ « vues » est facultatif : Facebook ne communique aucun
+  chiffre de groupe à l'extérieur, à vous de le recopier si vous voulez le suivre.</p>
+  {% else %}
+  <p class="muted">Aucun groupe enregistré. Ajoutez-les dans les
+  <a href="/reglages">réglages</a>.</p>
+  {% endif %}
+</section>
+
+<form method="post" action="/publications/{{ publication.id }}/delete"
+      onsubmit="return confirm('Retirer cette publication du suivi ? Le post restera en ligne sur Facebook et Instagram.')">
+  <button type="submit" class="danger">Retirer du suivi</button>
+</form>
+{% endblock %}

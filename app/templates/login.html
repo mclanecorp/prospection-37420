@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% block title %}Connexion{% endblock %}
+{% block content %}
+<div class="login-card">
+  <h1>🎪 Publications du comité</h1>
+  <p class="muted">Entrez le mot de passe partagé entre les membres du comité.</p>
+  <form method="post" action="/login">
+    <label for="password">Mot de passe</label>
+    <input type="password" id="password" name="password" autocomplete="current-password" autofocus required>
+    <button type="submit" class="primary">Entrer</button>
+  </form>
+</div>
+{% endblock %}

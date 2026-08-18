@@ -1,0 +1,45 @@
+{% extends 'base.html' %}
+{% block title %}Nouveau post{% endblock %}
+{% block content %}
+<h1>Nouveau post</h1>
+
+{% if not accounts %}
+<p class="banner banner-warning">Aucun compte actif. Connectez la Page et
+l'Instagram dans les <a href="/reglages">réglages</a> avant de publier.</p>
+{% endif %}
+
+<form method="post" action="/compose" enctype="multipart/form-data" class="card compose-form">
+  <label for="message">Texte du post</label>
+  <textarea id="message" name="message" rows="8" placeholder="Samedi 12 septembre, brocante de la commune, place de la mairie dès 7 h…"></textarea>
+  <p class="hint" id="counter"></p>
+
+  <label for="images">Photos</label>
+  <input type="file" id="images" name="images" accept="image/jpeg,image/png,image/webp" multiple>
+  <p class="hint">JPEG, PNG ou WebP, 12 Mo maximum par photo. Plusieurs photos
+  donnent un album sur Facebook et un carrousel sur Instagram.
+  <strong>Instagram exige au moins une photo</strong> : un post texte seul part
+  uniquement sur Facebook.</p>
+
+  <fieldset>
+    <legend>Publier sur</legend>
+    {% for account in accounts %}
+    <label class="check">
+      <input type="checkbox" name="accounts" value="{{ account.id }}" checked>
+      <span class="chip chip-{{ account.platform }}">
+        {{ 'Facebook' if account.platform == 'facebook' else 'Instagram' }}
+      </span>
+      {{ account.name }}
+    </label>
+    {% endfor %}
+  </fieldset>
+
+  <label for="scheduled_at">Programmer (facultatif)</label>
+  <input type="datetime-local" id="scheduled_at" name="scheduled_at">
+  <p class="hint">Laissez vide pour publier tout de suite.</p>
+
+  <div class="actions">
+    <button type="submit" name="action" value="publish" class="primary">Publier</button>
+    <button type="submit" name="action" value="draft" class="secondary">Enregistrer en brouillon</button>
+  </div>
+</form>
+{% endblock %}

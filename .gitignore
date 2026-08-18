@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 /data/
 /reports/
+# Données locales de l'app : base SQLite, photos envoyées, secrets.
+/var/
+.env

@@ -1,4 +1,50 @@
-# Prospection locale multi-code-postal
+# Outils du comité
+
+Ce dépôt contient deux outils indépendants :
+
+- **Publication multi-réseaux** (`app/`) — publier un post sur la Page Facebook
+  et Instagram en une fois, suivre l'évolution des vues et des commentaires, et
+  garder la trace des partages en groupes. Voir [GUIDE.md](GUIDE.md) pour
+  l'installation pas à pas.
+- **Prospection par code postal** (`src/`) — collecte d'entreprises locales,
+  documentée ci-dessous.
+
+---
+
+## Publication multi-réseaux
+
+Une application web à héberger, utilisable depuis un téléphone, protégée par un
+mot de passe partagé entre les membres du comité.
+
+Ce qu'elle fait :
+- rédaction d'un post (texte + photos) publié d'un coup sur la **Page Facebook**
+  et **Instagram**, tout de suite ou à une date programmée ;
+- **tableau de bord** des vues, j'aime, commentaires et partages, avec une courbe
+  d'évolution par publication (relevé toutes les six heures) ;
+- **liste de partage** pour les groupes Facebook, à cocher au fur et à mesure.
+
+Ce qu'elle ne fait pas, et ne peut pas faire : publier automatiquement dans les
+groupes Facebook. Meta a supprimé l'API Groupes le 22 avril 2024 ; plus aucun
+outil n'en est capable. L'app assiste le partage manuel à la place.
+
+Démarrage rapide en mode simulation, sans aucune configuration Meta :
+
+```bash
+pip install -r requirements.txt
+DRY_RUN=1 APP_PASSWORD=test uvicorn app.main:app --port 8000
+```
+
+Puis <http://localhost:8000>. Rien n'est publié pour de vrai et les
+statistiques sont fictives : c'est fait pour prendre l'app en main.
+
+Configuration réelle, hébergement et connexion des comptes Meta :
+**[GUIDE.md](GUIDE.md)**.
+
+Tests : `python3 -m unittest tests.test_app -v`
+
+---
+
+## Prospection locale multi-code-postal
 
 Ce repo sert à collecter des entreprises locales par code postal pour de la prospection web.
 

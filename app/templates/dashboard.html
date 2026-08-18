@@ -1,0 +1,92 @@
+{% extends 'base.html' %}
+{% block title %}Publications{% endblock %}
+{% block content %}
+
+{% if account_count == 0 %}
+<section class="card empty-state">
+  <h1>Bienvenue 👋</h1>
+  <p>Aucun compte n'est encore connecté. Rendez-vous dans les
+  <a href="/reglages">réglages</a> pour relier la Page Facebook et le compte
+  Instagram du comité — c'est l'affaire de deux minutes.</p>
+</section>
+{% endif %}
+
+{% if recent %}
+<section class="stat-row" aria-label="Cumul des 30 derniers jours">
+  <div class="stat-tile">
+    <span class="stat-label">Vues (30 jours)</span>
+    <strong class="stat-value">{{ recent.views | num }}</strong>
+  </div>
+  <div class="stat-tile">
+    <span class="stat-label">J'aime</span>
+    <strong class="stat-value">{{ recent.likes | num }}</strong>
+  </div>
+  <div class="stat-tile">
+    <span class="stat-label">Commentaires</span>
+    <strong class="stat-value">{{ recent.comments | num }}</strong>
+  </div>
+  <div class="stat-tile">
+    <span class="stat-label">Partages</span>
+    <strong class="stat-value">{{ recent.shares | num }}</strong>
+  </div>
+</section>
+{% endif %}
+
+<div class="page-head">
+  <h1>Publications</h1>
+  <a class="button primary" href="/compose">Nouveau post</a>
+</div>
+
+{% if not rows %}
+<p class="muted">Rien pour l'instant. Créez votre premier post.</p>
+{% endif %}
+
+<ul class="post-list">
+{% for row in rows %}
+  <li class="post-card">
+    {% if row.thumbnail %}
+    <a href="/publications/{{ row.publication.id }}" class="thumb">
+      <img src="{{ row.thumbnail }}" alt="">
+    </a>
+    {% endif %}
+    <div class="post-body">
+      <div class="post-head">
+        <span class="badge badge-{{ row.publication.status }}">
+          {{ STATUS_LABELS.get(row.publication.status, row.publication.status) }}
+        </span>
+        <span class="muted">
+          {% if row.publication.published_at %}
+            Publié le {{ row.publication.published_at | dt }}
+          {% elif row.publication.scheduled_at %}
+            Prévu le {{ row.publication.scheduled_at | dt }}
+          {% else %}
+            Créé le {{ row.publication.created_at | dt }}
+          {% endif %}
+        </span>
+      </div>
+      <a href="/publications/{{ row.publication.id }}" class="post-text">
+        {{ row.publication.message[:180] or '(sans texte)' }}{% if row.publication.message|length > 180 %}…{% endif %}
+      </a>
+      <div class="post-meta">
+        {% for target in row.targets %}
+        <span class="chip chip-{{ target.platform }} chip-{{ target.status }}">
+          {{ 'Facebook' if target.platform == 'facebook' else 'Instagram' }}
+        </span>
+        {% endfor %}
+        {% if group_count %}
+        <span class="chip chip-groups">{{ row.shared_groups }}/{{ group_count }} groupes</span>
+        {% endif %}
+      </div>
+      {% if row.totals %}
+      <dl class="inline-stats">
+        <div><dt>Vues</dt><dd>{{ row.totals.views | num }}</dd></div>
+        <div><dt>J'aime</dt><dd>{{ row.totals.likes | num }}</dd></div>
+        <div><dt>Comm.</dt><dd>{{ row.totals.comments | num }}</dd></div>
+        <div><dt>Partages</dt><dd>{{ row.totals.shares | num }}</dd></div>
+      </dl>
+      {% endif %}
+    </div>
+  </li>
+{% endfor %}
+</ul>
+{% endblock %}
