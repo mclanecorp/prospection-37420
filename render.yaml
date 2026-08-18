@@ -1,0 +1,39 @@
+# Plan de déploiement Render. Depuis le tableau de bord Render :
+# New > Blueprint, puis choisir ce dépôt. Render lit ce fichier et crée
+# le service ; il reste à saisir les valeurs marquées sync: false.
+services:
+  - type: web
+    name: publications-comite
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    region: frankfurt
+    # Le plan gratuit met le service en veille au bout de 15 minutes et
+    # n'accepte pas de disque : les publications programmées ne partiraient
+    # pas et les statistiques ne seraient pas collectées.
+    plan: starter
+    healthCheckPath: /healthz
+    disk:
+      name: donnees
+      mountPath: /data
+      sizeGB: 1
+    envVars:
+      - key: VAR_DIR
+        value: /data
+      - key: TIMEZONE
+        value: Europe/Paris
+      - key: DRY_RUN
+        value: "0"
+      # Généré par Render, jamais à saisir ni à partager.
+      - key: SECRET_KEY
+        generateValue: true
+      # À remplir dans l'interface Render (Environment).
+      - key: APP_PASSWORD
+        sync: false
+      - key: META_APP_ID
+        sync: false
+      - key: META_APP_SECRET
+        sync: false
+      # À renseigner après le premier déploiement, avec l'adresse que
+      # Render attribue au service (https://…onrender.com).
+      - key: PUBLIC_BASE_URL
+        sync: false

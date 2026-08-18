@@ -82,8 +82,11 @@ La page **Réglages** de l'application affiche l'adresse exacte à recopier.
 ## Étape 6 — Installer l'application
 
 L'app a besoin de tourner en permanence (pour les publications programmées et la
-collecte des statistiques). Un tout petit serveur suffit : c'est de l'ordre de
-5 € par mois, parfois gratuit.
+collecte des statistiques).
+
+👉 **Pour un hébergement clé en main, suivez [DEPLOIEMENT.md](DEPLOIEMENT.md)** :
+tout y est détaillé clic par clic. La suite de cette section ne sert que si vous
+installez l'app vous-même sur votre propre serveur.
 
 ### Ce qu'il faut configurer
 

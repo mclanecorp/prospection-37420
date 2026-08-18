@@ -37,8 +37,9 @@ DRY_RUN=1 APP_PASSWORD=test uvicorn app.main:app --port 8000
 Puis <http://localhost:8000>. Rien n'est publié pour de vrai et les
 statistiques sont fictives : c'est fait pour prendre l'app en main.
 
-Configuration réelle, hébergement et connexion des comptes Meta :
-**[GUIDE.md](GUIDE.md)**.
+Mise en service :
+- **[DEPLOIEMENT.md](DEPLOIEMENT.md)** — mettre l'app en ligne (Render, pas à pas).
+- **[GUIDE.md](GUIDE.md)** — créer l'app Meta et connecter la Page et Instagram.
 
 Tests : `python3 -m unittest tests.test_app -v`
 
